@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-04T00:11:37-05:00",
-  "syncedAtEt": "Wed Nov 4, 2026 · 12:11 AM ET",
+  "syncedAt": "2026-11-04T00:30:54-05:00",
+  "syncedAtEt": "Wed Nov 4, 2026 · 12:30 AM ET",
   "kpis": {
-    "weeklyUsedPct": 19.1,
+    "weeklyUsedPct": 19.5,
     "resetEt": "Mon Nov 9 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -33,21 +33,60 @@
     }
   ],
   "usageTop": [
-    { "name": "iMarkets", "share": 43 },
-    { "name": "J.A.R.V.I.S", "share": 25 },
-    { "name": "ICT TradeBOT", "share": 10 },
-    { "name": "Fred", "share": 8 },
-    { "name": "Móvè", "share": 4 },
-    { "name": "Salem", "share": 3 },
-    { "name": "MILO", "share": 3 },
-    { "name": "JasonX", "share": 2 },
-    { "name": "Rick", "share": 1 },
-    { "name": "ERICH", "share": 1 }
+    {
+      "name": "iMarkets",
+      "share": 41
+    },
+    {
+      "name": "J.A.R.V.I.S",
+      "share": 27
+    },
+    {
+      "name": "ICT TradeBOT",
+      "share": 10
+    },
+    {
+      "name": "Fred",
+      "share": 8
+    },
+    {
+      "name": "Móvè",
+      "share": 4
+    },
+    {
+      "name": "Salem",
+      "share": 3
+    },
+    {
+      "name": "MILO",
+      "share": 3
+    },
+    {
+      "name": "JasonX",
+      "share": 2
+    },
+    {
+      "name": "Rick",
+      "share": 1
+    },
+    {
+      "name": "ERICH",
+      "share": 1
+    }
   ],
   "dayShare": [
-    { "day": "Mon Nov 2", "pct": 1 },
-    { "day": "Tue Nov 3", "pct": 86 },
-    { "day": "Wed Nov 4*", "pct": 13 }
+    {
+      "day": "Mon Nov 2",
+      "pct": 1
+    },
+    {
+      "day": "Tue Nov 3",
+      "pct": 86
+    },
+    {
+      "day": "Wed Nov 4*",
+      "pct": 13
+    }
   ],
   "bots": [
     {
@@ -59,8 +98,14 @@
       "lastSort": 2411,
       "work": "Building Crew Command Center; apartment watch + briefs running",
       "needs": "—",
-      "share": 25,
-      "routines": ["Apartment watch (~336/wk)", "Morning daily brief", "Weekday crew check", "Stay-on-track check-ins", "Browser Grok update"],
+      "share": 27,
+      "routines": [
+        "Apartment watch (~336/wk)",
+        "Morning daily brief",
+        "Weekday crew check",
+        "Stay-on-track check-ins",
+        "Browser Grok update"
+      ],
       "group": "core"
     },
     {
@@ -72,8 +117,14 @@
       "lastSort": 2008,
       "work": "NQ price watch skipping — no chart tab; red-folder warning sent",
       "needs": "Say \"reopen it\"",
-      "share": 43,
-      "routines": ["NQ price watch 15 min (~576/wk)", "Market-moving news alert", "News vs price divergence", "Forex Factory NQ watch", "Night-before red-folder"],
+      "share": 41,
+      "routines": [
+        "NQ price watch 15 min (~576/wk)",
+        "Market-moving news alert",
+        "News vs price divergence",
+        "Forex Factory NQ watch",
+        "Night-before red-folder"
+      ],
       "group": "core"
     },
     {
@@ -86,7 +137,13 @@
       "work": "Nightly ICT test + Lesson 20 sent; eval report blocked on Lucid/TradePath",
       "needs": "Lucid sign-in + TradePath Terms",
       "share": 10,
-      "routines": ["ChartingLens lesson + quiz", "Study bites", "Nightly ICT test 9 PM", "EOD eval report", "ICT social watch"],
+      "routines": [
+        "ChartingLens lesson + quiz",
+        "Study bites",
+        "Nightly ICT test 9 PM",
+        "EOD eval report",
+        "ICT social watch"
+      ],
       "group": "core"
     },
     {
@@ -99,7 +156,9 @@
       "work": "Evening free-stuff scan — drafting local pickups",
       "needs": "—",
       "share": 8,
-      "routines": ["Free stuff scan Vernon/Manchester (~49/wk)"],
+      "routines": [
+        "Free stuff scan Vernon/Manchester (~49/wk)"
+      ],
       "group": "ops"
     },
     {
@@ -112,7 +171,9 @@
       "work": "Work email debrief; new website quotes; booking follow-ups",
       "needs": "Draft approvals for pending client replies",
       "share": 4,
-      "routines": ["Client/business/capital email debrief (~25/wk)"],
+      "routines": [
+        "Client/business/capital email debrief (~25/wk)"
+      ],
       "group": "ops"
     },
     {
@@ -125,7 +186,10 @@
       "work": "Evening check-in sent; streaks awaiting reply",
       "needs": "Reply to nightly check-in",
       "share": 3,
-      "routines": ["Morning life brief", "Nightly check-in"],
+      "routines": [
+        "Morning life brief",
+        "Nightly check-in"
+      ],
       "group": "ops"
     },
     {
@@ -138,7 +202,9 @@
       "work": "No readable chat since Oct 20; morning warehouse listings still consuming usage",
       "needs": "—",
       "share": 3,
-      "routines": ["Morning warehouse listings (~55/wk)"],
+      "routines": [
+        "Morning warehouse listings (~55/wk)"
+      ],
       "group": "ops"
     },
     {
@@ -151,7 +217,10 @@
       "work": "Week 3 leg day card sent",
       "needs": "—",
       "share": 2,
-      "routines": ["5:30 AM workout check-in", "Post-workout log check"],
+      "routines": [
+        "5:30 AM workout check-in",
+        "Post-workout log check"
+      ],
       "group": "ops"
     },
     {
@@ -164,7 +233,9 @@
       "work": "Morning rental check — flagged a new area listing",
       "needs": "—",
       "share": 1,
-      "routines": ["Morning rental listing check"],
+      "routines": [
+        "Morning rental listing check"
+      ],
       "group": "ops"
     },
     {
@@ -177,7 +248,10 @@
       "work": "Finance debrief — insurance due Fri Nov 6; checking balance low",
       "needs": "Fund checking before Fri insurance",
       "share": 1,
-      "routines": ["Daily finance debrief", "Charge watch"],
+      "routines": [
+        "Daily finance debrief",
+        "Charge watch"
+      ],
       "group": "core"
     },
     {
@@ -384,7 +458,7 @@
       "lastSort": 2232,
       "work": "No readable work since setup",
       "needs": "—",
-      "share": null,
+      "share": 8,
       "routines": [],
       "group": "horror"
     },
@@ -533,9 +607,25 @@
     }
   ],
   "alerts": [
-    { "level": "danger", "bot": "iMarkets", "message": "Blocked — chart tab closed" },
-    { "level": "danger", "bot": "ICT TradeBOT", "message": "Blocked — Lucid/TradePath" },
-    { "level": "warn", "bot": "Salem", "message": "Stale — no readable chat since Oct 20" },
-    { "level": "warn", "bot": "The Ring", "message": "Pending approval — browser cleanup" }
+    {
+      "level": "danger",
+      "bot": "iMarkets",
+      "message": "Blocked — chart tab closed"
+    },
+    {
+      "level": "danger",
+      "bot": "ICT TradeBOT",
+      "message": "Blocked — Lucid/TradePath"
+    },
+    {
+      "level": "warn",
+      "bot": "Salem",
+      "message": "Stale — no readable chat since Oct 20"
+    },
+    {
+      "level": "warn",
+      "bot": "The Ring",
+      "message": "Pending approval — browser cleanup"
+    }
   ]
 }
