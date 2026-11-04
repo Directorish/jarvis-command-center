@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-04T00:30:54-05:00",
-  "syncedAtEt": "Wed Nov 4, 2026 · 12:30 AM ET",
+  "syncedAt": "2026-11-04T01:03:43-05:00",
+  "syncedAtEt": "Wed Nov 4, 2026 · 1:03 AM ET",
   "kpis": {
-    "weeklyUsedPct": 19.5,
+    "weeklyUsedPct": 19.8,
     "resetEt": "Mon Nov 9 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -39,11 +39,11 @@
     },
     {
       "name": "J.A.R.V.I.S",
-      "share": 27
+      "share": 28
     },
     {
       "name": "ICT TradeBOT",
-      "share": 10
+      "share": 9
     },
     {
       "name": "Fred",
@@ -98,7 +98,7 @@
       "lastSort": 2411,
       "work": "Building Crew Command Center; apartment watch + briefs running",
       "needs": "—",
-      "share": 27,
+      "share": 28,
       "routines": [
         "Apartment watch (~336/wk)",
         "Morning daily brief",
@@ -136,7 +136,7 @@
       "lastSort": 2100,
       "work": "Nightly ICT test + Lesson 20 sent; eval report blocked on Lucid/TradePath",
       "needs": "Lucid sign-in + TradePath Terms",
-      "share": 10,
+      "share": 9,
       "routines": [
         "ChartingLens lesson + quiz",
         "Study bites",
