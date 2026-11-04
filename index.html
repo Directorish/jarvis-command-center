@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#05070d" />
+  <meta name="description" content="J.A.R.V.I.S Crew Command Center — live crew telemetry HUD" />
+  <title>J.A.R.V.I.S Crew Command Center</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Orbitron:wght@500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='40' fill='%2300d1ff'/%3E%3Ccircle cx='50' cy='50' r='18' fill='%2305070d'/%3E%3Ccircle cx='50' cy='50' r='8' fill='%23eaffff'/%3E%3C/svg%3E" />
+</head>
+<body>
+  <div class="scanlines" aria-hidden="true"></div>
+  <div class="vignette" aria-hidden="true"></div>
+
+  <div class="app">
+    <header class="hud-frame hero">
+      <div class="hero-left">
+        <div class="reactor" id="reactor" aria-hidden="true">
+          <svg viewBox="0 0 100 100">
+            <defs>
+              <radialGradient id="core" cx="50%" cy="50%" r="50%">
+                <stop offset="0%" stop-color="#b8f7ff" />
+                <stop offset="45%" stop-color="#00d1ff" />
+                <stop offset="100%" stop-color="#05304a" />
+              </radialGradient>
+            </defs>
+            <circle cx="50" cy="50" r="46" fill="none" stroke="rgba(0,209,255,0.28)" stroke-width="1" />
+            <circle cx="50" cy="50" r="40" fill="none" stroke="rgba(0,209,255,0.12)" stroke-width="6" />
+            <g class="reactor-ring">
+              <path d="M50 12 A38 38 0 0 1 78 28" fill="none" stroke="#00d1ff" stroke-width="2" opacity="0.55" transform="rotate(0 50 50)" />
+              <path d="M50 12 A38 38 0 0 1 78 28" fill="none" stroke="#00d1ff" stroke-width="2" opacity="0.55" transform="rotate(60 50 50)" />
+              <path d="M50 12 A38 38 0 0 1 78 28" fill="none" stroke="#00d1ff" stroke-width="2" opacity="0.55" transform="rotate(120 50 50)" />
+              <path d="M50 12 A38 38 0 0 1 78 28" fill="none" stroke="#00d1ff" stroke-width="2" opacity="0.55" transform="rotate(180 50 50)" />
+              <path d="M50 12 A38 38 0 0 1 78 28" fill="none" stroke="#00d1ff" stroke-width="2" opacity="0.55" transform="rotate(240 50 50)" />
+              <path d="M50 12 A38 38 0 0 1 78 28" fill="none" stroke="#00d1ff" stroke-width="2" opacity="0.55" transform="rotate(300 50 50)" />
+            </g>
+            <g class="reactor-sweep">
+              <path d="M50 50 L50 8 A42 42 0 0 1 84 28 Z" fill="url(#core)" opacity="0.22" />
+              <line x1="50" y1="50" x2="50" y2="8" stroke="#00d1ff" stroke-width="1.5" />
+            </g>
+            <circle cx="50" cy="50" r="14" fill="url(#core)" />
+            <circle cx="50" cy="50" r="7" fill="#eaffff" opacity="0.9" />
+          </svg>
+        </div>
+        <div>
+          <div class="eyebrow">SYSTEMS ONLINE · CREW TELEMETRY</div>
+          <h1>J.A.R.V.I.S Crew Command Center</h1>
+          <p class="sub">Public HUD · auto-refresh every 60s · usage sync ~30 min</p>
+        </div>
+      </div>
+      <div class="hero-right">
+        <div class="label">LAST SYNC (ET)</div>
+        <div class="sync-time" id="syncTime">—</div>
+        <div class="link-status" id="linkStatus">◉ LINKING…</div>
+        <div class="stale-banner hidden" id="staleBanner">⚠ DATA STALE · &gt;45 MIN</div>
+      </div>
+    </header>
+
+    <section class="hud-frame attention" id="attentionPanel">
+      <div class="section-title warn">NEEDS YOUR ATTENTION · <span id="attentionCount">0</span> ITEMS</div>
+      <div id="attentionList" class="attention-list"></div>
+    </section>
+
+    <section class="kpi-grid" id="kpiGrid"></section>
+
+    <section class="charts-grid">
+      <div class="hud-frame chart-panel">
+        <div class="section-title">USAGE SHARE BY BOT · THIS WEEK</div>
+        <div id="usageChart" class="usage-chart"></div>
+      </div>
+      <div class="hud-frame chart-panel">
+        <div class="section-title">CREW HISTORY · KPI TREND</div>
+        <canvas id="historyChart" width="640" height="220" aria-label="History chart"></canvas>
+        <div class="muted tiny" id="historyCaption">One point appended per sync.</div>
+      </div>
+    </section>
+
+    <section class="hud-frame alerts-panel" id="alertsPanel">
+      <div class="section-title">ACTIVE ALERTS</div>
+      <div id="alertsList" class="alerts-list"></div>
+    </section>
+
+    <section class="hud-frame controls">
+      <div class="chip-row" id="filterRow"></div>
+      <div class="controls-bottom">
+        <div class="chip-row" id="sortRow"></div>
+        <input type="search" id="searchInput" placeholder="Filter bots…" autocomplete="off" />
+      </div>
+    </section>
+
+    <section class="bot-grid" id="botGrid"></section>
+
+    <footer class="footer">
+      PUBLIC SNAPSHOT — no private contacts, money amounts, or credentials.
+      Data refreshed by J.A.R.V.I.S · Client re-fetches <code>data/crew.json</code> every 60s.
+    </footer>
+  </div>
+
+  <aside class="drawer hidden" id="drawer" aria-hidden="true">
+    <div class="drawer-backdrop" id="drawerBackdrop"></div>
+    <div class="drawer-panel hud-frame" role="dialog" aria-modal="true" aria-labelledby="drawerTitle">
+      <button type="button" class="drawer-close" id="drawerClose" aria-label="Close">✕</button>
+      <div class="eyebrow" id="drawerStatus">STATUS</div>
+      <h2 id="drawerTitle">Bot</h2>
+      <p class="drawer-role" id="drawerRole"></p>
+      <div class="drawer-meta">
+        <div><span class="label">LAST ACTIVE</span><div id="drawerLast"></div></div>
+        <div><span class="label">USAGE SHARE</span><div id="drawerShare"></div></div>
+        <div><span class="label">GROUP</span><div id="drawerGroup"></div></div>
+      </div>
+      <div class="drawer-block">
+        <div class="label">CURRENT WORK</div>
+        <p id="drawerWork"></p>
+      </div>
+      <div class="drawer-block">
+        <div class="label">NEEDS ISMAEL</div>
+        <p id="drawerNeeds"></p>
+      </div>
+      <div class="drawer-block">
+        <div class="label">ROUTINES</div>
+        <ul id="drawerRoutines"></ul>
+      </div>
+    </div>
+  </aside>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
