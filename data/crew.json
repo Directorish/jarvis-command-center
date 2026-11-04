@@ -1,6 +1,6 @@
 {
-  "syncedAt": "2026-11-04T02:31:00-05:00",
-  "syncedAtEt": "Wed Nov 4, 2026 · 2:31 AM ET",
+  "syncedAt": "2026-11-04T03:08:54-05:00",
+  "syncedAtEt": "Wed Nov 4, 2026 · 3:08 AM ET",
   "kpis": {
     "weeklyUsedPct": 21,
     "resetEt": "Mon Nov 9 · 6:33 PM ET",
@@ -35,11 +35,11 @@
   "usageTop": [
     {
       "name": "iMarkets",
-      "share": 41
+      "share": 40
     },
     {
       "name": "J.A.R.V.I.S",
-      "share": 28
+      "share": 32
     },
     {
       "name": "ICT TradeBOT",
@@ -47,7 +47,7 @@
     },
     {
       "name": "Fred",
-      "share": 8
+      "share": 7
     },
     {
       "name": "Móvè",
@@ -59,11 +59,11 @@
     },
     {
       "name": "MILO",
-      "share": 3
+      "share": 2
     },
     {
       "name": "JasonX",
-      "share": 2
+      "share": 1
     },
     {
       "name": "Rick",
