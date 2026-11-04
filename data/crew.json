@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-04T15:34:48-05:00",
-  "syncedAtEt": "Wed Nov 4, 2026 · 3:34 PM ET",
+  "syncedAt": "2026-11-04T16:05:18-05:00",
+  "syncedAtEt": "Wed Nov 4, 2026 · 4:05 PM ET",
   "kpis": {
-    "weeklyUsedPct": 30.8,
+    "weeklyUsedPct": 31.1,
     "resetEt": "Mon Nov 9 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,11 +35,11 @@
   "usageTop": [
     {
       "name": "iMarkets",
-      "share": 38
+      "share": 35
     },
     {
       "name": "J.A.R.V.I.S",
-      "share": 32
+      "share": 35
     },
     {
       "name": "ICT TradeBOT",
@@ -54,16 +54,16 @@
       "share": 4
     },
     {
+      "name": "Salem",
+      "share": 4
+    },
+    {
       "name": "Rick",
       "share": 3
     },
     {
-      "name": "Salem",
-      "share": 3
-    },
-    {
       "name": "JasonX",
-      "share": 3
+      "share": 2
     },
     {
       "name": "MILO",
@@ -98,7 +98,7 @@
       "lastSort": 2411,
       "work": "Building Crew Command Center; apartment watch + briefs running",
       "needs": "—",
-      "share": 28,
+      "share": 35,
       "routines": [
         "Apartment watch (~336/wk)",
         "Morning daily brief",
@@ -117,7 +117,7 @@
       "lastSort": 2008,
       "work": "NQ price watch skipping — no chart tab; red-folder warning sent",
       "needs": "Say \"reopen it\"",
-      "share": 41,
+      "share": 35,
       "routines": [
         "NQ price watch 15 min (~576/wk)",
         "Market-moving news alert",
@@ -155,7 +155,7 @@
       "lastSort": 2032,
       "work": "Evening free-stuff scan — drafting local pickups",
       "needs": "—",
-      "share": 8,
+      "share": 6,
       "routines": [
         "Free stuff scan Vernon/Manchester (~49/wk)"
       ],
@@ -185,7 +185,7 @@
       "lastSort": 2112,
       "work": "Evening check-in sent; streaks awaiting reply",
       "needs": "Reply to nightly check-in",
-      "share": 3,
+      "share": 2,
       "routines": [
         "Morning life brief",
         "Nightly check-in"
@@ -201,7 +201,7 @@
       "lastSort": 1020,
       "work": "No readable chat since Oct 20; morning warehouse listings still consuming usage",
       "needs": "—",
-      "share": 3,
+      "share": 4,
       "routines": [
         "Morning warehouse listings (~55/wk)"
       ],
@@ -232,7 +232,7 @@
       "lastSort": 725,
       "work": "Morning rental check — flagged a new area listing",
       "needs": "—",
-      "share": 1,
+      "share": 3,
       "routines": [
         "Morning rental listing check"
       ],
@@ -458,7 +458,7 @@
       "lastSort": 2232,
       "work": "No readable work since setup",
       "needs": "—",
-      "share": 8,
+      "share": 6,
       "routines": [],
       "group": "horror"
     },
