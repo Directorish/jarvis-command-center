@@ -3,106 +3,296 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-  <meta name="theme-color" content="#05070d" />
-  <meta name="description" content="J.A.R.V.I.S Crew Command Center — live crew telemetry HUD" />
-  <title>J.A.R.V.I.S Crew Command Center</title>
+  <meta name="theme-color" content="#001220" />
+  <meta name="description" content="J.A.R.V.I.S. Command Center — crew telemetry HUD" />
+  <title>J.A.R.V.I.S. Command Center</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Orbitron:wght@500;600;700&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Exo+2:wght@400;500;600;700&family=Rajdhani:wght@400;500;600;700&family=Share+Tech+Mono&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="css/styles.css" />
-  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='40' fill='%2300d1ff'/%3E%3Ccircle cx='50' cy='50' r='18' fill='%2305070d'/%3E%3Ccircle cx='50' cy='50' r='8' fill='%23eaffff'/%3E%3C/svg%3E" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='42' fill='none' stroke='%2300AEEF' stroke-width='4'/%3E%3Ccircle cx='50' cy='50' r='18' fill='%2300AEEF'/%3E%3Ccircle cx='50' cy='50' r='8' fill='%23eaffff'/%3E%3C/svg%3E" />
 </head>
 <body>
   <div class="scanlines" aria-hidden="true"></div>
-  <div class="vignette" aria-hidden="true"></div>
+  <div class="grid-bg" aria-hidden="true"></div>
 
   <div class="app">
-    <header class="hud-frame hero">
-      <div class="hero-left">
-        <div class="reactor" id="reactor" aria-hidden="true">
-          <svg viewBox="0 0 100 100">
-            <defs>
-              <radialGradient id="core" cx="50%" cy="50%" r="50%">
-                <stop offset="0%" stop-color="#b8f7ff" />
-                <stop offset="45%" stop-color="#00d1ff" />
-                <stop offset="100%" stop-color="#05304a" />
-              </radialGradient>
-            </defs>
-            <circle cx="50" cy="50" r="46" fill="none" stroke="rgba(0,209,255,0.28)" stroke-width="1" />
-            <circle cx="50" cy="50" r="40" fill="none" stroke="rgba(0,209,255,0.12)" stroke-width="6" />
-            <g class="reactor-ring">
-              <path d="M50 12 A38 38 0 0 1 78 28" fill="none" stroke="#00d1ff" stroke-width="2" opacity="0.55" transform="rotate(0 50 50)" />
-              <path d="M50 12 A38 38 0 0 1 78 28" fill="none" stroke="#00d1ff" stroke-width="2" opacity="0.55" transform="rotate(60 50 50)" />
-              <path d="M50 12 A38 38 0 0 1 78 28" fill="none" stroke="#00d1ff" stroke-width="2" opacity="0.55" transform="rotate(120 50 50)" />
-              <path d="M50 12 A38 38 0 0 1 78 28" fill="none" stroke="#00d1ff" stroke-width="2" opacity="0.55" transform="rotate(180 50 50)" />
-              <path d="M50 12 A38 38 0 0 1 78 28" fill="none" stroke="#00d1ff" stroke-width="2" opacity="0.55" transform="rotate(240 50 50)" />
-              <path d="M50 12 A38 38 0 0 1 78 28" fill="none" stroke="#00d1ff" stroke-width="2" opacity="0.55" transform="rotate(300 50 50)" />
-            </g>
-            <g class="reactor-sweep">
-              <path d="M50 50 L50 8 A42 42 0 0 1 84 28 Z" fill="url(#core)" opacity="0.22" />
-              <line x1="50" y1="50" x2="50" y2="8" stroke="#00d1ff" stroke-width="1.5" />
-            </g>
-            <circle cx="50" cy="50" r="14" fill="url(#core)" />
-            <circle cx="50" cy="50" r="7" fill="#eaffff" opacity="0.9" />
+    <!-- ========== HEADER ========== -->
+    <header class="topbar panel">
+      <div class="topbar-left">
+        <div class="logo-mark" aria-hidden="true">
+          <svg viewBox="0 0 48 48">
+            <polygon points="24,4 44,40 4,40" fill="none" stroke="#00AEEF" stroke-width="2.5"/>
+            <circle cx="24" cy="28" r="7" fill="#00AEEF" opacity="0.85"/>
+            <circle cx="24" cy="28" r="3" fill="#eaffff"/>
           </svg>
         </div>
-        <div>
-          <div class="eyebrow">SYSTEMS ONLINE · CREW TELEMETRY</div>
-          <h1>J.A.R.V.I.S Crew Command Center</h1>
-          <p class="sub">Public HUD · auto-refresh every 60s · usage sync ~30 min</p>
+        <div class="logo-text">
+          <div class="logo-title">J.A.R.V.I.S. COMMAND CENTER</div>
+          <div class="logo-sub">CREW TELEMETRY · PUBLIC HUD</div>
         </div>
       </div>
-      <div class="hero-right">
-        <div class="label">LAST SYNC (ET)</div>
-        <div class="sync-time" id="syncTime">—</div>
-        <div class="link-status" id="linkStatus">◉ LINKING…</div>
-        <div class="stale-banner hidden" id="staleBanner">⚠ DATA STALE · &gt;45 MIN</div>
+
+      <div class="topbar-clock" id="liveClock">—</div>
+
+      <nav class="topbar-nav" aria-label="Sections">
+        <button type="button" class="nav-tab active" data-view="command">Command Center</button>
+        <button type="button" class="nav-tab" data-view="core">AI CORE</button>
+        <button type="button" class="nav-tab" data-view="roster">CREW</button>
+        <button type="button" class="nav-tab" data-view="alerts">ALERTS</button>
+      </nav>
+
+      <div class="topbar-right">
+        <div class="sys-pill" id="sysPill">
+          <span class="sys-dot"></span>
+          <span id="sysPillText">LINKING…</span>
+        </div>
+        <div class="stale-banner hidden" id="staleBanner">DATA STALE · &gt;45 MIN</div>
+        <div class="topbar-icons" aria-hidden="true">
+          <span class="icon-btn" title="Attention">
+            <svg viewBox="0 0 24 24" width="16" height="16"><path fill="currentColor" d="M12 22a2 2 0 0 0 2-2h-4a2 2 0 0 0 2 2zm6-6V11a6 6 0 1 0-12 0v5l-2 2v1h16v-1l-2-2z"/></svg>
+            <span class="badge" id="attnBadge">0</span>
+          </span>
+        </div>
+        <div class="commander">
+          <div class="commander-avatar" aria-hidden="true">IS</div>
+          <div class="commander-meta">
+            <div class="commander-name">Commander Ismael</div>
+            <div class="commander-role">CEO · Manchester Movers</div>
+          </div>
+        </div>
       </div>
     </header>
 
-    <section class="hud-frame attention" id="attentionPanel">
-      <div class="section-title warn">NEEDS YOUR ATTENTION · <span id="attentionCount">0</span> ITEMS</div>
-      <div id="attentionList" class="attention-list"></div>
-    </section>
+    <!-- ========== MAIN GRID ========== -->
+    <main class="main-grid">
+      <!-- LEFT COLUMN -->
+      <aside class="col col-left">
+        <section class="panel panel-bevel">
+          <div class="panel-head">
+            <span class="ph-title">SYSTEM OVERVIEW</span>
+            <span class="ph-meta" id="syncMeta">SYNC —</span>
+          </div>
+          <div class="overview-body">
+            <div class="overview-metrics" id="overviewMetrics"></div>
+            <div class="health-gauge" id="healthGauge">
+              <svg viewBox="0 0 140 140" class="gauge-svg">
+                <defs>
+                  <linearGradient id="gaugeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+                    <stop offset="0%" stop-color="#00AEEF"/>
+                    <stop offset="100%" stop-color="#00ffcc"/>
+                  </linearGradient>
+                </defs>
+                <circle class="gauge-track" cx="70" cy="70" r="56" />
+                <circle class="gauge-fill" id="gaugeFill" cx="70" cy="70" r="56" />
+              </svg>
+              <div class="gauge-label">
+                <div class="gauge-pct" id="gaugePct">—</div>
+                <div class="gauge-caption">CREW HEALTH</div>
+              </div>
+            </div>
+          </div>
+        </section>
 
-    <section class="kpi-grid" id="kpiGrid"></section>
+        <section class="panel panel-bevel">
+          <div class="panel-head">
+            <span class="ph-title">CONNECTED SERVICES</span>
+            <span class="ph-meta ok" id="servicesOnline">— ONLINE</span>
+          </div>
+          <ul class="device-list" id="deviceList"></ul>
+        </section>
 
-    <section class="charts-grid">
-      <div class="hud-frame chart-panel">
-        <div class="section-title">USAGE SHARE BY BOT · THIS WEEK</div>
-        <div id="usageChart" class="usage-chart"></div>
+        <section class="panel panel-bevel">
+          <div class="panel-head">
+            <span class="ph-title">UPCOMING SCHEDULE</span>
+            <span class="ph-meta">ROUTINES</span>
+          </div>
+          <ul class="schedule-list" id="scheduleList"></ul>
+        </section>
+
+        <section class="panel panel-bevel alerts-panel">
+          <div class="panel-head">
+            <span class="ph-title warn">IMPORTANT ALERTS</span>
+            <span class="ph-meta" id="alertCount">0</span>
+          </div>
+          <ul class="alert-list" id="alertList"></ul>
+        </section>
+      </aside>
+
+      <!-- CENTER COLUMN -->
+      <section class="col col-center">
+        <div class="panel panel-bevel core-panel">
+          <div class="core-stage">
+            <div class="mark85" id="mark85"></div>
+            <div class="hologram" aria-hidden="true">
+              <div class="holo-rings">
+                <div class="ring r1"></div>
+                <div class="ring r2"></div>
+                <div class="ring r3"></div>
+                <div class="ring r4"></div>
+              </div>
+              <div class="holo-globe">
+                <div class="globe-grid"></div>
+                <div class="globe-core"></div>
+              </div>
+              <div class="holo-orbit o1"></div>
+              <div class="holo-orbit o2"></div>
+              <div class="holo-base">
+                <svg viewBox="0 0 320 40" preserveAspectRatio="none">
+                  <path d="M0 30 Q80 5 160 20 T320 10" fill="none" stroke="rgba(0,174,239,0.45)" stroke-width="1.5"/>
+                  <path d="M0 35 Q100 15 160 28 T320 18" fill="none" stroke="rgba(255,140,40,0.35)" stroke-width="1"/>
+                </svg>
+              </div>
+            </div>
+            <div class="core-caption">
+              <div class="core-name">JARVIS AI CORE</div>
+              <div class="core-ver">v.CREW · <span id="coreBotCount">0</span> BOTS ONLINE</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="panel panel-bevel voice-panel">
+          <div class="panel-head">
+            <span class="ph-title">AI CORE VOICE</span>
+            <span class="ph-meta" id="voiceState">STANDBY</span>
+          </div>
+          <div class="voice-body">
+            <div class="arc-reactor" aria-hidden="true">
+              <svg viewBox="0 0 80 80">
+                <defs>
+                  <radialGradient id="arcCore" cx="50%" cy="50%" r="50%">
+                    <stop offset="0%" stop-color="#eaffff"/>
+                    <stop offset="40%" stop-color="#00AEEF"/>
+                    <stop offset="100%" stop-color="#003a5c"/>
+                  </radialGradient>
+                </defs>
+                <circle cx="40" cy="40" r="36" fill="none" stroke="rgba(0,174,239,0.35)" stroke-width="2"/>
+                <circle cx="40" cy="40" r="28" fill="none" stroke="rgba(0,174,239,0.2)" stroke-width="6"/>
+                <g class="arc-spin">
+                  <path d="M40 8 A32 32 0 0 1 64 24" fill="none" stroke="#00AEEF" stroke-width="2" opacity="0.7"/>
+                  <path d="M40 8 A32 32 0 0 1 64 24" fill="none" stroke="#00AEEF" stroke-width="2" opacity="0.7" transform="rotate(120 40 40)"/>
+                  <path d="M40 8 A32 32 0 0 1 64 24" fill="none" stroke="#00AEEF" stroke-width="2" opacity="0.7" transform="rotate(240 40 40)"/>
+                </g>
+                <circle cx="40" cy="40" r="12" fill="url(#arcCore)"/>
+                <circle cx="40" cy="40" r="5" fill="#eaffff"/>
+              </svg>
+            </div>
+            <div class="waveform" id="waveform" role="link" tabindex="0" title="Opens J.A.R.V.I.S in the Grok Bot app" aria-label="Opens J.A.R.V.I.S in the Grok Bot app"></div>
+            <div class="voice-states">
+              <div class="vstate active" data-s="listening"><span class="pulse"></span>LISTENING</div>
+              <div class="vstate" data-s="thinking">THINKING</div>
+              <div class="vstate" data-s="planning">PLANNING</div>
+              <div class="vstate" data-s="executing">EXECUTING</div>
+            </div>
+          </div>
+          <p class="voice-note">Waveform · <a href="grokbot://app/v1/agent?id=70d061f7-4244-4dd4-b915-852c30735a5a">Opens J.A.R.V.I.S in the Grok Bot app</a></p>
+        </div>
+
+        <div class="panel panel-bevel history-panel">
+          <div class="panel-head">
+            <span class="ph-title">USAGE TREND</span>
+            <span class="ph-meta" id="historyCaption">—</span>
+          </div>
+          <canvas id="historyChart" width="640" height="160" aria-label="Usage history"></canvas>
+        </div>
+      </section>
+
+      <!-- RIGHT COLUMN -->
+      <aside class="col col-right">
+        <section class="panel panel-bevel">
+          <div class="panel-head">
+            <span class="ph-title">ACTIVE TASKS</span>
+            <span class="ph-meta" id="activeTaskCount">0</span>
+          </div>
+          <div class="task-list" id="activeTasks"></div>
+        </section>
+
+        <section class="panel panel-bevel">
+          <div class="panel-head">
+            <span class="ph-title">CURRENT OPERATIONS</span>
+          </div>
+          <div class="ops-list" id="currentOps"></div>
+        </section>
+
+        <section class="panel panel-bevel needs-panel">
+          <div class="panel-head">
+            <span class="ph-title danger">NEEDS YOU</span>
+            <span class="ph-meta" id="needsCount">0</span>
+          </div>
+          <div class="needs-list" id="needsList"></div>
+        </section>
+
+        <section class="panel panel-bevel">
+          <div class="panel-head">
+            <span class="ph-title">RIGHT NOW</span>
+          </div>
+          <div class="rightnow" id="rightNow"></div>
+        </section>
+
+        <section class="panel panel-bevel">
+          <div class="panel-head">
+            <span class="ph-title">QUICK ACTIONS</span>
+          </div>
+          <div class="quick-actions">
+            <a class="qa-btn primary" href="grokbot://app/v1/agent?id=70d061f7-4244-4dd4-b915-852c30735a5a">VOICE COMMAND</a>
+            <button type="button" class="qa-btn" data-filter="active">VIEW ACTIVE</button>
+            <button type="button" class="qa-btn" data-filter="blocked">VIEW BLOCKED</button>
+            <button type="button" class="qa-btn" data-filter="needs">NEEDS YOU</button>
+          </div>
+          <p class="deep-link-note">Voice Command · Opens J.A.R.V.I.S in the Grok Bot app</p>
+        </section>
+
+        <section class="panel panel-bevel">
+          <div class="panel-head">
+            <span class="ph-title">CREW ROSTER</span>
+            <span class="ph-meta" id="rosterMeta">—</span>
+          </div>
+          <div class="roster-filter">
+            <input type="search" id="searchInput" placeholder="Filter bots…" autocomplete="off" />
+          </div>
+          <ul class="roster-list" id="rosterList"></ul>
+        </section>
+
+        <section class="panel panel-bevel emergency-panel">
+          <div class="panel-head">
+            <span class="ph-title danger">EMERGENCY</span>
+          </div>
+          <div class="emergency-actions">
+            <button type="button" class="em-btn stop" id="btnFocusBlocked" title="Jump to blocked bots">FOCUS BLOCKED</button>
+            <button type="button" class="em-btn control" id="btnFocusNeeds" title="Jump to needs-you items">TAKE CONTROL</button>
+          </div>
+          <p class="em-note">Decorative controls · filters the roster below. No remote actions.</p>
+        </section>
+      </aside>
+    </main>
+
+    <!-- ========== FOOTER ========== -->
+    <footer class="footerbar panel">
+      <div class="fb-left">
+        <span>JARVIS OS · CREW HUD</span>
+        <span class="sep">|</span>
+        <span id="fbSync">Last sync —</span>
+        <span class="sep">|</span>
+        <span id="fbLink">LINK…</span>
       </div>
-      <div class="hud-frame chart-panel">
-        <div class="section-title">CREW HISTORY · KPI TREND</div>
-        <canvas id="historyChart" width="640" height="220" aria-label="History chart"></canvas>
-        <div class="muted tiny" id="historyCaption">One point appended per sync.</div>
+      <div class="fb-center">
+        <div class="mini-wave" aria-hidden="true"></div>
+        <a class="talk-btn" id="talkBtn" href="grokbot://app/v1/agent?id=70d061f7-4244-4dd4-b915-852c30735a5a" title="Opens J.A.R.V.I.S in the Grok Bot app">TALK TO JARVIS</a>
+        <div class="mini-wave" aria-hidden="true"></div>
       </div>
-    </section>
-
-    <section class="hud-frame alerts-panel" id="alertsPanel">
-      <div class="section-title">ACTIVE ALERTS</div>
-      <div id="alertsList" class="alerts-list"></div>
-    </section>
-
-    <section class="hud-frame controls">
-      <div class="chip-row" id="filterRow"></div>
-      <div class="controls-bottom">
-        <div class="chip-row" id="sortRow"></div>
-        <input type="search" id="searchInput" placeholder="Filter bots…" autocomplete="off" />
+      <div class="fb-right">
+        <span class="fb-toggle">Auto-refresh <strong>ON</strong> · 60s</span>
+        <span class="sep">|</span>
+        <span class="fb-toggle">Public data only</span>
       </div>
-    </section>
-
-    <section class="bot-grid" id="botGrid"></section>
-
-    <footer class="footer">
-      PUBLIC SNAPSHOT — no private contacts, money amounts, or credentials.
-      Data refreshed by J.A.R.V.I.S · Client re-fetches <code>data/crew.json</code> every 60s.
+      <div class="fb-note">TALK TO JARVIS · Opens J.A.R.V.I.S in the Grok Bot app</div>
     </footer>
   </div>
 
+  <!-- DETAIL DRAWER -->
   <aside class="drawer hidden" id="drawer" aria-hidden="true">
     <div class="drawer-backdrop" id="drawerBackdrop"></div>
-    <div class="drawer-panel hud-frame" role="dialog" aria-modal="true" aria-labelledby="drawerTitle">
+    <div class="drawer-panel panel panel-bevel" role="dialog" aria-modal="true" aria-labelledby="drawerTitle">
       <button type="button" class="drawer-close" id="drawerClose" aria-label="Close">✕</button>
       <div class="eyebrow" id="drawerStatus">STATUS</div>
       <h2 id="drawerTitle">Bot</h2>
