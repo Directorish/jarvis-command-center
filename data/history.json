@@ -350,6 +350,15 @@
       "blocked": 2,
       "needsYou": 5,
       "quietIdle": 28
+    },
+    {
+      "t": "2026-11-04T20:03:28-05:00",
+      "et": "Nov 4 8:03 PM",
+      "weeklyUsedPct": 33,
+      "active": 7,
+      "blocked": 2,
+      "needsYou": 5,
+      "quietIdle": 28
     }
   ]
 }
