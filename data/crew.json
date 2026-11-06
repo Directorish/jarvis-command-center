@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-05T20:04:17-05:00",
-  "syncedAtEt": "Thu Nov 5, 2026 \u00b7 8:04 PM ET",
+  "syncedAt": "2026-11-05T20:36:07-05:00",
+  "syncedAtEt": "Thu Nov 5, 2026 \u00b7 8:36 PM ET",
   "kpis": {
-    "weeklyUsedPct": 41.8,
+    "weeklyUsedPct": 42.0,
     "resetEt": "Mon Nov 9 \u00b7 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,22 +35,22 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 37
+      "share": 45
     },
     {
       "name": "iMarkets",
-      "share": 34
-    },
-    {
-      "name": "ICT TradeBOT",
-      "share": 7
-    },
-    {
-      "name": "Fred",
-      "share": 6
+      "share": 26
     },
     {
       "name": "M\u00f3v\u00e8",
+      "share": 6
+    },
+    {
+      "name": "ICT TradeBOT",
+      "share": 6
+    },
+    {
+      "name": "Fred",
       "share": 5
     },
     {
@@ -58,15 +58,15 @@
       "share": 4
     },
     {
+      "name": "MILO",
+      "share": 2
+    },
+    {
       "name": "Rick",
       "share": 2
     },
     {
       "name": "JasonX",
-      "share": 2
-    },
-    {
-      "name": "MILO",
       "share": 2
     },
     {
@@ -81,11 +81,19 @@
     },
     {
       "day": "Tue Nov 3",
-      "pct": 50
+      "pct": 39
     },
     {
-      "day": "Wed Nov 4*",
-      "pct": 49
+      "day": "Wed Nov 4",
+      "pct": 40
+    },
+    {
+      "day": "Thu Nov 5*",
+      "pct": 19
+    },
+    {
+      "day": "Fri Nov 6",
+      "pct": 1
     }
   ],
   "bots": [
@@ -94,11 +102,11 @@
       "name": "J.A.R.V.I.S \u00b7 C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "8:04 PM ET",
-      "lastSort": 2004,
+      "lastEt": "8:36 PM ET",
+      "lastSort": 2036,
       "work": "Command center + apartment watch; morning briefs and check-ins running",
       "needs": "\u2014",
-      "share": 37,
+      "share": 45,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -118,7 +126,7 @@
       "lastSort": 2008,
       "work": "NQ price watch skipping \u2014 no chart tab; red-folder warning sent",
       "needs": "Say \"reopen it\"",
-      "share": 34,
+      "share": 26,
       "routines": [
         "NQ price watch 15 min (~576/wk)",
         "Market-moving news alert",
@@ -137,7 +145,7 @@
       "lastSort": 2100,
       "work": "Nightly ICT test + Lesson 20 sent; eval report blocked on Lucid/TradePath",
       "needs": "Lucid sign-in + TradePath Terms",
-      "share": 7,
+      "share": 6,
       "routines": [
         "ChartingLens lesson + quiz",
         "Study bites",
@@ -156,7 +164,7 @@
       "lastSort": 2032,
       "work": "Evening free-stuff scan \u2014 drafting local pickups",
       "needs": "\u2014",
-      "share": 6,
+      "share": 5,
       "routines": [
         "Free stuff scan Vernon/Manchester (~49/wk)"
       ],
@@ -171,7 +179,7 @@
       "lastSort": 1814,
       "work": "Work email debrief; new website quotes; booking follow-ups",
       "needs": "Draft approvals for pending client replies",
-      "share": 5,
+      "share": 6,
       "routines": [
         "Client/business/capital email debrief (~25/wk)"
       ],
