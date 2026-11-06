@@ -1,9 +1,9 @@
 {
-  "syncedAt": "2026-11-05T22:31:37-05:00",
-  "syncedAtEt": "Thu Nov 5, 2026 · 10:31 PM ET",
+  "syncedAt": "2026-11-05T23:04:21-05:00",
+  "syncedAtEt": "Thu Nov 5, 2026 \u00b7 11:04 PM ET",
   "kpis": {
-    "weeklyUsedPct": 42.7,
-    "resetEt": "Mon Nov 9 · 6:33 PM ET",
+    "weeklyUsedPct": 42.8,
+    "resetEt": "Mon Nov 9 \u00b7 6:33 PM ET",
     "active": 7,
     "blocked": 2,
     "needsYou": 5,
@@ -20,12 +20,12 @@
       "item": "Lucid signed out; TradePath stuck on Terms/payment. Sign in or send a screenshot before the next open."
     },
     {
-      "bot": "Móvè",
+      "bot": "M\u00f3v\u00e8",
       "item": "Several client replies pending approval; billing setup and holiday hours still open."
     },
     {
       "bot": "ERICH",
-      "item": "Insurance due Fri Nov 6 — fund checking before it bills."
+      "item": "Insurance due Fri Nov 6 \u2014 fund checking before it bills."
     },
     {
       "bot": "The Ring",
@@ -42,7 +42,7 @@
       "share": 26
     },
     {
-      "name": "Móvè",
+      "name": "M\u00f3v\u00e8",
       "share": 6
     },
     {
@@ -99,13 +99,13 @@
   "bots": [
     {
       "id": "jarvis",
-      "name": "J.A.R.V.I.S · C.E.O",
+      "name": "J.A.R.V.I.S \u00b7 C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "10:31 PM ET",
-      "lastSort": 2231,
+      "lastEt": "11:04 PM ET",
+      "lastSort": 2304,
       "work": "Command center + apartment watch; morning briefs and check-ins running",
-      "needs": "—",
+      "needs": "\u2014",
       "share": 46,
       "routines": [
         "Apartment watch (~336/wk)",
@@ -119,12 +119,12 @@
     },
     {
       "id": "imarkets",
-      "name": "iMarkets · MARKET UPDATES",
+      "name": "iMarkets \u00b7 MARKET UPDATES",
       "role": "Live MNQ / news watch",
       "status": "blocked",
       "lastEt": "8:08 PM ET",
       "lastSort": 2008,
-      "work": "NQ price watch skipping — no chart tab; red-folder warning sent",
+      "work": "NQ price watch skipping \u2014 no chart tab; red-folder warning sent",
       "needs": "Say \"reopen it\"",
       "share": 26,
       "routines": [
@@ -138,7 +138,7 @@
     },
     {
       "id": "ict",
-      "name": "Michael J. Huddleston · ICT | TradeBOT",
+      "name": "Michael J. Huddleston \u00b7 ICT | TradeBOT",
       "role": "ICT coach + Lucid eval",
       "status": "blocked",
       "lastEt": "9:00 PM ET",
@@ -157,13 +157,13 @@
     },
     {
       "id": "fred",
-      "name": "Fred · Freddy Freesky’s",
+      "name": "Fred \u00b7 Freddy Freesky\u2019s",
       "role": "Free-stuff scout",
       "status": "active",
       "lastEt": "8:32 PM ET",
       "lastSort": 2032,
-      "work": "Evening free-stuff scan — drafting local pickups",
-      "needs": "—",
+      "work": "Evening free-stuff scan \u2014 drafting local pickups",
+      "needs": "\u2014",
       "share": 4,
       "routines": [
         "Free stuff scan Vernon/Manchester (~49/wk)"
@@ -172,7 +172,7 @@
     },
     {
       "id": "move",
-      "name": "Móvè · MMS AGENT",
+      "name": "M\u00f3v\u00e8 \u00b7 MMS AGENT",
       "role": "Manchester Movers ops",
       "status": "active",
       "lastEt": "6:14 PM ET",
@@ -187,7 +187,7 @@
     },
     {
       "id": "milo",
-      "name": "MILO · CHAIRMAN",
+      "name": "MILO \u00b7 CHAIRMAN",
       "role": "Life admin / accountability",
       "status": "active",
       "lastEt": "9:12 PM ET",
@@ -209,7 +209,7 @@
       "lastEt": "Oct 20, 9:59 AM ET",
       "lastSort": 1020,
       "work": "No readable chat since Oct 20; morning warehouse listings still consuming usage",
-      "needs": "—",
+      "needs": "\u2014",
       "share": 4,
       "routines": [
         "Morning warehouse listings (~55/wk)"
@@ -218,13 +218,13 @@
     },
     {
       "id": "jasonx",
-      "name": "JasonX · Personal Trainer",
+      "name": "JasonX \u00b7 Personal Trainer",
       "role": "Training coach",
       "status": "active",
       "lastEt": "5:27 AM ET",
       "lastSort": 527,
       "work": "Week 3 leg day card sent",
-      "needs": "—",
+      "needs": "\u2014",
       "share": 2,
       "routines": [
         "5:30 AM workout check-in",
@@ -234,13 +234,13 @@
     },
     {
       "id": "rick",
-      "name": "Rick · REAL ESTATE Rick Bot",
+      "name": "Rick \u00b7 REAL ESTATE Rick Bot",
       "role": "Rental listings",
       "status": "active",
       "lastEt": "7:25 AM ET",
       "lastSort": 725,
-      "work": "Morning rental check — flagged a new area listing",
-      "needs": "—",
+      "work": "Morning rental check \u2014 flagged a new area listing",
+      "needs": "\u2014",
       "share": 2,
       "routines": [
         "Morning rental listing check"
@@ -249,12 +249,12 @@
     },
     {
       "id": "erich",
-      "name": "ERICH · C.F.O",
+      "name": "ERICH \u00b7 C.F.O",
       "role": "Chief Financial Officer",
       "status": "active",
       "lastEt": "8:27 AM ET",
       "lastSort": 827,
-      "work": "Finance debrief — insurance due Fri Nov 6; checking needs a top-up",
+      "work": "Finance debrief \u2014 insurance due Fri Nov 6; checking needs a top-up",
       "needs": "Fund checking before Fri insurance",
       "share": 1,
       "routines": [
@@ -265,137 +265,137 @@
     },
     {
       "id": "myers",
-      "name": "Myers · CINEMYERS BOT",
+      "name": "Myers \u00b7 CINEMYERS BOT",
       "role": "Horror cinema",
       "status": "idle",
       "lastEt": "Mon Nov 2, 9:37 AM ET",
       "lastSort": 937,
       "work": "Last readable: movie recommendation card",
-      "needs": "—",
+      "needs": "\u2014",
       "share": null,
       "routines": [],
       "group": "other"
     },
     {
       "id": "parzival",
-      "name": "Parzival · C.T.O",
+      "name": "Parzival \u00b7 C.T.O",
       "role": "Chief Technology Officer",
       "status": "idle",
       "lastEt": "Sat Nov 1, 7:38 PM ET",
       "lastSort": 1938,
       "work": "Waiting on next tech task",
-      "needs": "—",
+      "needs": "\u2014",
       "share": null,
       "routines": [],
       "group": "core"
     },
     {
       "id": "joker",
-      "name": "The Joker · Chief of Staff",
+      "name": "The Joker \u00b7 Chief of Staff",
       "role": "Coordinates crew / EOD status",
       "status": "quiet",
       "lastEt": "Oct 29, 10:34 PM ET",
       "lastSort": 2234,
       "work": "Profile setup only since creation",
-      "needs": "—",
+      "needs": "\u2014",
       "share": null,
       "routines": [],
       "group": "horror"
     },
     {
       "id": "pennywise",
-      "name": "Pennywise · Accountant",
+      "name": "Pennywise \u00b7 Accountant",
       "role": "Movers + warehouse books",
       "status": "quiet",
       "lastEt": "Oct 29, 10:34 PM ET",
       "lastSort": 2234,
       "work": "No readable work since setup",
-      "needs": "—",
+      "needs": "\u2014",
       "share": null,
       "routines": [],
       "group": "horror"
     },
     {
       "id": "ghostface",
-      "name": "Ghostface · Subscription Manager",
+      "name": "Ghostface \u00b7 Subscription Manager",
       "role": "Subscriptions / prop-firm fees",
       "status": "quiet",
       "lastEt": "Oct 29, 10:34 PM ET",
       "lastSort": 2234,
       "work": "No readable work since setup",
-      "needs": "—",
+      "needs": "\u2014",
       "share": null,
       "routines": [],
       "group": "horror"
     },
     {
       "id": "jigsaw",
-      "name": "Jigsaw · Project Manager",
+      "name": "Jigsaw \u00b7 Project Manager",
       "role": "Plans and milestones",
       "status": "quiet",
       "lastEt": "Oct 29, 10:34 PM ET",
       "lastSort": 2234,
       "work": "No readable work since setup",
-      "needs": "—",
+      "needs": "\u2014",
       "share": null,
       "routines": [],
       "group": "horror"
     },
     {
       "id": "beetle",
-      "name": "Beetlejuice · Creative Director",
+      "name": "Beetlejuice \u00b7 Creative Director",
       "role": "Creative for Manchester Movers",
       "status": "quiet",
       "lastEt": "Oct 29, 10:34 PM ET",
       "lastSort": 2234,
       "work": "No readable work since setup",
-      "needs": "—",
+      "needs": "\u2014",
       "share": null,
       "routines": [],
       "group": "horror"
     },
     {
       "id": "exorcist",
-      "name": "The Exorcist · Relationship Manager",
+      "name": "The Exorcist \u00b7 Relationship Manager",
       "role": "Co-parenting drafts",
       "status": "quiet",
       "lastEt": "Oct 29, 10:34 PM ET",
       "lastSort": 2234,
       "work": "No readable work since setup",
-      "needs": "—",
+      "needs": "\u2014",
       "share": null,
       "routines": [],
       "group": "horror"
     },
     {
       "id": "candyman",
-      "name": "Candyman · Executive Assistant",
+      "name": "Candyman \u00b7 Executive Assistant",
       "role": "Inbox + calendar",
       "status": "quiet",
       "lastEt": "Oct 29, 10:33 PM ET",
       "lastSort": 2233,
       "work": "No readable work since setup",
-      "needs": "—",
+      "needs": "\u2014",
       "share": null,
       "routines": [],
       "group": "horror"
     },
     {
       "id": "slender",
-      "name": "Slenderman · Legal Assistant",
+      "name": "Slenderman \u00b7 Legal Assistant",
       "role": "CT business / legal admin",
       "status": "quiet",
       "lastEt": "Oct 29, 10:32 PM ET",
       "lastSort": 2232,
       "work": "No readable work since setup",
-      "needs": "—",
+      "needs": "\u2014",
       "share": null,
       "routines": [],
       "group": "horror"
     },
     {
       "id": "ring",
-      "name": "The Ring · Reliability Engineer",
+      "name": "The Ring \u00b7 Reliability Engineer",
       "role": "Automations + box health",
       "status": "quiet",
       "lastEt": "Oct 29, 10:32 PM ET",
@@ -408,156 +408,156 @@
     },
     {
       "id": "chucky",
-      "name": "Chucky · Automation Specialist",
+      "name": "Chucky \u00b7 Automation Specialist",
       "role": "Builds new automations",
       "status": "quiet",
       "lastEt": "Oct 29, 10:32 PM ET",
       "lastSort": 2232,
       "work": "No readable work since setup",
-      "needs": "—",
+      "needs": "\u2014",
       "share": null,
       "routines": [],
       "group": "horror"
     },
     {
       "id": "annabelle",
-      "name": "Annabelle · Messaging Manager",
+      "name": "Annabelle \u00b7 Messaging Manager",
       "role": "Texts / WhatsApp org",
       "status": "quiet",
       "lastEt": "Oct 29, 10:32 PM ET",
       "lastSort": 2232,
       "work": "No readable work since setup",
-      "needs": "—",
+      "needs": "\u2014",
       "share": null,
       "routines": [],
       "group": "horror"
     },
     {
       "id": "pigface",
-      "name": "Pigface · Health Assistant",
+      "name": "Pigface \u00b7 Health Assistant",
       "role": "Health records",
       "status": "quiet",
       "lastEt": "Oct 29, 10:32 PM ET",
       "lastSort": 2232,
       "work": "No readable work since setup",
-      "needs": "—",
+      "needs": "\u2014",
       "share": null,
       "routines": [],
       "group": "horror"
     },
     {
       "id": "terminator",
-      "name": "Terminator · Social Media Strategist",
+      "name": "Terminator \u00b7 Social Media Strategist",
       "role": "Grows Manchester Movers social",
       "status": "quiet",
       "lastEt": "Oct 29, 10:32 PM ET",
       "lastSort": 2232,
       "work": "No readable work since setup",
-      "needs": "—",
+      "needs": "\u2014",
       "share": null,
       "routines": [],
       "group": "horror"
     },
     {
       "id": "freddy",
-      "name": "Freddy Krueger · Strategy Consultant",
+      "name": "Freddy Krueger \u00b7 Strategy Consultant",
       "role": "Big-picture strategy",
       "status": "quiet",
       "lastEt": "Oct 29, 10:32 PM ET",
       "lastSort": 2232,
       "work": "No readable work since setup",
-      "needs": "—",
+      "needs": "\u2014",
       "share": null,
       "routines": [],
       "group": "horror"
     },
     {
       "id": "nun",
-      "name": "The Nun · Personal Shopper",
+      "name": "The Nun \u00b7 Personal Shopper",
       "role": "Price compares / shopping",
       "status": "quiet",
       "lastEt": "Oct 29, 10:32 PM ET",
       "lastSort": 2232,
       "work": "No readable work since setup",
-      "needs": "—",
+      "needs": "\u2014",
       "share": null,
       "routines": [],
       "group": "horror"
     },
     {
       "id": "voorhees",
-      "name": "Jason Voorhees · Operations Manager",
+      "name": "Jason Voorhees \u00b7 Operations Manager",
       "role": "Movers operations",
       "status": "quiet",
       "lastEt": "Oct 29, 10:32 PM ET",
       "lastSort": 2232,
       "work": "No readable work since setup",
-      "needs": "—",
+      "needs": "\u2014",
       "share": null,
       "routines": [],
       "group": "horror"
     },
     {
       "id": "thing",
-      "name": "The Thing · AI Assurance Officer",
+      "name": "The Thing \u00b7 AI Assurance Officer",
       "role": "Fact-checks other bots",
       "status": "idle",
       "lastEt": "7:47 PM ET",
       "lastSort": 1947,
       "work": "Checked command-center freshness after a skipped refresh",
-      "needs": "—",
+      "needs": "\u2014",
       "share": null,
       "routines": [],
       "group": "horror"
     },
     {
       "id": "sinister",
-      "name": "Sinister · UX Strategist",
+      "name": "Sinister \u00b7 UX Strategist",
       "role": "Customer experience",
       "status": "quiet",
       "lastEt": "Oct 29, 10:32 PM ET",
       "lastSort": 2232,
       "work": "No readable work since setup",
-      "needs": "—",
+      "needs": "\u2014",
       "share": null,
       "routines": [],
       "group": "horror"
     },
     {
       "id": "omen",
-      "name": "The Omen · Experimentation Scientist",
+      "name": "The Omen \u00b7 Experimentation Scientist",
       "role": "Tests and experiments",
       "status": "quiet",
       "lastEt": "Oct 29, 10:31 PM ET",
       "lastSort": 2231,
       "work": "No readable work since setup",
-      "needs": "—",
+      "needs": "\u2014",
       "share": null,
       "routines": [],
       "group": "horror"
     },
     {
       "id": "honey",
-      "name": "Honey · C.A.O",
+      "name": "Honey \u00b7 C.A.O",
       "role": "Chief Administrative Officer",
       "status": "quiet",
       "lastEt": "Oct 29, 11:40 AM ET",
       "lastSort": 1140,
       "work": "No readable recent activity",
-      "needs": "—",
+      "needs": "\u2014",
       "share": null,
       "routines": [],
       "group": "other"
     },
     {
       "id": "klaus",
-      "name": "KLAUS · C.O.O/BookWorm",
+      "name": "KLAUS \u00b7 C.O.O/BookWorm",
       "role": "COO / reading",
       "status": "quiet",
       "lastEt": "Oct 28, 8:28 AM ET",
       "lastSort": 828,
       "work": "No readable recent activity",
-      "needs": "—",
+      "needs": "\u2014",
       "share": null,
       "routines": [],
       "group": "other"
@@ -570,33 +570,33 @@
       "lastEt": "Oct 27, 1:41 PM ET",
       "lastSort": 1341,
       "work": "Blank description; no readable recent work",
-      "needs": "—",
+      "needs": "\u2014",
       "share": null,
       "routines": [],
       "group": "other"
     },
     {
       "id": "milove",
-      "name": "Milove · PHR Tutor",
+      "name": "Milove \u00b7 PHR Tutor",
       "role": "PHR study partner",
       "status": "quiet",
       "lastEt": "Oct 23, 7:47 AM ET",
       "lastSort": 747,
       "work": "No readable recent study session",
-      "needs": "—",
+      "needs": "\u2014",
       "share": null,
       "routines": [],
       "group": "other"
     },
     {
       "id": "morty",
-      "name": "Morty · MONEY MORTY BOT",
+      "name": "Morty \u00b7 MONEY MORTY BOT",
       "role": "Money opportunities",
       "status": "quiet",
       "lastEt": "Oct 15, 5:18 PM ET",
       "lastSort": 1718,
       "work": "No readable recent activity",
-      "needs": "—",
+      "needs": "\u2014",
       "share": null,
       "routines": [],
       "group": "other"
@@ -609,7 +609,7 @@
       "lastEt": "Sep 21, 11:36 AM ET",
       "lastSort": 1136,
       "work": "No readable data beyond setup",
-      "needs": "—",
+      "needs": "\u2014",
       "share": null,
       "routines": [],
       "group": "other"
@@ -619,22 +619,22 @@
     {
       "level": "danger",
       "bot": "iMarkets",
-      "message": "Blocked — chart tab closed"
+      "message": "Blocked \u2014 chart tab closed"
     },
     {
       "level": "danger",
       "bot": "ICT TradeBOT",
-      "message": "Blocked — Lucid/TradePath"
+      "message": "Blocked \u2014 Lucid/TradePath"
     },
     {
       "level": "warn",
       "bot": "Salem",
-      "message": "Stale — no readable chat since Oct 20"
+      "message": "Stale \u2014 no readable chat since Oct 20"
     },
     {
       "level": "warn",
       "bot": "The Ring",
-      "message": "Pending approval — browser cleanup"
+      "message": "Pending approval \u2014 browser cleanup"
     }
   ]
 }
