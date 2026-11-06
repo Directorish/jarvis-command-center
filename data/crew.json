@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-06T17:10:20-05:00",
-  "syncedAtEt": "Fri Nov 6, 2026 \u00b7 5:10 PM ET",
+  "syncedAt": "2026-11-06T17:38:39-05:00",
+  "syncedAtEt": "Fri Nov 6, 2026 \u00b7 5:38 PM ET",
   "kpis": {
-    "weeklyUsedPct": 51.3,
+    "weeklyUsedPct": 51.5,
     "resetEt": "Mon Nov 9 \u00b7 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -102,8 +102,8 @@
       "name": "J.A.R.V.I.S \u00b7 C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "5:10 PM ET",
-      "lastSort": 1710,
+      "lastEt": "5:38 PM ET",
+      "lastSort": 1738,
       "work": "Command center refresh; apartment watch clear",
       "needs": "\u2014",
       "share": 51,
@@ -272,7 +272,7 @@
       "lastSort": 937,
       "work": "Last readable: movie recommendation card",
       "needs": "\u2014",
-      "share": null,
+      "share": 1,
       "routines": [],
       "group": "other"
     },
