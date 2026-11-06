@@ -809,6 +809,15 @@
       "blocked": 2,
       "needsYou": 5,
       "quietIdle": 28
+    },
+    {
+      "t": "2026-11-06T00:08:17-05:00",
+      "et": "12:08 AM",
+      "weeklyUsedPct": 43.2,
+      "active": 7,
+      "blocked": 2,
+      "needsYou": 5,
+      "quietIdle": 28
     }
   ]
 }
