@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-06T21:05:32-05:00",
-  "syncedAtEt": "Fri Nov 6, 2026 · 9:05 PM ET",
+  "syncedAt": "2026-11-06T21:32:58-05:00",
+  "syncedAtEt": "Fri Nov 6, 2026 · 9:32 PM ET",
   "kpis": {
-    "weeklyUsedPct": 53.0,
+    "weeklyUsedPct": 53.3,
     "resetEt": "Mon Nov 9 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -106,8 +106,8 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "9:05 PM ET",
-      "lastSort": 2105,
+      "lastEt": "9:32 PM ET",
+      "lastSort": 2132,
       "work": "Command center refresh; apartment watch clear",
       "needs": "—",
       "share": 52,
