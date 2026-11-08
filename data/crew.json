@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-08T15:38:25-05:00",
-  "syncedAtEt": "Sun Nov 8, 2026 · 3:38 PM ET",
+  "syncedAt": "2026-11-08T16:10:09-05:00",
+  "syncedAtEt": "Sun Nov 8, 2026 · 4:10 PM ET",
   "kpis": {
-    "weeklyUsedPct": 71.9,
+    "weeklyUsedPct": 72.1,
     "resetEt": "Mon Nov 9 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,18 +35,14 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 52
+      "share": 56
     },
     {
       "name": "iMarkets",
-      "share": 21
+      "share": 15
     },
     {
       "name": "Móvè",
-      "share": 6
-    },
-    {
-      "name": "Salem",
       "share": 5
     },
     {
@@ -54,24 +50,28 @@
       "share": 4
     },
     {
-      "name": "Fred",
+      "name": "Rick",
       "share": 4
     },
     {
-      "name": "Rick",
-      "share": 2
+      "name": "Salem",
+      "share": 3
     },
     {
       "name": "MILO",
-      "share": 2
+      "share": 3
+    },
+    {
+      "name": "Fred",
+      "share": 3
     },
     {
       "name": "ERICH",
       "share": 2
     },
     {
-      "name": "JasonX",
-      "share": 1
+      "name": "KLAUS",
+      "share": 2
     }
   ],
   "dayShare": [
@@ -106,11 +106,11 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Sun Nov 8, 2026 · 1:04 PM ET",
-      "lastSort": "2026-11-08T13:04:02-05:00",
+      "lastEt": "Sun Nov 8, 2026 · 4:10 PM ET",
+      "lastSort": "2026-11-08T16:10:09-05:00",
       "work": "Command center refresh; apartment watch clear",
       "needs": "—",
-      "share": 52,
+      "share": 56,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -130,7 +130,7 @@
       "lastSort": 2008,
       "work": "NQ price watch skipping — no chart tab; red-folder warning sent",
       "needs": "Say \"reopen it\"",
-      "share": 21,
+      "share": 15,
       "routines": [
         "NQ price watch 15 min (~576/wk)",
         "Market-moving news alert",
@@ -168,7 +168,7 @@
       "lastSort": 2032,
       "work": "Evening free-stuff scan — drafting local pickups",
       "needs": "—",
-      "share": 4,
+      "share": 3,
       "routines": [
         "Free stuff scan Vernon/Manchester (~49/wk)"
       ],
@@ -183,7 +183,7 @@
       "lastSort": 1814,
       "work": "Work email debrief; new website quotes; booking follow-ups",
       "needs": "Draft approvals for pending client replies",
-      "share": 6,
+      "share": 5,
       "routines": [
         "Client/business/capital email debrief (~25/wk)"
       ],
@@ -198,7 +198,7 @@
       "lastSort": 2112,
       "work": "Evening check-in sent; streaks awaiting reply",
       "needs": "Reply to nightly check-in",
-      "share": 2,
+      "share": 3,
       "routines": [
         "Morning life brief",
         "Nightly check-in"
@@ -214,7 +214,7 @@
       "lastSort": 1020,
       "work": "No readable chat since Oct 20; morning warehouse listings still consuming usage",
       "needs": "—",
-      "share": 5,
+      "share": 3,
       "routines": [
         "Morning warehouse listings (~55/wk)"
       ],
@@ -245,7 +245,7 @@
       "lastSort": 725,
       "work": "Morning rental check — flagged a new area listing",
       "needs": "—",
-      "share": 2,
+      "share": 4,
       "routines": [
         "Morning rental listing check"
       ],
@@ -289,7 +289,7 @@
       "lastSort": 1938,
       "work": "Waiting on next tech task",
       "needs": "—",
-      "share": null,
+      "share": 1,
       "routines": [],
       "group": "core"
     },
@@ -562,7 +562,7 @@
       "lastSort": 828,
       "work": "No readable recent activity",
       "needs": "—",
-      "share": null,
+      "share": 2,
       "routines": [],
       "group": "other"
     },
