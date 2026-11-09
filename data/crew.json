@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-08T23:37:54-05:00",
-  "syncedAtEt": "Sun Nov 8, 2026 \u00b7 11:37 PM ET",
+  "syncedAt": "2026-11-09T00:05:03-05:00",
+  "syncedAtEt": "Mon Nov 9, 2026 \u00b7 12:05 AM ET",
   "kpis": {
-    "weeklyUsedPct": 75.9,
+    "weeklyUsedPct": 76,
     "resetEt": "Mon Nov 9 \u00b7 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -43,7 +43,7 @@
     },
     {
       "name": "MILO",
-      "share": 4
+      "share": 5
     },
     {
       "name": "M\u00f3v\u00e8",
@@ -106,8 +106,8 @@
       "name": "J.A.R.V.I.S \u00b7 C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Sun Nov 8, 2026 \u00b7 11:37 PM ET",
-      "lastSort": "2026-11-08T23:37:54-05:00",
+      "lastEt": "Mon Nov 9, 2026 \u00b7 12:05 AM ET",
+      "lastSort": "2026-11-09T00:05:03-05:00",
       "work": "Command center refresh; apartment watch clear",
       "needs": "\u2014",
       "share": 57,
@@ -198,7 +198,7 @@
       "lastSort": 2112,
       "work": "Evening check-in sent; streaks awaiting reply",
       "needs": "Reply to nightly check-in",
-      "share": 4,
+      "share": 5,
       "routines": [
         "Morning life brief",
         "Nightly check-in"
