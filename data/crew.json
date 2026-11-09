@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-09T02:03:49-05:00",
-  "syncedAtEt": "Mon Nov 9, 2026 \u00b7 2:03 AM ET",
+  "syncedAt": "2026-11-09T02:32:30-05:00",
+  "syncedAtEt": "Mon Nov 9, 2026 \u00b7 2:32 AM ET",
   "kpis": {
-    "weeklyUsedPct": 0.1,
+    "weeklyUsedPct": 0.2,
     "resetEt": "Mon Nov 9 \u00b7 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -40,28 +40,8 @@
   ],
   "dayShare": [
     {
-      "day": "Mon Nov 2",
-      "pct": 1
-    },
-    {
-      "day": "Tue Nov 3",
-      "pct": 32
-    },
-    {
-      "day": "Wed Nov 4",
-      "pct": 31
-    },
-    {
-      "day": "Thu Nov 5",
-      "pct": 19
-    },
-    {
-      "day": "Fri Nov 6",
-      "pct": 16
-    },
-    {
-      "day": "Sat Nov 7*",
-      "pct": 1
+      "day": "Mon Nov 9",
+      "pct": 100
     }
   ],
   "bots": [
@@ -70,8 +50,8 @@
       "name": "J.A.R.V.I.S \u00b7 C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Mon Nov 9, 2026 \u00b7 2:03 AM ET",
-      "lastSort": "2026-11-09T02:03:49-05:00",
+      "lastEt": "Mon Nov 9, 2026 \u00b7 2:32 AM ET",
+      "lastSort": "2026-11-09T02:32:30-05:00",
       "work": "Command center refresh; apartment watch clear",
       "needs": "\u2014",
       "share": 100,
