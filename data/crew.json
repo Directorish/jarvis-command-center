@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-09T01:39:07-05:00",
-  "syncedAtEt": "Mon Nov 9, 2026 \u00b7 1:39 AM ET",
+  "syncedAt": "2026-11-09T02:03:49-05:00",
+  "syncedAtEt": "Mon Nov 9, 2026 \u00b7 2:03 AM ET",
   "kpis": {
-    "weeklyUsedPct": 76.5,
+    "weeklyUsedPct": 0.1,
     "resetEt": "Mon Nov 9 \u00b7 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,43 +35,7 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 58
-    },
-    {
-      "name": "iMarkets",
-      "share": 14
-    },
-    {
-      "name": "MILO",
-      "share": 5
-    },
-    {
-      "name": "M\u00f3v\u00e8",
-      "share": 4
-    },
-    {
-      "name": "ICT TradeBOT",
-      "share": 4
-    },
-    {
-      "name": "Rick",
-      "share": 4
-    },
-    {
-      "name": "Salem",
-      "share": 3
-    },
-    {
-      "name": "Fred",
-      "share": 3
-    },
-    {
-      "name": "ERICH",
-      "share": 2
-    },
-    {
-      "name": "KLAUS",
-      "share": 1
+      "share": 100
     }
   ],
   "dayShare": [
@@ -106,11 +70,11 @@
       "name": "J.A.R.V.I.S \u00b7 C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Mon Nov 9, 2026 \u00b7 1:39 AM ET",
-      "lastSort": "2026-11-09T01:39:07-05:00",
+      "lastEt": "Mon Nov 9, 2026 \u00b7 2:03 AM ET",
+      "lastSort": "2026-11-09T02:03:49-05:00",
       "work": "Command center refresh; apartment watch clear",
       "needs": "\u2014",
-      "share": 58,
+      "share": 100,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -130,7 +94,7 @@
       "lastSort": 2008,
       "work": "NQ price watch skipping \u2014 no chart tab; red-folder warning sent",
       "needs": "Say \"reopen it\"",
-      "share": 14,
+      "share": 0,
       "routines": [
         "NQ price watch 15 min (~576/wk)",
         "Market-moving news alert",
@@ -149,7 +113,7 @@
       "lastSort": 2100,
       "work": "Nightly ICT test + Lesson 20 sent; eval report blocked on Lucid/TradePath",
       "needs": "Lucid sign-in + TradePath Terms",
-      "share": 4,
+      "share": 0,
       "routines": [
         "ChartingLens lesson + quiz",
         "Study bites",
@@ -168,7 +132,7 @@
       "lastSort": 2032,
       "work": "Evening free-stuff scan \u2014 drafting local pickups",
       "needs": "\u2014",
-      "share": 3,
+      "share": 0,
       "routines": [
         "Free stuff scan Vernon/Manchester (~49/wk)"
       ],
@@ -183,7 +147,7 @@
       "lastSort": 1814,
       "work": "Work email debrief; new website quotes; booking follow-ups",
       "needs": "Draft approvals for pending client replies",
-      "share": 4,
+      "share": 0,
       "routines": [
         "Client/business/capital email debrief (~25/wk)"
       ],
@@ -198,7 +162,7 @@
       "lastSort": 2112,
       "work": "Evening check-in sent; streaks awaiting reply",
       "needs": "Reply to nightly check-in",
-      "share": 5,
+      "share": 0,
       "routines": [
         "Morning life brief",
         "Nightly check-in"
@@ -214,7 +178,7 @@
       "lastSort": 1020,
       "work": "No readable chat since Oct 20; morning warehouse listings still consuming usage",
       "needs": "\u2014",
-      "share": 3,
+      "share": 0,
       "routines": [
         "Morning warehouse listings (~55/wk)"
       ],
@@ -229,7 +193,7 @@
       "lastSort": 527,
       "work": "Week 3 leg day card sent",
       "needs": "\u2014",
-      "share": 1,
+      "share": 0,
       "routines": [
         "5:30 AM workout check-in",
         "Post-workout log check"
@@ -245,7 +209,7 @@
       "lastSort": 725,
       "work": "Morning rental check \u2014 flagged a new area listing",
       "needs": "\u2014",
-      "share": 4,
+      "share": 0,
       "routines": [
         "Morning rental listing check"
       ],
@@ -260,7 +224,7 @@
       "lastSort": 827,
       "work": "Finance debrief \u2014 insurance due Fri Nov 6; checking needs a top-up",
       "needs": "Fund checking before Fri insurance",
-      "share": 2,
+      "share": 0,
       "routines": [
         "Daily finance debrief",
         "Charge watch"
@@ -276,7 +240,7 @@
       "lastSort": 937,
       "work": "Last readable: movie recommendation card",
       "needs": "\u2014",
-      "share": 1,
+      "share": 0,
       "routines": [],
       "group": "other"
     },
@@ -289,7 +253,7 @@
       "lastSort": 1938,
       "work": "Waiting on next tech task",
       "needs": "\u2014",
-      "share": 1,
+      "share": 0,
       "routines": [],
       "group": "core"
     },
@@ -562,7 +526,7 @@
       "lastSort": 828,
       "work": "No readable recent activity",
       "needs": "\u2014",
-      "share": 1,
+      "share": 0,
       "routines": [],
       "group": "other"
     },
