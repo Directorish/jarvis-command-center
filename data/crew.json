@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-08T18:35:32-05:00",
-  "syncedAtEt": "Sun Nov 8, 2026 \u00b7 6:35 PM ET",
+  "syncedAt": "2026-11-08T19:05:13-05:00",
+  "syncedAtEt": "Sun Nov 8, 2026 \u00b7 7:05 PM ET",
   "kpis": {
-    "weeklyUsedPct": 73.1,
+    "weeklyUsedPct": 74.1,
     "resetEt": "Mon Nov 9 \u00b7 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,7 +35,7 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 57
+      "share": 56
     },
     {
       "name": "iMarkets",
@@ -44,6 +44,10 @@
     {
       "name": "M\u00f3v\u00e8",
       "share": 5
+    },
+    {
+      "name": "MILO",
+      "share": 4
     },
     {
       "name": "ICT TradeBOT",
@@ -58,10 +62,6 @@
       "share": 3
     },
     {
-      "name": "MILO",
-      "share": 3
-    },
-    {
       "name": "Fred",
       "share": 3
     },
@@ -71,7 +71,7 @@
     },
     {
       "name": "KLAUS",
-      "share": 2
+      "share": 1
     }
   ],
   "dayShare": [
@@ -106,11 +106,11 @@
       "name": "J.A.R.V.I.S \u00b7 C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Sun Nov 8, 2026 \u00b7 6:35 PM ET",
-      "lastSort": "2026-11-08T18:35:32-05:00",
+      "lastEt": "Sun Nov 8, 2026 \u00b7 7:05 PM ET",
+      "lastSort": "2026-11-08T19:05:13-05:00",
       "work": "Command center refresh; apartment watch clear",
       "needs": "\u2014",
-      "share": 57,
+      "share": 56,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -198,7 +198,7 @@
       "lastSort": 2112,
       "work": "Evening check-in sent; streaks awaiting reply",
       "needs": "Reply to nightly check-in",
-      "share": 3,
+      "share": 4,
       "routines": [
         "Morning life brief",
         "Nightly check-in"
@@ -562,7 +562,7 @@
       "lastSort": 828,
       "work": "No readable recent activity",
       "needs": "\u2014",
-      "share": 2,
+      "share": 1,
       "routines": [],
       "group": "other"
     },
