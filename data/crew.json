@@ -1,9 +1,9 @@
 {
-  "syncedAt": "2026-11-09T18:04:15-05:00",
-  "syncedAtEt": "Mon Nov 9, 2026 · 6:04 PM ET",
+  "syncedAt": "2026-11-09T18:36:39-05:00",
+  "syncedAtEt": "Mon Nov 9, 2026 · 6:36 PM ET",
   "kpis": {
-    "weeklyUsedPct": 7.1,
-    "resetEt": "Mon Nov 9 · 6:33 PM ET",
+    "weeklyUsedPct": 0.1,
+    "resetEt": "Mon Nov 16 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
     "needsYou": 5,
@@ -35,27 +35,7 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 77
-    },
-    {
-      "name": "Salem",
-      "share": 7
-    },
-    {
-      "name": "Móvè",
-      "share": 6
-    },
-    {
-      "name": "Rick",
-      "share": 4
-    },
-    {
-      "name": "ERICH",
-      "share": 3
-    },
-    {
-      "name": "MILO",
-      "share": 3
+      "share": 100
     }
   ],
   "dayShare": [
@@ -70,11 +50,11 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Mon Nov 9, 2026 · 6:04 PM ET",
-      "lastSort": "2026-11-09T18:04:15-05:00",
+      "lastEt": "Mon Nov 9, 2026 · 6:36 PM ET",
+      "lastSort": "2026-11-09T18:36:39-05:00",
       "work": "Command center refresh",
       "needs": "—",
-      "share": 77,
+      "share": 100,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -147,7 +127,7 @@
       "lastSort": 1814,
       "work": "Work email debrief; new website quotes; booking follow-ups",
       "needs": "Draft approvals for pending client replies",
-      "share": 6,
+      "share": 0,
       "routines": [
         "Client/business/capital email debrief (~25/wk)"
       ],
@@ -162,7 +142,7 @@
       "lastSort": 2112,
       "work": "Evening check-in sent; streaks awaiting reply",
       "needs": "Reply to nightly check-in",
-      "share": 3,
+      "share": 0,
       "routines": [
         "Morning life brief",
         "Nightly check-in"
@@ -178,7 +158,7 @@
       "lastSort": 1020,
       "work": "No readable chat since Oct 20; morning warehouse listings still consuming usage",
       "needs": "—",
-      "share": 7,
+      "share": 0,
       "routines": [
         "Morning warehouse listings (~55/wk)"
       ],
@@ -209,7 +189,7 @@
       "lastSort": 725,
       "work": "Morning rental check — flagged a new area listing",
       "needs": "—",
-      "share": 4,
+      "share": 0,
       "routines": [
         "Morning rental listing check"
       ],
@@ -224,7 +204,7 @@
       "lastSort": 827,
       "work": "Finance debrief — insurance due Fri Nov 6; checking needs a top-up",
       "needs": "Fund checking before Fri insurance",
-      "share": 3,
+      "share": 0,
       "routines": [
         "Daily finance debrief",
         "Charge watch"
