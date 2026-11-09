@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-09T07:04:47-05:00",
-  "syncedAtEt": "Mon Nov 9, 2026 · 7:04 AM ET",
+  "syncedAt": "2026-11-09T07:38:39-05:00",
+  "syncedAtEt": "Mon Nov 9, 2026 · 7:38 AM ET",
   "kpis": {
-    "weeklyUsedPct": 1.5,
+    "weeklyUsedPct": 2.2,
     "resetEt": "Mon Nov 9 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,11 +35,19 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 92
+      "share": 74
+    },
+    {
+      "name": "Rick",
+      "share": 12
+    },
+    {
+      "name": "MILO",
+      "share": 9
     },
     {
       "name": "Móvè",
-      "share": 8
+      "share": 5
     }
   ],
   "dayShare": [
@@ -54,11 +62,11 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Mon Nov 9, 2026 · 7:04 AM ET",
-      "lastSort": "2026-11-09T07:04:47-05:00",
+      "lastEt": "Mon Nov 9, 2026 · 7:38 AM ET",
+      "lastSort": "2026-11-09T07:38:39-05:00",
       "work": "Command center refresh; apartment watch clear",
       "needs": "—",
-      "share": 92,
+      "share": 74,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -131,7 +139,7 @@
       "lastSort": 1814,
       "work": "Work email debrief; new website quotes; booking follow-ups",
       "needs": "Draft approvals for pending client replies",
-      "share": 8,
+      "share": 5,
       "routines": [
         "Client/business/capital email debrief (~25/wk)"
       ],
@@ -146,7 +154,7 @@
       "lastSort": 2112,
       "work": "Evening check-in sent; streaks awaiting reply",
       "needs": "Reply to nightly check-in",
-      "share": 0,
+      "share": 9,
       "routines": [
         "Morning life brief",
         "Nightly check-in"
@@ -193,7 +201,7 @@
       "lastSort": 725,
       "work": "Morning rental check — flagged a new area listing",
       "needs": "—",
-      "share": 0,
+      "share": 12,
       "routines": [
         "Morning rental listing check"
       ],
