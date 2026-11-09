@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-08T21:06:17-05:00",
-  "syncedAtEt": "Sun Nov 8, 2026 \u00b7 9:06 PM ET",
+  "syncedAt": "2026-11-08T21:34:29-05:00",
+  "syncedAtEt": "Sun Nov 8, 2026 \u00b7 9:34 PM ET",
   "kpis": {
-    "weeklyUsedPct": 74.9,
+    "weeklyUsedPct": 75.2,
     "resetEt": "Mon Nov 9 \u00b7 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -42,11 +42,11 @@
       "share": 15
     },
     {
-      "name": "M\u00f3v\u00e8",
+      "name": "MILO",
       "share": 5
     },
     {
-      "name": "MILO",
+      "name": "M\u00f3v\u00e8",
       "share": 4
     },
     {
@@ -106,8 +106,8 @@
       "name": "J.A.R.V.I.S \u00b7 C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Sun Nov 8, 2026 \u00b7 9:06 PM ET",
-      "lastSort": "2026-11-08T21:06:17-05:00",
+      "lastEt": "Sun Nov 8, 2026 \u00b7 9:34 PM ET",
+      "lastSort": "2026-11-08T21:34:29-05:00",
       "work": "Command center refresh; apartment watch clear",
       "needs": "\u2014",
       "share": 57,
@@ -183,7 +183,7 @@
       "lastSort": 1814,
       "work": "Work email debrief; new website quotes; booking follow-ups",
       "needs": "Draft approvals for pending client replies",
-      "share": 5,
+      "share": 4,
       "routines": [
         "Client/business/capital email debrief (~25/wk)"
       ],
@@ -198,7 +198,7 @@
       "lastSort": 2112,
       "work": "Evening check-in sent; streaks awaiting reply",
       "needs": "Reply to nightly check-in",
-      "share": 4,
+      "share": 5,
       "routines": [
         "Morning life brief",
         "Nightly check-in"
