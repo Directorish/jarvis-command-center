@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-09T06:08:28-05:00",
-  "syncedAtEt": "Mon Nov 9, 2026 · 6:08 AM ET",
+  "syncedAt": "2026-11-09T06:41:09-05:00",
+  "syncedAtEt": "Mon Nov 9, 2026 · 6:41 AM ET",
   "kpis": {
-    "weeklyUsedPct": 1.2,
+    "weeklyUsedPct": 1.4,
     "resetEt": "Mon Nov 9 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,7 +35,11 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 100
+      "share": 91
+    },
+    {
+      "name": "Móvè",
+      "share": 9
     }
   ],
   "dayShare": [
@@ -50,11 +54,11 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Mon Nov 9, 2026 · 6:08 AM ET",
-      "lastSort": "2026-11-09T06:08:28-05:00",
+      "lastEt": "Mon Nov 9, 2026 · 6:41 AM ET",
+      "lastSort": "2026-11-09T06:41:09-05:00",
       "work": "Command center refresh; apartment watch clear",
       "needs": "—",
-      "share": 100,
+      "share": 91,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -127,7 +131,7 @@
       "lastSort": 1814,
       "work": "Work email debrief; new website quotes; booking follow-ups",
       "needs": "Draft approvals for pending client replies",
-      "share": 0,
+      "share": 9,
       "routines": [
         "Client/business/capital email debrief (~25/wk)"
       ],
