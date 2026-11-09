@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-08T20:38:34-05:00",
-  "syncedAtEt": "Sun Nov 8, 2026 \u00b7 8:38 PM ET",
+  "syncedAt": "2026-11-08T21:06:17-05:00",
+  "syncedAtEt": "Sun Nov 8, 2026 \u00b7 9:06 PM ET",
   "kpis": {
-    "weeklyUsedPct": 74.8,
+    "weeklyUsedPct": 74.9,
     "resetEt": "Mon Nov 9 \u00b7 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -43,7 +43,7 @@
     },
     {
       "name": "M\u00f3v\u00e8",
-      "share": 4
+      "share": 5
     },
     {
       "name": "MILO",
@@ -106,8 +106,8 @@
       "name": "J.A.R.V.I.S \u00b7 C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Sun Nov 8, 2026 \u00b7 8:38 PM ET",
-      "lastSort": "2026-11-08T20:38:34-05:00",
+      "lastEt": "Sun Nov 8, 2026 \u00b7 9:06 PM ET",
+      "lastSort": "2026-11-08T21:06:17-05:00",
       "work": "Command center refresh; apartment watch clear",
       "needs": "\u2014",
       "share": 57,
@@ -183,7 +183,7 @@
       "lastSort": 1814,
       "work": "Work email debrief; new website quotes; booking follow-ups",
       "needs": "Draft approvals for pending client replies",
-      "share": 4,
+      "share": 5,
       "routines": [
         "Client/business/capital email debrief (~25/wk)"
       ],
