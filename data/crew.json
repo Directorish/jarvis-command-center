@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-09T13:06:05-05:00",
-  "syncedAtEt": "Mon Nov 9, 2026 · 1:06 PM ET",
+  "syncedAt": "2026-11-09T13:32:18-05:00",
+  "syncedAtEt": "Mon Nov 9, 2026 · 1:32 PM ET",
   "kpis": {
-    "weeklyUsedPct": 5.2,
+    "weeklyUsedPct": 5.4,
     "resetEt": "Mon Nov 9 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -42,11 +42,11 @@
       "share": 7
     },
     {
-      "name": "Rick",
+      "name": "Salem",
       "share": 5
     },
     {
-      "name": "Salem",
+      "name": "Rick",
       "share": 5
     },
     {
@@ -70,8 +70,8 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Mon Nov 9, 2026 · 1:06 PM ET",
-      "lastSort": "2026-11-09T13:06:05-05:00",
+      "lastEt": "Mon Nov 9, 2026 · 1:32 PM ET",
+      "lastSort": "2026-11-09T13:32:18-05:00",
       "work": "Command center refresh",
       "needs": "—",
       "share": 75,
