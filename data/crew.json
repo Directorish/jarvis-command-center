@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-10T08:10:14-05:00",
-  "syncedAtEt": "Tue Nov 10, 2026 · 8:10 AM ET",
+  "syncedAt": "2026-11-10T08:33:35-05:00",
+  "syncedAtEt": "Tue Nov 10, 2026 · 8:33 AM ET",
   "kpis": {
-    "weeklyUsedPct": 5.5,
+    "weeklyUsedPct": 6,
     "resetEt": "Mon Nov 16 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,33 +35,37 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 80
+      "share": 78
     },
     {
       "name": "ERICH",
-      "share": 7
-    },
-    {
-      "name": "Rick",
-      "share": 6
+      "share": 9
     },
     {
       "name": "MILO",
       "share": 5
     },
     {
+      "name": "Rick",
+      "share": 5
+    },
+    {
       "name": "Móvè",
       "share": 2
+    },
+    {
+      "name": "Salem",
+      "share": 1
     }
   ],
   "dayShare": [
     {
       "day": "Mon Nov 9",
-      "pct": 3
+      "pct": 2
     },
     {
       "day": "Tue Nov 10",
-      "pct": 97
+      "pct": 98
     }
   ],
   "bots": [
@@ -70,11 +74,11 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Tue Nov 10, 2026 · 8:10 AM ET",
-      "lastSort": "2026-11-10T08:10:14-05:00",
+      "lastEt": "Tue Nov 10, 2026 · 8:33 AM ET",
+      "lastSort": "2026-11-10T08:33:35-05:00",
       "work": "Command center refresh",
       "needs": "—",
-      "share": 80,
+      "share": 78,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -178,7 +182,7 @@
       "lastSort": 1020,
       "work": "No readable chat since Oct 20; morning warehouse listings still consuming usage",
       "needs": "—",
-      "share": 0,
+      "share": 1,
       "routines": [
         "Morning warehouse listings (~55/wk)"
       ],
@@ -209,7 +213,7 @@
       "lastSort": 725,
       "work": "Morning rental check — flagged a new area listing",
       "needs": "—",
-      "share": 6,
+      "share": 5,
       "routines": [
         "Morning rental listing check"
       ],
@@ -224,7 +228,7 @@
       "lastSort": 827,
       "work": "Finance debrief — insurance due Fri Nov 6; checking needs a top-up",
       "needs": "Fund checking before Fri insurance",
-      "share": 7,
+      "share": 9,
       "routines": [
         "Daily finance debrief",
         "Charge watch"
