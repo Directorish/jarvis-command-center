@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-10T01:33:57-05:00",
-  "syncedAtEt": "Tue Nov 10, 2026 \u00b7 1:33 AM ET",
+  "syncedAt": "2026-11-10T02:08:37-05:00",
+  "syncedAtEt": "Tue Nov 10, 2026 \u00b7 2:08 AM ET",
   "kpis": {
-    "weeklyUsedPct": 2.9,
+    "weeklyUsedPct": 3,
     "resetEt": "Mon Nov 16 \u00b7 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,11 +35,11 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 82
+      "share": 83
     },
     {
       "name": "ERICH",
-      "share": 14
+      "share": 13
     },
     {
       "name": "MILO",
@@ -62,11 +62,11 @@
       "name": "J.A.R.V.I.S \u00b7 C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Tue Nov 10, 2026 \u00b7 1:33 AM ET",
-      "lastSort": "2026-11-10T01:33:57-05:00",
+      "lastEt": "Tue Nov 10, 2026 \u00b7 2:08 AM ET",
+      "lastSort": "2026-11-10T02:08:37-05:00",
       "work": "Command center refresh",
       "needs": "\u2014",
-      "share": 82,
+      "share": 83,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -216,7 +216,7 @@
       "lastSort": 827,
       "work": "Finance debrief \u2014 insurance due Fri Nov 6; checking needs a top-up",
       "needs": "Fund checking before Fri insurance",
-      "share": 14,
+      "share": 13,
       "routines": [
         "Daily finance debrief",
         "Charge watch"
