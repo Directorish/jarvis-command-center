@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-10T02:08:37-05:00",
-  "syncedAtEt": "Tue Nov 10, 2026 \u00b7 2:08 AM ET",
+  "syncedAt": "2026-11-10T02:40:17-05:00",
+  "syncedAtEt": "Tue Nov 10, 2026 \u00b7 2:40 AM ET",
   "kpis": {
-    "weeklyUsedPct": 3,
+    "weeklyUsedPct": 3.2,
     "resetEt": "Mon Nov 16 \u00b7 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -49,11 +49,11 @@
   "dayShare": [
     {
       "day": "Mon Nov 9",
-      "pct": 5
+      "pct": 4
     },
     {
       "day": "Tue Nov 10",
-      "pct": 95
+      "pct": 96
     }
   ],
   "bots": [
@@ -62,8 +62,8 @@
       "name": "J.A.R.V.I.S \u00b7 C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Tue Nov 10, 2026 \u00b7 2:08 AM ET",
-      "lastSort": "2026-11-10T02:08:37-05:00",
+      "lastEt": "Tue Nov 10, 2026 \u00b7 2:40 AM ET",
+      "lastSort": "2026-11-10T02:40:17-05:00",
       "work": "Command center refresh",
       "needs": "\u2014",
       "share": 83,
