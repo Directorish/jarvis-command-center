@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-10T07:36:27-05:00",
-  "syncedAtEt": "Tue Nov 10, 2026 · 7:36 AM ET",
+  "syncedAt": "2026-11-10T08:10:14-05:00",
+  "syncedAtEt": "Tue Nov 10, 2026 · 8:10 AM ET",
   "kpis": {
-    "weeklyUsedPct": 5.2,
+    "weeklyUsedPct": 5.5,
     "resetEt": "Mon Nov 16 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,11 +35,11 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 78
+      "share": 80
     },
     {
       "name": "ERICH",
-      "share": 8
+      "share": 7
     },
     {
       "name": "Rick",
@@ -47,7 +47,7 @@
     },
     {
       "name": "MILO",
-      "share": 6
+      "share": 5
     },
     {
       "name": "Móvè",
@@ -57,11 +57,11 @@
   "dayShare": [
     {
       "day": "Mon Nov 9",
-      "pct": 2
+      "pct": 3
     },
     {
       "day": "Tue Nov 10",
-      "pct": 98
+      "pct": 97
     }
   ],
   "bots": [
@@ -70,11 +70,11 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Tue Nov 10, 2026 · 7:36 AM ET",
-      "lastSort": "2026-11-10T07:36:27-05:00",
+      "lastEt": "Tue Nov 10, 2026 · 8:10 AM ET",
+      "lastSort": "2026-11-10T08:10:14-05:00",
       "work": "Command center refresh",
       "needs": "—",
-      "share": 78,
+      "share": 80,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -162,7 +162,7 @@
       "lastSort": 2112,
       "work": "Evening check-in sent; streaks awaiting reply",
       "needs": "Reply to nightly check-in",
-      "share": 6,
+      "share": 5,
       "routines": [
         "Morning life brief",
         "Nightly check-in"
@@ -224,7 +224,7 @@
       "lastSort": 827,
       "work": "Finance debrief — insurance due Fri Nov 6; checking needs a top-up",
       "needs": "Fund checking before Fri insurance",
-      "share": 8,
+      "share": 7,
       "routines": [
         "Daily finance debrief",
         "Charge watch"
