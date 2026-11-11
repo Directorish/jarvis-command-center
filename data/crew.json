@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-11T07:16:20-05:00",
-  "syncedAtEt": "Wed Nov 11, 2026 \u00b7 7:16 AM ET",
+  "syncedAt": "2026-11-11T07:48:03-05:00",
+  "syncedAtEt": "Wed Nov 11, 2026 \u00b7 7:48 AM ET",
   "kpis": {
-    "weeklyUsedPct": 15.1,
+    "weeklyUsedPct": 15.6,
     "resetEt": "Mon Nov 16 \u00b7 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,7 +35,11 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 83
+      "share": 82
+    },
+    {
+      "name": "MILO",
+      "share": 4
     },
     {
       "name": "M\u00f3v\u00e8",
@@ -47,15 +51,11 @@
     },
     {
       "name": "Salem",
-      "share": 4
-    },
-    {
-      "name": "MILO",
       "share": 3
     },
     {
       "name": "Rick",
-      "share": 2
+      "share": 3
     }
   ],
   "dayShare": [
@@ -65,11 +65,11 @@
     },
     {
       "day": "Tue Nov 10",
-      "pct": 72
+      "pct": 70
     },
     {
       "day": "Wed Nov 11",
-      "pct": 27
+      "pct": 29
     }
   ],
   "bots": [
@@ -78,11 +78,11 @@
       "name": "J.A.R.V.I.S \u00b7 C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Wed Nov 11, 2026 \u00b7 7:16 AM ET",
-      "lastSort": "2026-11-11T07:16:20-05:00",
+      "lastEt": "Wed Nov 11, 2026 \u00b7 7:48 AM ET",
+      "lastSort": "2026-11-11T07:48:03-05:00",
       "work": "Command center refresh",
       "needs": "\u2014",
-      "share": 83,
+      "share": 82,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -170,7 +170,7 @@
       "lastSort": 2112,
       "work": "Evening check-in sent; streaks awaiting reply",
       "needs": "Reply to nightly check-in",
-      "share": 3,
+      "share": 4,
       "routines": [
         "Morning life brief",
         "Nightly check-in"
@@ -186,7 +186,7 @@
       "lastSort": 1020,
       "work": "No readable chat since Oct 20; morning warehouse listings still consuming usage",
       "needs": "\u2014",
-      "share": 4,
+      "share": 3,
       "routines": [
         "Morning warehouse listings (~55/wk)"
       ],
@@ -217,7 +217,7 @@
       "lastSort": 725,
       "work": "Morning rental check \u2014 flagged a new area listing",
       "needs": "\u2014",
-      "share": 2,
+      "share": 3,
       "routines": [
         "Morning rental listing check"
       ],
