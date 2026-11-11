@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-11T01:49:08-05:00",
-  "syncedAtEt": "Wed Nov 11, 2026 · 1:49 AM ET",
+  "syncedAt": "2026-11-11T02:13:31-05:00",
+  "syncedAtEt": "Wed Nov 11, 2026 · 2:13 AM ET",
   "kpis": {
-    "weeklyUsedPct": 13.3,
+    "weeklyUsedPct": 13.4,
     "resetEt": "Mon Nov 16 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,11 +35,11 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 81
+      "share": 82
     },
     {
       "name": "ERICH",
-      "share": 5
+      "share": 4
     },
     {
       "name": "Salem",
@@ -65,11 +65,11 @@
     },
     {
       "day": "Tue Nov 10",
-      "pct": 83
+      "pct": 82
     },
     {
       "day": "Wed Nov 11",
-      "pct": 16
+      "pct": 17
     }
   ],
   "bots": [
@@ -78,11 +78,11 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Wed Nov 11, 2026 · 1:49 AM ET",
-      "lastSort": "2026-11-11T01:49:08-05:00",
+      "lastEt": "Wed Nov 11, 2026 · 2:13 AM ET",
+      "lastSort": "2026-11-11T02:13:31-05:00",
       "work": "Command center refresh",
       "needs": "—",
-      "share": 81,
+      "share": 82,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -232,7 +232,7 @@
       "lastSort": 827,
       "work": "Finance debrief — insurance due Fri Nov 6; checking needs a top-up",
       "needs": "Fund checking before Fri insurance",
-      "share": 5,
+      "share": 4,
       "routines": [
         "Daily finance debrief",
         "Charge watch"
