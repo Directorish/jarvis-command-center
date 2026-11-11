@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-10T20:39:46-05:00",
-  "syncedAtEt": "Tue Nov 10, 2026 · 8:39 PM ET",
+  "syncedAt": "2026-11-10T21:18:00-05:00",
+  "syncedAtEt": "Tue Nov 10, 2026 · 9:18 PM ET",
   "kpis": {
-    "weeklyUsedPct": 11.6,
+    "weeklyUsedPct": 11.9,
     "resetEt": "Mon Nov 16 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,7 +35,7 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 80
+      "share": 79
     },
     {
       "name": "ERICH",
@@ -46,12 +46,12 @@
       "share": 5
     },
     {
-      "name": "Móvè",
+      "name": "MILO",
       "share": 4
     },
     {
-      "name": "MILO",
-      "share": 3
+      "name": "Móvè",
+      "share": 4
     },
     {
       "name": "Rick",
@@ -65,11 +65,11 @@
     },
     {
       "day": "Tue Nov 10",
-      "pct": 95
+      "pct": 93
     },
     {
       "day": "Wed Nov 11",
-      "pct": 4
+      "pct": 6
     }
   ],
   "bots": [
@@ -78,11 +78,11 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Tue Nov 10, 2026 · 8:39 PM ET",
-      "lastSort": "2026-11-10T20:39:46-05:00",
+      "lastEt": "Tue Nov 10, 2026 · 9:18 PM ET",
+      "lastSort": "2026-11-10T21:18:00-05:00",
       "work": "Command center refresh",
       "needs": "—",
-      "share": 80,
+      "share": 79,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -170,7 +170,7 @@
       "lastSort": 2112,
       "work": "Evening check-in sent; streaks awaiting reply",
       "needs": "Reply to nightly check-in",
-      "share": 3,
+      "share": 4,
       "routines": [
         "Morning life brief",
         "Nightly check-in"
