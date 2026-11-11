@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-11T12:41:11-05:00",
-  "syncedAtEt": "Wed Nov 11, 2026 · 12:41 PM ET",
+  "syncedAt": "2026-11-11T13:17:54-05:00",
+  "syncedAtEt": "Wed Nov 11, 2026 · 1:17 PM ET",
   "kpis": {
-    "weeklyUsedPct": 17.9,
+    "weeklyUsedPct": 18.1,
     "resetEt": "Mon Nov 16 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -38,15 +38,15 @@
       "share": 81
     },
     {
-      "name": "ERICH",
+      "name": "Salem",
       "share": 5
     },
     {
-      "name": "Móvè",
+      "name": "ERICH",
       "share": 4
     },
     {
-      "name": "Salem",
+      "name": "Móvè",
       "share": 4
     },
     {
@@ -78,8 +78,8 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Wed Nov 11, 2026 · 12:41 PM ET",
-      "lastSort": "2026-11-11T12:41:11-05:00",
+      "lastEt": "Wed Nov 11, 2026 · 1:17 PM ET",
+      "lastSort": "2026-11-11T13:17:54-05:00",
       "work": "Command center refresh",
       "needs": "—",
       "share": 81,
@@ -186,7 +186,7 @@
       "lastSort": 1020,
       "work": "No readable chat since Oct 20; morning warehouse listings still consuming usage",
       "needs": "—",
-      "share": 4,
+      "share": 5,
       "routines": [
         "Morning warehouse listings (~55/wk)"
       ],
@@ -232,7 +232,7 @@
       "lastSort": 827,
       "work": "Finance debrief — insurance due Fri Nov 6; checking needs a top-up",
       "needs": "Fund checking before Fri insurance",
-      "share": 5,
+      "share": 4,
       "routines": [
         "Daily finance debrief",
         "Charge watch"
