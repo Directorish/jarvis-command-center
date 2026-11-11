@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-11T06:11:54-05:00",
-  "syncedAtEt": "Wed Nov 11, 2026 \u00b7 6:11 AM ET",
+  "syncedAt": "2026-11-11T06:43:11-05:00",
+  "syncedAtEt": "Wed Nov 11, 2026 \u00b7 6:43 AM ET",
   "kpis": {
-    "weeklyUsedPct": 14.7,
+    "weeklyUsedPct": 15,
     "resetEt": "Mon Nov 16 \u00b7 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -38,11 +38,11 @@
       "share": 83
     },
     {
-      "name": "ERICH",
+      "name": "M\u00f3v\u00e8",
       "share": 4
     },
     {
-      "name": "M\u00f3v\u00e8",
+      "name": "ERICH",
       "share": 4
     },
     {
@@ -65,11 +65,11 @@
     },
     {
       "day": "Tue Nov 10",
-      "pct": 75
+      "pct": 73
     },
     {
       "day": "Wed Nov 11",
-      "pct": 24
+      "pct": 26
     }
   ],
   "bots": [
@@ -78,8 +78,8 @@
       "name": "J.A.R.V.I.S \u00b7 C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Wed Nov 11, 2026 \u00b7 6:11 AM ET",
-      "lastSort": "2026-11-11T06:11:54-05:00",
+      "lastEt": "Wed Nov 11, 2026 \u00b7 6:43 AM ET",
+      "lastSort": "2026-11-11T06:43:11-05:00",
       "work": "Command center refresh",
       "needs": "\u2014",
       "share": 83,
