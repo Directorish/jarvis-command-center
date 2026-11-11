@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-11T11:10:21-05:00",
-  "syncedAtEt": "Wed Nov 11, 2026 \u00b7 11:10 AM ET",
+  "syncedAt": "2026-11-11T11:44:45-05:00",
+  "syncedAtEt": "Wed Nov 11, 2026 \u00b7 11:44 AM ET",
   "kpis": {
-    "weeklyUsedPct": 17.3,
+    "weeklyUsedPct": 17.5,
     "resetEt": "Mon Nov 16 \u00b7 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,22 +35,22 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 81
+      "share": 82
     },
     {
       "name": "ERICH",
-      "share": 5
+      "share": 4
     },
     {
       "name": "M\u00f3v\u00e8",
       "share": 4
     },
     {
-      "name": "MILO",
+      "name": "Salem",
       "share": 4
     },
     {
-      "name": "Salem",
+      "name": "MILO",
       "share": 4
     },
     {
@@ -78,11 +78,11 @@
       "name": "J.A.R.V.I.S \u00b7 C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Wed Nov 11, 2026 \u00b7 11:10 AM ET",
-      "lastSort": "2026-11-11T11:10:21-05:00",
+      "lastEt": "Wed Nov 11, 2026 \u00b7 11:44 AM ET",
+      "lastSort": "2026-11-11T11:44:45-05:00",
       "work": "Command center refresh",
       "needs": "\u2014",
-      "share": 81,
+      "share": 82,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -232,7 +232,7 @@
       "lastSort": 827,
       "work": "Finance debrief \u2014 insurance due Fri Nov 6; checking needs a top-up",
       "needs": "Fund checking before Fri insurance",
-      "share": 5,
+      "share": 4,
       "routines": [
         "Daily finance debrief",
         "Charge watch"
