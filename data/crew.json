@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-11T15:44:42-05:00",
-  "syncedAtEt": "Wed Nov 11, 2026 · 3:44 PM ET",
+  "syncedAt": "2026-11-11T16:15:12-05:00",
+  "syncedAtEt": "Wed Nov 11, 2026 · 4:15 PM ET",
   "kpis": {
-    "weeklyUsedPct": 18.9,
+    "weeklyUsedPct": 19.1,
     "resetEt": "Mon Nov 16 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -38,11 +38,11 @@
       "share": 81
     },
     {
-      "name": "Móvè",
+      "name": "Salem",
       "share": 5
     },
     {
-      "name": "Salem",
+      "name": "Móvè",
       "share": 5
     },
     {
@@ -78,8 +78,8 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Wed Nov 11, 2026 · 3:44 PM ET",
-      "lastSort": "2026-11-11T15:44:42-05:00",
+      "lastEt": "Wed Nov 11, 2026 · 4:15 PM ET",
+      "lastSort": "2026-11-11T16:15:12-05:00",
       "work": "Command center refresh",
       "needs": "—",
       "share": 81,
