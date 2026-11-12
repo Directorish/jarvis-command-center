@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-12T08:16:19-05:00",
-  "syncedAtEt": "Thu Nov 12, 2026 \u00b7 8:16 AM ET",
+  "syncedAt": "2026-11-12T08:42:04-05:00",
+  "syncedAtEt": "Thu Nov 12, 2026 \u00b7 8:42 AM ET",
   "kpis": {
-    "weeklyUsedPct": 24.5,
+    "weeklyUsedPct": 24.8,
     "resetEt": "Mon Nov 16 \u00b7 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -39,7 +39,7 @@
     },
     {
       "name": "M\u00f3v\u00e8",
-      "share": 5
+      "share": 4
     },
     {
       "name": "Salem",
@@ -51,7 +51,7 @@
     },
     {
       "name": "ERICH",
-      "share": 3
+      "share": 4
     },
     {
       "name": "Rick",
@@ -82,8 +82,8 @@
       "name": "J.A.R.V.I.S \u00b7 C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Thu Nov 12, 2026 \u00b7 8:16 AM ET",
-      "lastSort": "2026-11-12T08:16:19-05:00",
+      "lastEt": "Thu Nov 12, 2026 \u00b7 8:42 AM ET",
+      "lastSort": "2026-11-12T08:42:04-05:00",
       "work": "Command center refresh",
       "needs": "\u2014",
       "share": 81,
@@ -159,7 +159,7 @@
       "lastSort": 1814,
       "work": "Work email debrief; new website quotes; booking follow-ups",
       "needs": "Draft approvals for pending client replies",
-      "share": 5,
+      "share": 4,
       "routines": [
         "Client/business/capital email debrief (~25/wk)"
       ],
@@ -236,7 +236,7 @@
       "lastSort": 827,
       "work": "Finance debrief \u2014 insurance due Fri Nov 6; checking needs a top-up",
       "needs": "Fund checking before Fri insurance",
-      "share": 3,
+      "share": 4,
       "routines": [
         "Daily finance debrief",
         "Charge watch"
