@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-12T17:10:45-05:00",
-  "syncedAtEt": "Thu Nov 12, 2026 · 5:10 PM ET",
+  "syncedAt": "2026-11-12T17:47:21-05:00",
+  "syncedAtEt": "Thu Nov 12, 2026 · 5:47 PM ET",
   "kpis": {
-    "weeklyUsedPct": 28.7,
+    "weeklyUsedPct": 28.9,
     "resetEt": "Mon Nov 16 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,7 +35,7 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 79
+      "share": 78
     },
     {
       "name": "Móvè",
@@ -56,6 +56,10 @@
     {
       "name": "Rick",
       "share": 3
+    },
+    {
+      "name": "Myers",
+      "share": 1
     }
   ],
   "dayShare": [
@@ -82,11 +86,11 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Thu Nov 12, 2026 · 5:10 PM ET",
-      "lastSort": "2026-11-12T17:10:45-05:00",
+      "lastEt": "Thu Nov 12, 2026 · 5:47 PM ET",
+      "lastSort": "2026-11-12T17:47:21-05:00",
       "work": "Command center refresh",
       "needs": "—",
-      "share": 79,
+      "share": 78,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -252,7 +256,7 @@
       "lastSort": 937,
       "work": "Last readable: movie recommendation card",
       "needs": "—",
-      "share": 0,
+      "share": 1,
       "routines": [],
       "group": "other"
     },
