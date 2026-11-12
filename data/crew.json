@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-12T13:42:52-05:00",
-  "syncedAtEt": "Thu Nov 12, 2026 · 1:42 PM ET",
+  "syncedAt": "2026-11-12T14:15:04-05:00",
+  "syncedAtEt": "Thu Nov 12, 2026 · 2:15 PM ET",
   "kpis": {
-    "weeklyUsedPct": 26.9,
+    "weeklyUsedPct": 27.4,
     "resetEt": "Mon Nov 16 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,7 +35,11 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 80
+      "share": 79
+    },
+    {
+      "name": "MILO",
+      "share": 5
     },
     {
       "name": "Móvè",
@@ -43,15 +47,11 @@
     },
     {
       "name": "Salem",
-      "share": 4
-    },
-    {
-      "name": "MILO",
-      "share": 4
+      "share": 5
     },
     {
       "name": "ERICH",
-      "share": 4
+      "share": 3
     },
     {
       "name": "Rick",
@@ -82,11 +82,11 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Thu Nov 12, 2026 · 1:42 PM ET",
-      "lastSort": "2026-11-12T13:42:52-05:00",
+      "lastEt": "Thu Nov 12, 2026 · 2:15 PM ET",
+      "lastSort": "2026-11-12T14:15:04-05:00",
       "work": "Command center refresh",
       "needs": "—",
-      "share": 80,
+      "share": 79,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -174,7 +174,7 @@
       "lastSort": 2112,
       "work": "Evening check-in sent; streaks awaiting reply",
       "needs": "Reply to nightly check-in",
-      "share": 4,
+      "share": 5,
       "routines": [
         "Morning life brief",
         "Nightly check-in"
@@ -190,7 +190,7 @@
       "lastSort": 1020,
       "work": "No readable chat since Oct 20; morning warehouse listings still consuming usage",
       "needs": "—",
-      "share": 4,
+      "share": 5,
       "routines": [
         "Morning warehouse listings (~55/wk)"
       ],
@@ -236,7 +236,7 @@
       "lastSort": 827,
       "work": "Finance debrief — insurance due Fri Nov 6; checking needs a top-up",
       "needs": "Fund checking before Fri insurance",
-      "share": 4,
+      "share": 3,
       "routines": [
         "Daily finance debrief",
         "Charge watch"
