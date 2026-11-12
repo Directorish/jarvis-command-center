@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-12T00:40:45-05:00",
-  "syncedAtEt": "Thu Nov 12, 2026 · 12:40 AM ET",
+  "syncedAt": "2026-11-12T01:10:10-05:00",
+  "syncedAtEt": "Thu Nov 12, 2026 · 1:10 AM ET",
   "kpis": {
-    "weeklyUsedPct": 21.6,
+    "weeklyUsedPct": 21.8,
     "resetEt": "Mon Nov 16 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,11 +35,11 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 81
+      "share": 82
     },
     {
       "name": "Salem",
-      "share": 5
+      "share": 4
     },
     {
       "name": "Móvè",
@@ -65,7 +65,7 @@
     },
     {
       "day": "Tue Nov 10",
-      "pct": 51
+      "pct": 50
     },
     {
       "day": "Wed Nov 11",
@@ -73,7 +73,7 @@
     },
     {
       "day": "Thu Nov 12",
-      "pct": 7
+      "pct": 8
     }
   ],
   "bots": [
@@ -82,11 +82,11 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Thu Nov 12, 2026 · 12:40 AM ET",
-      "lastSort": "2026-11-12T00:40:45-05:00",
+      "lastEt": "Thu Nov 12, 2026 · 1:10 AM ET",
+      "lastSort": "2026-11-12T01:10:10-05:00",
       "work": "Command center refresh",
       "needs": "—",
-      "share": 81,
+      "share": 82,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -190,7 +190,7 @@
       "lastSort": 1020,
       "work": "No readable chat since Oct 20; morning warehouse listings still consuming usage",
       "needs": "—",
-      "share": 5,
+      "share": 4,
       "routines": [
         "Morning warehouse listings (~55/wk)"
       ],
