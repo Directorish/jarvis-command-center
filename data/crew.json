@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-12T12:10:40-05:00",
-  "syncedAtEt": "Thu Nov 12, 2026 · 12:10 PM ET",
+  "syncedAt": "2026-11-12T12:43:04-05:00",
+  "syncedAtEt": "Thu Nov 12, 2026 · 12:43 PM ET",
   "kpis": {
-    "weeklyUsedPct": 26.2,
+    "weeklyUsedPct": 26.5,
     "resetEt": "Mon Nov 16 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -38,11 +38,11 @@
       "share": 80
     },
     {
-      "name": "Salem",
+      "name": "Móvè",
       "share": 5
     },
     {
-      "name": "Móvè",
+      "name": "Salem",
       "share": 4
     },
     {
@@ -82,8 +82,8 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Thu Nov 12, 2026 · 12:10 PM ET",
-      "lastSort": "2026-11-12T12:10:40-05:00",
+      "lastEt": "Thu Nov 12, 2026 · 12:43 PM ET",
+      "lastSort": "2026-11-12T12:43:04-05:00",
       "work": "Command center refresh",
       "needs": "—",
       "share": 80,
@@ -159,7 +159,7 @@
       "lastSort": 1814,
       "work": "Work email debrief; new website quotes; booking follow-ups",
       "needs": "Draft approvals for pending client replies",
-      "share": 4,
+      "share": 5,
       "routines": [
         "Client/business/capital email debrief (~25/wk)"
       ],
@@ -190,7 +190,7 @@
       "lastSort": 1020,
       "work": "No readable chat since Oct 20; morning warehouse listings still consuming usage",
       "needs": "—",
-      "share": 5,
+      "share": 4,
       "routines": [
         "Morning warehouse listings (~55/wk)"
       ],
