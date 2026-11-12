@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-11T21:45:09-05:00",
-  "syncedAtEt": "Wed Nov 11, 2026 · 9:45 PM ET",
+  "syncedAt": "2026-11-11T22:17:14-05:00",
+  "syncedAtEt": "Wed Nov 11, 2026 · 10:17 PM ET",
   "kpis": {
-    "weeklyUsedPct": 20.9,
+    "weeklyUsedPct": 21,
     "resetEt": "Mon Nov 16 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -65,15 +65,15 @@
     },
     {
       "day": "Tue Nov 10",
-      "pct": 53
+      "pct": 52
     },
     {
       "day": "Wed Nov 11",
-      "pct": 43
+      "pct": 42
     },
     {
       "day": "Thu Nov 12",
-      "pct": 3
+      "pct": 5
     }
   ],
   "bots": [
@@ -82,8 +82,8 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Wed Nov 11, 2026 · 9:45 PM ET",
-      "lastSort": "2026-11-11T21:45:09-05:00",
+      "lastEt": "Wed Nov 11, 2026 · 10:17 PM ET",
+      "lastSort": "2026-11-11T22:17:14-05:00",
       "work": "Command center refresh",
       "needs": "—",
       "share": 81,
