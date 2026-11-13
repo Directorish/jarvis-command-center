@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-12T19:43:13-05:00",
-  "syncedAtEt": "Thu Nov 12, 2026 · 7:43 PM ET",
+  "syncedAt": "2026-11-12T20:17:38-05:00",
+  "syncedAtEt": "Thu Nov 12, 2026 · 8:17 PM ET",
   "kpis": {
-    "weeklyUsedPct": 29.5,
+    "weeklyUsedPct": 29.7,
     "resetEt": "Mon Nov 16 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,7 +35,7 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 78
+      "share": 79
     },
     {
       "name": "Móvè",
@@ -90,11 +90,11 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Thu Nov 12, 2026 · 7:43 PM ET",
-      "lastSort": "2026-11-12T19:43:13-05:00",
+      "lastEt": "Thu Nov 12, 2026 · 8:17 PM ET",
+      "lastSort": "2026-11-12T20:17:38-05:00",
       "work": "Command center refresh",
       "needs": "—",
-      "share": 78,
+      "share": 79,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
