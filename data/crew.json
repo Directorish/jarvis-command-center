@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-13T09:42:00-05:00",
-  "syncedAtEt": "Fri Nov 13, 2026 · 9:42 AM ET",
+  "syncedAt": "2026-11-13T10:18:37-05:00",
+  "syncedAtEt": "Fri Nov 13, 2026 · 10:18 AM ET",
   "kpis": {
-    "weeklyUsedPct": 34.2,
+    "weeklyUsedPct": 34.4,
     "resetEt": "Mon Nov 16 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -47,7 +47,7 @@
     },
     {
       "name": "Salem",
-      "share": 4
+      "share": 5
     },
     {
       "name": "ERICH",
@@ -59,7 +59,7 @@
     },
     {
       "name": "Myers",
-      "share": 1
+      "share": 0
     }
   ],
   "dayShare": [
@@ -90,8 +90,8 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Fri Nov 13, 2026 · 9:42 AM ET",
-      "lastSort": "2026-11-13T09:42:00-05:00",
+      "lastEt": "Fri Nov 13, 2026 · 10:18 AM ET",
+      "lastSort": "2026-11-13T10:18:37-05:00",
       "work": "Command center refresh",
       "needs": "—",
       "share": 79,
@@ -198,7 +198,7 @@
       "lastSort": 1020,
       "work": "No readable chat since Oct 20; morning warehouse listings still consuming usage",
       "needs": "—",
-      "share": 4,
+      "share": 5,
       "routines": [
         "Morning warehouse listings (~55/wk)"
       ],
@@ -260,7 +260,7 @@
       "lastSort": 937,
       "work": "Last readable: movie recommendation card",
       "needs": "—",
-      "share": 1,
+      "share": 0,
       "routines": [],
       "group": "other"
     },
