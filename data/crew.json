@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-13T17:44:35-05:00",
-  "syncedAtEt": "Fri Nov 13, 2026 · 5:44 PM ET",
+  "syncedAt": "2026-11-13T18:13:10-05:00",
+  "syncedAtEt": "Fri Nov 13, 2026 · 6:13 PM ET",
   "kpis": {
-    "weeklyUsedPct": 37,
+    "weeklyUsedPct": 37.2,
     "resetEt": "Mon Nov 16 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -38,16 +38,16 @@
       "share": 79
     },
     {
-      "name": "MILO",
-      "share": 5
-    },
-    {
       "name": "Móvè",
       "share": 5
     },
     {
       "name": "Salem",
       "share": 5
+    },
+    {
+      "name": "MILO",
+      "share": 4
     },
     {
       "name": "ERICH",
@@ -59,7 +59,7 @@
     },
     {
       "name": "Myers",
-      "share": 0
+      "share": 1
     }
   ],
   "dayShare": [
@@ -90,8 +90,8 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Fri Nov 13, 2026 · 5:44 PM ET",
-      "lastSort": "2026-11-13T17:44:35-05:00",
+      "lastEt": "Fri Nov 13, 2026 · 6:13 PM ET",
+      "lastSort": "2026-11-13T18:13:10-05:00",
       "work": "Command center refresh",
       "needs": "—",
       "share": 79,
@@ -182,7 +182,7 @@
       "lastSort": 2112,
       "work": "Evening check-in sent; streaks awaiting reply",
       "needs": "Reply to nightly check-in",
-      "share": 5,
+      "share": 4,
       "routines": [
         "Morning life brief",
         "Nightly check-in"
@@ -260,7 +260,7 @@
       "lastSort": 937,
       "work": "Last readable: movie recommendation card",
       "needs": "—",
-      "share": 0,
+      "share": 1,
       "routines": [],
       "group": "other"
     },
