@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-13T07:16:00-05:00",
-  "syncedAtEt": "Fri Nov 13, 2026 · 7:16 AM ET",
+  "syncedAt": "2026-11-13T07:42:20-05:00",
+  "syncedAtEt": "Fri Nov 13, 2026 · 7:42 AM ET",
   "kpis": {
-    "weeklyUsedPct": 32.6,
+    "weeklyUsedPct": 33.1,
     "resetEt": "Mon Nov 16 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,7 +35,7 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 80
+      "share": 79
     },
     {
       "name": "MILO",
@@ -90,11 +90,11 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Fri Nov 13, 2026 · 7:16 AM ET",
-      "lastSort": "2026-11-13T07:16:00-05:00",
+      "lastEt": "Fri Nov 13, 2026 · 7:42 AM ET",
+      "lastSort": "2026-11-13T07:42:20-05:00",
       "work": "Command center refresh",
       "needs": "—",
-      "share": 80,
+      "share": 79,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
