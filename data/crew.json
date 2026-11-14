@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-14T12:11:20-05:00",
-  "syncedAtEt": "Sat Nov 14, 2026 · 12:11 PM ET",
+  "syncedAt": "2026-11-14T12:42:13-05:00",
+  "syncedAtEt": "Sat Nov 14, 2026 · 12:42 PM ET",
   "kpis": {
-    "weeklyUsedPct": 43.3,
+    "weeklyUsedPct": 43.6,
     "resetEt": "Mon Nov 16 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -25,7 +25,7 @@
     },
     {
       "bot": "ERICH",
-      "item": "Insurance due Fri Nov 6 — fund checking before it bills."
+      "item": "New credit-file alert — review it and tell ERICH what it says."
     },
     {
       "bot": "The Ring",
@@ -35,7 +35,7 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 81
+      "share": 80
     },
     {
       "name": "MILO",
@@ -50,12 +50,12 @@
       "share": 4
     },
     {
-      "name": "Rick",
+      "name": "ERICH",
       "share": 3
     },
     {
-      "name": "ERICH",
-      "share": 2
+      "name": "Rick",
+      "share": 3
     }
   ],
   "dayShare": [
@@ -86,11 +86,11 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Sat Nov 14, 2026 · 12:11 PM ET",
-      "lastSort": "2026-11-14T12:11:20-05:00",
+      "lastEt": "Sat Nov 14, 2026 · 12:42 PM ET",
+      "lastSort": "2026-11-14T12:42:13-05:00",
       "work": "Command center refresh",
       "needs": "—",
-      "share": 81,
+      "share": 80,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -236,10 +236,10 @@
       "name": "ERICH · C.F.O",
       "role": "Chief Financial Officer",
       "status": "active",
-      "lastEt": "Fri Nov 6, 8:27 AM ET",
-      "lastSort": 827,
-      "work": "Finance debrief — insurance due Fri Nov 6; checking needs a top-up",
-      "needs": "Fund checking before Fri insurance",
+      "lastEt": "Sat Nov 14, 2026 · 12:12 PM ET",
+      "lastSort": "2026-11-14T12:12:09-05:00",
+      "work": "Flagged a new credit-file alert and asked for a look at the details",
+      "needs": "Review the credit-file alert",
       "share": 3,
       "routines": [
         "Daily finance debrief",
