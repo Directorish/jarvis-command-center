@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-13T21:11:03-05:00",
-  "syncedAtEt": "Fri Nov 13, 2026 \u00b7 9:11 PM ET",
+  "syncedAt": "2026-11-13T21:45:04-05:00",
+  "syncedAtEt": "Fri Nov 13, 2026 \u00b7 9:45 PM ET",
   "kpis": {
-    "weeklyUsedPct": 38,
+    "weeklyUsedPct": 38.3,
     "resetEt": "Mon Nov 16 \u00b7 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -47,7 +47,7 @@
     },
     {
       "name": "MILO",
-      "share": 4
+      "share": 5
     },
     {
       "name": "ERICH",
@@ -56,10 +56,6 @@
     {
       "name": "Rick",
       "share": 3
-    },
-    {
-      "name": "Myers",
-      "share": 1
     }
   ],
   "dayShare": [
@@ -90,8 +86,8 @@
       "name": "J.A.R.V.I.S \u00b7 C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Fri Nov 13, 2026 \u00b7 9:11 PM ET",
-      "lastSort": "2026-11-13T21:11:03-05:00",
+      "lastEt": "Fri Nov 13, 2026 \u00b7 9:45 PM ET",
+      "lastSort": "2026-11-13T21:45:04-05:00",
       "work": "Command center refresh",
       "needs": "\u2014",
       "share": 79,
@@ -182,7 +178,7 @@
       "lastSort": 2112,
       "work": "Evening check-in sent; streaks awaiting reply",
       "needs": "Reply to nightly check-in",
-      "share": 4,
+      "share": 5,
       "routines": [
         "Morning life brief",
         "Nightly check-in"
@@ -260,7 +256,7 @@
       "lastSort": 937,
       "work": "Last readable: movie recommendation card",
       "needs": "\u2014",
-      "share": 1,
+      "share": 0,
       "routines": [],
       "group": "other"
     },
