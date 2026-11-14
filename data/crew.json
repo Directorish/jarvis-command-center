@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-14T07:19:03-05:00",
-  "syncedAtEt": "Sat Nov 14, 2026 · 7:19 AM ET",
+  "syncedAt": "2026-11-14T07:43:10-05:00",
+  "syncedAtEt": "Sat Nov 14, 2026 · 7:43 AM ET",
   "kpis": {
-    "weeklyUsedPct": 41.3,
+    "weeklyUsedPct": 41.6,
     "resetEt": "Mon Nov 16 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -38,15 +38,15 @@
       "share": 80
     },
     {
+      "name": "MILO",
+      "share": 5
+    },
+    {
       "name": "Móvè",
       "share": 5
     },
     {
       "name": "Salem",
-      "share": 5
-    },
-    {
-      "name": "MILO",
       "share": 4
     },
     {
@@ -86,8 +86,8 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Sat Nov 14, 2026 · 7:19 AM ET",
-      "lastSort": "2026-11-14T07:19:03-05:00",
+      "lastEt": "Sat Nov 14, 2026 · 7:43 AM ET",
+      "lastSort": "2026-11-14T07:43:10-05:00",
       "work": "Command center refresh",
       "needs": "—",
       "share": 80,
@@ -178,7 +178,7 @@
       "lastSort": 2112,
       "work": "Evening check-in sent; streaks awaiting reply",
       "needs": "Reply to nightly check-in",
-      "share": 4,
+      "share": 5,
       "routines": [
         "Morning life brief",
         "Nightly check-in"
@@ -194,7 +194,7 @@
       "lastSort": 1020,
       "work": "No readable chat since Oct 20; morning warehouse listings still consuming usage",
       "needs": "—",
-      "share": 5,
+      "share": 4,
       "routines": [
         "Morning warehouse listings (~55/wk)"
       ],
