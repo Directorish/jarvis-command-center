@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-14T06:42:09-05:00",
-  "syncedAtEt": "Sat Nov 14, 2026 · 6:42 AM ET",
+  "syncedAt": "2026-11-14T07:19:03-05:00",
+  "syncedAtEt": "Sat Nov 14, 2026 · 7:19 AM ET",
   "kpis": {
-    "weeklyUsedPct": 41,
+    "weeklyUsedPct": 41.3,
     "resetEt": "Mon Nov 16 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -47,15 +47,15 @@
     },
     {
       "name": "MILO",
-      "share": 5
+      "share": 4
+    },
+    {
+      "name": "Rick",
+      "share": 3
     },
     {
       "name": "ERICH",
       "share": 3
-    },
-    {
-      "name": "Rick",
-      "share": 2
     }
   ],
   "dayShare": [
@@ -86,8 +86,8 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Sat Nov 14, 2026 · 6:42 AM ET",
-      "lastSort": "2026-11-14T06:42:09-05:00",
+      "lastEt": "Sat Nov 14, 2026 · 7:19 AM ET",
+      "lastSort": "2026-11-14T07:19:03-05:00",
       "work": "Command center refresh",
       "needs": "—",
       "share": 80,
@@ -178,7 +178,7 @@
       "lastSort": 2112,
       "work": "Evening check-in sent; streaks awaiting reply",
       "needs": "Reply to nightly check-in",
-      "share": 5,
+      "share": 4,
       "routines": [
         "Morning life brief",
         "Nightly check-in"
@@ -225,7 +225,7 @@
       "lastSort": 725,
       "work": "Morning rental check — flagged a new area listing",
       "needs": "—",
-      "share": 2,
+      "share": 3,
       "routines": [
         "Morning rental listing check"
       ],
