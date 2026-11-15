@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-14T21:05:01-05:00",
-  "syncedAtEt": "Sat Nov 14, 2026 · 9:05 PM ET",
+  "syncedAt": "2026-11-14T21:36:00-05:00",
+  "syncedAtEt": "Sat Nov 14, 2026 · 9:36 PM ET",
   "kpis": {
-    "weeklyUsedPct": 46.7,
+    "weeklyUsedPct": 46.9,
     "resetEt": "Mon Nov 16 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -39,7 +39,7 @@
     },
     {
       "name": "MILO",
-      "share": 4
+      "share": 5
     },
     {
       "name": "Móvè",
@@ -55,7 +55,7 @@
     },
     {
       "name": "Rick",
-      "share": 3
+      "share": 2
     }
   ],
   "dayShare": [
@@ -86,8 +86,8 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Sat Nov 14, 2026 · 9:05 PM ET",
-      "lastSort": "2026-11-14T21:05:01-05:00",
+      "lastEt": "Sat Nov 14, 2026 · 9:36 PM ET",
+      "lastSort": "2026-11-14T21:36:00-05:00",
       "work": "Command center refresh",
       "needs": "—",
       "share": 82,
@@ -174,11 +174,11 @@
       "name": "MILO · CHAIRMAN",
       "role": "Life admin / accountability",
       "status": "active",
-      "lastEt": "Fri Nov 6, 9:12 PM ET",
-      "lastSort": 2112,
-      "work": "Evening check-in sent; streaks awaiting reply",
+      "lastEt": "Sat Nov 14, 2026 · 9:07 PM ET",
+      "lastSort": "2026-11-14T21:07:58-05:00",
+      "work": "Saturday nightly check-in sent; streaks awaiting reply",
       "needs": "Reply to nightly check-in",
-      "share": 4,
+      "share": 5,
       "routines": [
         "Morning life brief",
         "Nightly check-in"
@@ -225,7 +225,7 @@
       "lastSort": 725,
       "work": "Morning rental check — flagged a new area listing",
       "needs": "—",
-      "share": 3,
+      "share": 2,
       "routines": [
         "Morning rental listing check"
       ],
