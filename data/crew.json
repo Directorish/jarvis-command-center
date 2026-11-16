@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-15T19:32:10-05:00",
-  "syncedAtEt": "Sun Nov 15, 2026 · 7:32 PM ET",
+  "syncedAt": "2026-11-15T19:56:48-05:00",
+  "syncedAtEt": "Sun Nov 15, 2026 · 7:56 PM ET",
   "kpis": {
-    "weeklyUsedPct": 55.1,
+    "weeklyUsedPct": 55.3,
     "resetEt": "Mon Nov 16 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,7 +35,7 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 82
+      "share": 83
     },
     {
       "name": "MILO",
@@ -47,7 +47,7 @@
     },
     {
       "name": "Salem",
-      "share": 4
+      "share": 3
     },
     {
       "name": "ERICH",
@@ -94,11 +94,11 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Sun Nov 15, 2026 · 7:32 PM ET",
-      "lastSort": "2026-11-15T19:32:10-05:00",
+      "lastEt": "Sun Nov 15, 2026 · 7:56 PM ET",
+      "lastSort": "2026-11-15T19:56:48-05:00",
       "work": "Command center refresh",
       "needs": "—",
-      "share": 82,
+      "share": 83,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -202,7 +202,7 @@
       "lastSort": 1020,
       "work": "No readable chat since Oct 20; morning warehouse listings still consuming usage",
       "needs": "—",
-      "share": 4,
+      "share": 3,
       "routines": [
         "Morning warehouse listings (~55/wk)"
       ],
