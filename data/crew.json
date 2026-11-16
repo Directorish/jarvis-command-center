@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-16T14:29:24-05:00",
-  "syncedAtEt": "Mon Nov 16, 2026 \u00b7 2:29 PM ET",
+  "syncedAt": "2026-11-16T14:59:13-05:00",
+  "syncedAtEt": "Mon Nov 16, 2026 \u00b7 2:59 PM ET",
   "kpis": {
-    "weeklyUsedPct": 62.7,
+    "weeklyUsedPct": 62.9,
     "resetEt": "Mon Nov 16 \u00b7 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,7 +35,7 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 82
+      "share": 81
     },
     {
       "name": "MILO",
@@ -55,7 +55,7 @@
     },
     {
       "name": "ERICH",
-      "share": 2
+      "share": 3
     },
     {
       "name": "ICT TradeBOT",
@@ -94,11 +94,11 @@
       "name": "J.A.R.V.I.S \u00b7 C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Mon Nov 16, 2026 \u00b7 2:29 PM ET",
-      "lastSort": "2026-11-16T14:29:24-05:00",
+      "lastEt": "Mon Nov 16, 2026 \u00b7 2:59 PM ET",
+      "lastSort": "2026-11-16T14:59:13-05:00",
       "work": "Command center refresh",
       "needs": "\u2014",
-      "share": 82,
+      "share": 81,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -248,7 +248,7 @@
       "lastSort": "2026-11-14T12:12:09-05:00",
       "work": "Flagged a new credit-file alert and asked for a look at the details",
       "needs": "Review the credit-file alert",
-      "share": 2,
+      "share": 3,
       "routines": [
         "Daily finance debrief",
         "Charge watch"
