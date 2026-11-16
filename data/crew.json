@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-15T20:58:34-05:00",
-  "syncedAtEt": "Sun Nov 15, 2026 \u00b7 8:58 PM ET",
+  "syncedAt": "2026-11-15T21:28:57-05:00",
+  "syncedAtEt": "Sun Nov 15, 2026 \u00b7 9:28 PM ET",
   "kpis": {
-    "weeklyUsedPct": 55.7,
+    "weeklyUsedPct": 56,
     "resetEt": "Mon Nov 16 \u00b7 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,7 +35,7 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 83
+      "share": 82
     },
     {
       "name": "MILO",
@@ -51,7 +51,7 @@
     },
     {
       "name": "ERICH",
-      "share": 2
+      "share": 3
     },
     {
       "name": "Rick",
@@ -94,11 +94,11 @@
       "name": "J.A.R.V.I.S \u00b7 C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Sun Nov 15, 2026 \u00b7 8:58 PM ET",
-      "lastSort": "2026-11-15T20:58:34-05:00",
+      "lastEt": "Sun Nov 15, 2026 \u00b7 9:28 PM ET",
+      "lastSort": "2026-11-15T21:28:57-05:00",
       "work": "Command center refresh",
       "needs": "\u2014",
-      "share": 83,
+      "share": 82,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -248,7 +248,7 @@
       "lastSort": "2026-11-14T12:12:09-05:00",
       "work": "Flagged a new credit-file alert and asked for a look at the details",
       "needs": "Review the credit-file alert",
-      "share": 2,
+      "share": 3,
       "routines": [
         "Daily finance debrief",
         "Charge watch"
