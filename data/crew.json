@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-16T17:27:58-05:00",
-  "syncedAtEt": "Mon Nov 16, 2026 \u00b7 5:27 PM ET",
+  "syncedAt": "2026-11-16T18:03:49-05:00",
+  "syncedAtEt": "Mon Nov 16, 2026 \u00b7 6:03 PM ET",
   "kpis": {
-    "weeklyUsedPct": 63.9,
+    "weeklyUsedPct": 64.1,
     "resetEt": "Mon Nov 16 \u00b7 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,7 +35,7 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 82
+      "share": 81
     },
     {
       "name": "MILO",
@@ -51,7 +51,7 @@
     },
     {
       "name": "Rick",
-      "share": 2
+      "share": 3
     },
     {
       "name": "ERICH",
@@ -94,11 +94,11 @@
       "name": "J.A.R.V.I.S \u00b7 C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Mon Nov 16, 2026 \u00b7 5:27 PM ET",
-      "lastSort": "2026-11-16T17:27:58-05:00",
+      "lastEt": "Mon Nov 16, 2026 \u00b7 6:03 PM ET",
+      "lastSort": "2026-11-16T18:03:49-05:00",
       "work": "Command center refresh",
       "needs": "\u2014",
-      "share": 82,
+      "share": 81,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -233,7 +233,7 @@
       "lastSort": 725,
       "work": "Morning rental check \u2014 flagged a new area listing",
       "needs": "\u2014",
-      "share": 2,
+      "share": 3,
       "routines": [
         "Morning rental listing check"
       ],
