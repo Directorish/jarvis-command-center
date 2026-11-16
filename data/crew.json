@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-15T18:59:12-05:00",
-  "syncedAtEt": "Sun Nov 15, 2026 · 6:59 PM ET",
+  "syncedAt": "2026-11-15T19:32:10-05:00",
+  "syncedAtEt": "Sun Nov 15, 2026 · 7:32 PM ET",
   "kpis": {
-    "weeklyUsedPct": 54.8,
+    "weeklyUsedPct": 55.1,
     "resetEt": "Mon Nov 16 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,7 +35,7 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 83
+      "share": 82
     },
     {
       "name": "MILO",
@@ -59,6 +59,10 @@
     },
     {
       "name": "ICT TradeBOT",
+      "share": 1
+    },
+    {
+      "name": "Myers",
       "share": 1
     }
   ],
@@ -90,11 +94,11 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Sun Nov 15, 2026 · 6:59 PM ET",
-      "lastSort": "2026-11-15T18:59:12-05:00",
+      "lastEt": "Sun Nov 15, 2026 · 7:32 PM ET",
+      "lastSort": "2026-11-15T19:32:10-05:00",
       "work": "Command center refresh",
       "needs": "—",
-      "share": 83,
+      "share": 82,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -129,9 +133,9 @@
       "name": "Michael J. Huddleston · ICT | TradeBOT",
       "role": "ICT coach + Lucid eval",
       "status": "blocked",
-      "lastEt": "Sun Nov 15, 2026 · 6:49 PM ET",
-      "lastSort": "2026-11-15T18:49:54-05:00",
-      "work": "Silver-bullet chart review; eval report still blocked on Lucid/TradePath",
+      "lastEt": "Sun Nov 15, 2026 · 7:15 PM ET",
+      "lastSort": "2026-11-15T19:15:15-05:00",
+      "work": "Silver-bullet chart markup on a voice call; eval report still blocked on Lucid/TradePath",
       "needs": "Lucid sign-in + TradePath Terms",
       "share": 1,
       "routines": [
@@ -260,7 +264,7 @@
       "lastSort": 937,
       "work": "Last readable: movie recommendation card",
       "needs": "—",
-      "share": 0,
+      "share": 1,
       "routines": [],
       "group": "other"
     },
