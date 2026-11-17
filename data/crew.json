@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-17T08:27:50-05:00",
-  "syncedAtEt": "Tue Nov 17, 2026 \u00b7 8:27 AM ET",
+  "syncedAt": "2026-11-17T09:03:27-05:00",
+  "syncedAtEt": "Tue Nov 17, 2026 \u00b7 9:03 AM ET",
   "kpis": {
-    "weeklyUsedPct": 5.1,
+    "weeklyUsedPct": 5.6,
     "resetEt": "Mon Nov 23 \u00b7 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,7 +35,7 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 84
+      "share": 82
     },
     {
       "name": "MILO",
@@ -43,15 +43,19 @@
     },
     {
       "name": "JasonX",
-      "share": 5
+      "share": 4
+    },
+    {
+      "name": "M\u00f3v\u00e8",
+      "share": 4
     },
     {
       "name": "Rick",
       "share": 3
     },
     {
-      "name": "M\u00f3v\u00e8",
-      "share": 2
+      "name": "ERICH",
+      "share": 1
     },
     {
       "name": "Salem",
@@ -86,11 +90,11 @@
       "name": "J.A.R.V.I.S \u00b7 C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Tue Nov 17, 2026 \u00b7 8:27 AM ET",
-      "lastSort": "2026-11-17T08:27:50-05:00",
+      "lastEt": "Tue Nov 17, 2026 \u00b7 9:03 AM ET",
+      "lastSort": "2026-11-17T09:03:27-05:00",
       "work": "Command center refresh",
       "needs": "\u2014",
-      "share": 84,
+      "share": 82,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -163,7 +167,7 @@
       "lastSort": 1814,
       "work": "Work email debrief; new website quotes; booking follow-ups",
       "needs": "Draft approvals for pending client replies",
-      "share": 2,
+      "share": 4,
       "routines": [
         "Client/business/capital email debrief (~25/wk)"
       ],
@@ -209,7 +213,7 @@
       "lastSort": "2026-11-17T05:29:45-05:00",
       "work": "Week 1 Day 2 legs + abs card sent",
       "needs": "\u2014",
-      "share": 5,
+      "share": 4,
       "routines": [
         "5:30 AM workout check-in",
         "Post-workout log check"
@@ -240,7 +244,7 @@
       "lastSort": "2026-11-14T12:12:09-05:00",
       "work": "Flagged a new credit-file alert and asked for a look at the details",
       "needs": "Review the credit-file alert",
-      "share": 0,
+      "share": 1,
       "routines": [
         "Daily finance debrief",
         "Charge watch"
