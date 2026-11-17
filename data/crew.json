@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-17T11:57:27-05:00",
-  "syncedAtEt": "Tue Nov 17, 2026 \u00b7 11:57 AM ET",
+  "syncedAt": "2026-11-17T12:30:28-05:00",
+  "syncedAtEt": "Tue Nov 17, 2026 \u00b7 12:30 PM ET",
   "kpis": {
-    "weeklyUsedPct": 6.8,
+    "weeklyUsedPct": 7.1,
     "resetEt": "Mon Nov 23 \u00b7 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -47,14 +47,10 @@
     },
     {
       "name": "JasonX",
-      "share": 4
+      "share": 3
     },
     {
       "name": "Rick",
-      "share": 2
-    },
-    {
-      "name": "ICT TradeBOT",
       "share": 2
     },
     {
@@ -62,8 +58,12 @@
       "share": 2
     },
     {
+      "name": "ICT TradeBOT",
+      "share": 2
+    },
+    {
       "name": "ERICH",
-      "share": 1
+      "share": 2
     }
   ],
   "dayShare": [
@@ -94,8 +94,8 @@
       "name": "J.A.R.V.I.S \u00b7 C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Tue Nov 17, 2026 \u00b7 11:57 AM ET",
-      "lastSort": "2026-11-17T11:57:27-05:00",
+      "lastEt": "Tue Nov 17, 2026 \u00b7 12:30 PM ET",
+      "lastSort": "2026-11-17T12:30:28-05:00",
       "work": "Command center refresh",
       "needs": "\u2014",
       "share": 80,
@@ -217,7 +217,7 @@
       "lastSort": "2026-11-17T05:29:45-05:00",
       "work": "Week 1 Day 2 legs + abs card sent",
       "needs": "\u2014",
-      "share": 4,
+      "share": 3,
       "routines": [
         "5:30 AM workout check-in",
         "Post-workout log check"
@@ -248,7 +248,7 @@
       "lastSort": "2026-11-14T12:12:09-05:00",
       "work": "Flagged a new credit-file alert and asked for a look at the details",
       "needs": "Review the credit-file alert",
-      "share": 1,
+      "share": 2,
       "routines": [
         "Daily finance debrief",
         "Charge watch"
