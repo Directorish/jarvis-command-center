@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-17T10:26:35-05:00",
-  "syncedAtEt": "Tue Nov 17, 2026 \u00b7 10:26 AM ET",
+  "syncedAt": "2026-11-17T11:00:39-05:00",
+  "syncedAtEt": "Tue Nov 17, 2026 \u00b7 11:00 AM ET",
   "kpis": {
-    "weeklyUsedPct": 6.2,
+    "weeklyUsedPct": 6.4,
     "resetEt": "Mon Nov 23 \u00b7 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,11 +35,11 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 82
+      "share": 81
     },
     {
       "name": "MILO",
-      "share": 5
+      "share": 4
     },
     {
       "name": "JasonX",
@@ -51,6 +51,10 @@
     },
     {
       "name": "Rick",
+      "share": 2
+    },
+    {
+      "name": "ICT TradeBOT",
       "share": 2
     },
     {
@@ -90,11 +94,11 @@
       "name": "J.A.R.V.I.S \u00b7 C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Tue Nov 17, 2026 \u00b7 10:26 AM ET",
-      "lastSort": "2026-11-17T10:26:35-05:00",
+      "lastEt": "Tue Nov 17, 2026 \u00b7 11:00 AM ET",
+      "lastSort": "2026-11-17T11:00:39-05:00",
       "work": "Command center refresh",
       "needs": "\u2014",
-      "share": 82,
+      "share": 81,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -133,7 +137,7 @@
       "lastSort": "2026-11-15T19:15:15-05:00",
       "work": "Silver-bullet chart markup on a voice call; eval report still blocked on Lucid/TradePath",
       "needs": "Lucid sign-in + TradePath Terms",
-      "share": 0,
+      "share": 2,
       "routines": [
         "ChartingLens lesson + quiz",
         "Study bites",
@@ -182,7 +186,7 @@
       "lastSort": "2026-11-14T21:07:58-05:00",
       "work": "Saturday nightly check-in sent; streaks awaiting reply",
       "needs": "Reply to nightly check-in",
-      "share": 5,
+      "share": 4,
       "routines": [
         "Morning life brief",
         "Nightly check-in"
