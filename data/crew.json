@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-17T14:30:10-05:00",
-  "syncedAtEt": "Tue Nov 17, 2026 \u00b7 2:30 PM ET",
+  "syncedAt": "2026-11-17T15:04:30-05:00",
+  "syncedAtEt": "Tue Nov 17, 2026 \u00b7 3:04 PM ET",
   "kpis": {
-    "weeklyUsedPct": 7.9,
+    "weeklyUsedPct": 8.2,
     "resetEt": "Mon Nov 23 \u00b7 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -38,16 +38,16 @@
       "share": 79
     },
     {
+      "name": "M\u00f3v\u00e8",
+      "share": 5
+    },
+    {
       "name": "ICT TradeBOT",
       "share": 4
     },
     {
-      "name": "M\u00f3v\u00e8",
-      "share": 4
-    },
-    {
       "name": "MILO",
-      "share": 4
+      "share": 3
     },
     {
       "name": "JasonX",
@@ -94,8 +94,8 @@
       "name": "J.A.R.V.I.S \u00b7 C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Tue Nov 17, 2026 \u00b7 2:30 PM ET",
-      "lastSort": "2026-11-17T14:30:10-05:00",
+      "lastEt": "Tue Nov 17, 2026 \u00b7 3:04 PM ET",
+      "lastSort": "2026-11-17T15:04:30-05:00",
       "work": "Command center refresh",
       "needs": "\u2014",
       "share": 79,
@@ -171,7 +171,7 @@
       "lastSort": 1814,
       "work": "Work email debrief; new website quotes; booking follow-ups",
       "needs": "Draft approvals for pending client replies",
-      "share": 4,
+      "share": 5,
       "routines": [
         "Client/business/capital email debrief (~25/wk)"
       ],
@@ -186,7 +186,7 @@
       "lastSort": "2026-11-14T21:07:58-05:00",
       "work": "Saturday nightly check-in sent; streaks awaiting reply",
       "needs": "Reply to nightly check-in",
-      "share": 4,
+      "share": 3,
       "routines": [
         "Morning life brief",
         "Nightly check-in"
