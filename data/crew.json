@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-17T07:05:23-05:00",
-  "syncedAtEt": "Tue Nov 17, 2026 \u00b7 7:05 AM ET",
+  "syncedAt": "2026-11-17T07:29:23-05:00",
+  "syncedAtEt": "Tue Nov 17, 2026 \u00b7 7:29 AM ET",
   "kpis": {
-    "weeklyUsedPct": 4.1,
+    "weeklyUsedPct": 4.3,
     "resetEt": "Mon Nov 23 \u00b7 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,11 +35,15 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 90
+      "share": 87
     },
     {
       "name": "JasonX",
       "share": 4
+    },
+    {
+      "name": "Rick",
+      "share": 3
     },
     {
       "name": "MILO",
@@ -78,11 +82,11 @@
       "name": "J.A.R.V.I.S \u00b7 C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Tue Nov 17, 2026 \u00b7 7:05 AM ET",
-      "lastSort": "2026-11-17T07:05:23-05:00",
+      "lastEt": "Tue Nov 17, 2026 \u00b7 7:29 AM ET",
+      "lastSort": "2026-11-17T07:29:23-05:00",
       "work": "Command center refresh",
       "needs": "\u2014",
-      "share": 90,
+      "share": 87,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -213,11 +217,11 @@
       "name": "Rick \u00b7 REAL ESTATE Rick Bot",
       "role": "Rental listings",
       "status": "active",
-      "lastEt": "Fri Nov 6, 7:25 AM ET",
-      "lastSort": 725,
-      "work": "Morning rental check \u2014 flagged a new area listing",
+      "lastEt": "Tue Nov 17, 2026 \u00b7 7:21 AM ET",
+      "lastSort": "2026-11-17T07:21:41-05:00",
+      "work": "Morning rental check \u2014 flagged new and changed listings",
       "needs": "\u2014",
-      "share": 0,
+      "share": 3,
       "routines": [
         "Morning rental listing check"
       ],
