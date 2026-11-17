@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-17T17:56:45-05:00",
-  "syncedAtEt": "Tue Nov 17, 2026 \u00b7 5:56 PM ET",
+  "syncedAt": "2026-11-17T18:25:53-05:00",
+  "syncedAtEt": "Tue Nov 17, 2026 \u00b7 6:25 PM ET",
   "kpis": {
-    "weeklyUsedPct": 9.8,
+    "weeklyUsedPct": 9.9,
     "resetEt": "Mon Nov 23 \u00b7 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,7 +35,7 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 73
+      "share": 74
     },
     {
       "name": "ERICH",
@@ -47,7 +47,7 @@
     },
     {
       "name": "ICT TradeBOT",
-      "share": 4
+      "share": 3
     },
     {
       "name": "Salem",
@@ -94,11 +94,11 @@
       "name": "J.A.R.V.I.S \u00b7 C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Tue Nov 17, 2026 \u00b7 5:56 PM ET",
-      "lastSort": "2026-11-17T17:56:45-05:00",
+      "lastEt": "Tue Nov 17, 2026 \u00b7 6:25 PM ET",
+      "lastSort": "2026-11-17T18:25:53-05:00",
       "work": "Command center refresh",
       "needs": "\u2014",
-      "share": 73,
+      "share": 74,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -137,7 +137,7 @@
       "lastSort": "2026-11-15T19:15:15-05:00",
       "work": "Silver-bullet chart markup on a voice call; eval report still blocked on Lucid/TradePath",
       "needs": "Lucid sign-in + TradePath Terms",
-      "share": 4,
+      "share": 3,
       "routines": [
         "ChartingLens lesson + quiz",
         "Study bites",
