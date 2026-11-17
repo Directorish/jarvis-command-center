@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-17T07:29:23-05:00",
-  "syncedAtEt": "Tue Nov 17, 2026 \u00b7 7:29 AM ET",
+  "syncedAt": "2026-11-17T08:01:12-05:00",
+  "syncedAtEt": "Tue Nov 17, 2026 \u00b7 8:01 AM ET",
   "kpis": {
-    "weeklyUsedPct": 4.3,
+    "weeklyUsedPct": 4.8,
     "resetEt": "Mon Nov 23 \u00b7 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,23 +35,23 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 87
+      "share": 84
+    },
+    {
+      "name": "MILO",
+      "share": 6
     },
     {
       "name": "JasonX",
-      "share": 4
+      "share": 5
     },
     {
       "name": "Rick",
       "share": 3
     },
     {
-      "name": "MILO",
-      "share": 3
-    },
-    {
       "name": "M\u00f3v\u00e8",
-      "share": 3
+      "share": 2
     }
   ],
   "dayShare": [
@@ -82,11 +82,11 @@
       "name": "J.A.R.V.I.S \u00b7 C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Tue Nov 17, 2026 \u00b7 7:29 AM ET",
-      "lastSort": "2026-11-17T07:29:23-05:00",
+      "lastEt": "Tue Nov 17, 2026 \u00b7 8:01 AM ET",
+      "lastSort": "2026-11-17T08:01:12-05:00",
       "work": "Command center refresh",
       "needs": "\u2014",
-      "share": 87,
+      "share": 84,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -159,7 +159,7 @@
       "lastSort": 1814,
       "work": "Work email debrief; new website quotes; booking follow-ups",
       "needs": "Draft approvals for pending client replies",
-      "share": 3,
+      "share": 2,
       "routines": [
         "Client/business/capital email debrief (~25/wk)"
       ],
@@ -174,7 +174,7 @@
       "lastSort": "2026-11-14T21:07:58-05:00",
       "work": "Saturday nightly check-in sent; streaks awaiting reply",
       "needs": "Reply to nightly check-in",
-      "share": 3,
+      "share": 6,
       "routines": [
         "Morning life brief",
         "Nightly check-in"
@@ -205,7 +205,7 @@
       "lastSort": "2026-11-17T05:29:45-05:00",
       "work": "Week 1 Day 2 legs + abs card sent",
       "needs": "\u2014",
-      "share": 4,
+      "share": 5,
       "routines": [
         "5:30 AM workout check-in",
         "Post-workout log check"
