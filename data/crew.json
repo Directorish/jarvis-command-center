@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-18T17:26:54-05:00",
-  "syncedAtEt": "Wed Nov 18, 2026 \u00b7 5:26 PM ET",
+  "syncedAt": "2026-11-18T18:05:15-05:00",
+  "syncedAtEt": "Wed Nov 18, 2026 \u00b7 6:05 PM ET",
   "kpis": {
-    "weeklyUsedPct": 18.5,
+    "weeklyUsedPct": 18.8,
     "resetEt": "Mon Nov 23 \u00b7 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -38,12 +38,12 @@
       "share": 76
     },
     {
-      "name": "ERICH",
+      "name": "M\u00f3v\u00e8",
       "share": 5
     },
     {
-      "name": "M\u00f3v\u00e8",
-      "share": 4
+      "name": "ERICH",
+      "share": 5
     },
     {
       "name": "ICT TradeBOT",
@@ -59,7 +59,7 @@
     },
     {
       "name": "JasonX",
-      "share": 3
+      "share": 2
     },
     {
       "name": "Rick",
@@ -86,8 +86,8 @@
       "name": "J.A.R.V.I.S \u00b7 C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Wed Nov 18, 2026 \u00b7 5:26 PM ET",
-      "lastSort": "2026-11-18T17:26:54-05:00",
+      "lastEt": "Wed Nov 18, 2026 \u00b7 6:05 PM ET",
+      "lastSort": "2026-11-18T18:05:15-05:00",
       "work": "Command center refresh",
       "needs": "\u2014",
       "share": 76,
@@ -163,7 +163,7 @@
       "lastSort": 1814,
       "work": "Work email debrief; new website quotes; booking follow-ups",
       "needs": "Draft approvals for pending client replies",
-      "share": 4,
+      "share": 5,
       "routines": [
         "Client/business/capital email debrief (~25/wk)"
       ],
@@ -209,7 +209,7 @@
       "lastSort": "2026-11-18T05:25:00-05:00",
       "work": "Week 1 Day 3 chest + abs card sent",
       "needs": "\u2014",
-      "share": 3,
+      "share": 2,
       "routines": [
         "5:30 AM workout check-in",
         "Post-workout log check"
