@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-18T22:02:05-05:00",
-  "syncedAtEt": "Wed Nov 18, 2026 · 10:02 PM ET",
+  "syncedAt": "2026-11-18T22:26:47-05:00",
+  "syncedAtEt": "Wed Nov 18, 2026 · 10:26 PM ET",
   "kpis": {
-    "weeklyUsedPct": 19.9,
+    "weeklyUsedPct": 20,
     "resetEt": "Mon Nov 23 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -50,11 +50,11 @@
       "share": 4
     },
     {
-      "name": "Salem",
+      "name": "MILO",
       "share": 3
     },
     {
-      "name": "MILO",
+      "name": "Salem",
       "share": 3
     },
     {
@@ -73,11 +73,15 @@
     },
     {
       "day": "Tue Nov 17",
-      "pct": 57
+      "pct": 50
     },
     {
       "day": "Wed Nov 18",
-      "pct": 43
+      "pct": 45
+    },
+    {
+      "day": "Thu Nov 19",
+      "pct": 5
     }
   ],
   "bots": [
@@ -86,8 +90,8 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Wed Nov 18, 2026 · 10:02 PM ET",
-      "lastSort": "2026-11-18T22:02:05-05:00",
+      "lastEt": "Wed Nov 18, 2026 · 10:26 PM ET",
+      "lastSort": "2026-11-18T22:26:47-05:00",
       "work": "Command center refresh",
       "needs": "—",
       "share": 76,
