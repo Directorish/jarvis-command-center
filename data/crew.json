@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-19T05:30:05-05:00",
-  "syncedAtEt": "Thu Nov 19, 2026 \u00b7 5:30 AM ET",
+  "syncedAt": "2026-11-19T06:00:04-05:00",
+  "syncedAtEt": "Thu Nov 19, 2026 \u00b7 6:00 AM ET",
   "kpis": {
-    "weeklyUsedPct": 21.6,
+    "weeklyUsedPct": 21.9,
     "resetEt": "Mon Nov 23 \u00b7 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,11 +35,11 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 78
+      "share": 77
     },
     {
       "name": "M\u00f3v\u00e8",
-      "share": 4
+      "share": 5
     },
     {
       "name": "ERICH",
@@ -47,7 +47,7 @@
     },
     {
       "name": "ICT TradeBOT",
-      "share": 4
+      "share": 3
     },
     {
       "name": "MILO",
@@ -59,7 +59,7 @@
     },
     {
       "name": "JasonX",
-      "share": 2
+      "share": 3
     },
     {
       "name": "Rick",
@@ -73,15 +73,15 @@
     },
     {
       "day": "Tue Nov 17",
-      "pct": 46
+      "pct": 44
     },
     {
       "day": "Wed Nov 18",
-      "pct": 43
+      "pct": 42
     },
     {
       "day": "Thu Nov 19",
-      "pct": 12
+      "pct": 14
     }
   ],
   "bots": [
@@ -90,11 +90,11 @@
       "name": "J.A.R.V.I.S \u00b7 C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Thu Nov 19, 2026 \u00b7 5:30 AM ET",
-      "lastSort": "2026-11-19T05:30:05-05:00",
+      "lastEt": "Thu Nov 19, 2026 \u00b7 6:00 AM ET",
+      "lastSort": "2026-11-19T06:00:04-05:00",
       "work": "Command center refresh",
       "needs": "\u2014",
-      "share": 78,
+      "share": 77,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -133,7 +133,7 @@
       "lastSort": "2026-11-15T19:15:15-05:00",
       "work": "Silver-bullet chart markup on a voice call; eval report still blocked on Lucid/TradePath",
       "needs": "Lucid sign-in + TradePath Terms",
-      "share": 4,
+      "share": 3,
       "routines": [
         "ChartingLens lesson + quiz",
         "Study bites",
@@ -167,7 +167,7 @@
       "lastSort": 1814,
       "work": "Work email debrief; new website quotes; booking follow-ups",
       "needs": "Draft approvals for pending client replies",
-      "share": 4,
+      "share": 5,
       "routines": [
         "Client/business/capital email debrief (~25/wk)"
       ],
@@ -213,7 +213,7 @@
       "lastSort": "2026-11-18T05:25:00-05:00",
       "work": "Week 1 Day 3 chest + abs card sent",
       "needs": "\u2014",
-      "share": 2,
+      "share": 3,
       "routines": [
         "5:30 AM workout check-in",
         "Post-workout log check"
