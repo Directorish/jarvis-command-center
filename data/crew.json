@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-19T06:00:04-05:00",
-  "syncedAtEt": "Thu Nov 19, 2026 \u00b7 6:00 AM ET",
+  "syncedAt": "2026-11-19T06:32:39-05:00",
+  "syncedAtEt": "Thu Nov 19, 2026 \u00b7 6:32 AM ET",
   "kpis": {
-    "weeklyUsedPct": 21.9,
+    "weeklyUsedPct": 22.1,
     "resetEt": "Mon Nov 23 \u00b7 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,7 +35,7 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 77
+      "share": 78
     },
     {
       "name": "M\u00f3v\u00e8",
@@ -63,7 +63,7 @@
     },
     {
       "name": "Rick",
-      "share": 2
+      "share": 1
     }
   ],
   "dayShare": [
@@ -73,7 +73,7 @@
     },
     {
       "day": "Tue Nov 17",
-      "pct": 44
+      "pct": 43
     },
     {
       "day": "Wed Nov 18",
@@ -81,7 +81,7 @@
     },
     {
       "day": "Thu Nov 19",
-      "pct": 14
+      "pct": 15
     }
   ],
   "bots": [
@@ -90,11 +90,11 @@
       "name": "J.A.R.V.I.S \u00b7 C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Thu Nov 19, 2026 \u00b7 6:00 AM ET",
-      "lastSort": "2026-11-19T06:00:04-05:00",
+      "lastEt": "Thu Nov 19, 2026 \u00b7 6:32 AM ET",
+      "lastSort": "2026-11-19T06:32:39-05:00",
       "work": "Command center refresh",
       "needs": "\u2014",
-      "share": 77,
+      "share": 78,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -229,7 +229,7 @@
       "lastSort": "2026-11-17T07:21:41-05:00",
       "work": "Morning rental check \u2014 flagged new and changed listings",
       "needs": "\u2014",
-      "share": 2,
+      "share": 1,
       "routines": [
         "Morning rental listing check"
       ],
