@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-19T07:01:20-05:00",
-  "syncedAtEt": "Thu Nov 19, 2026 \u00b7 7:01 AM ET",
+  "syncedAt": "2026-11-19T07:29:47-05:00",
+  "syncedAtEt": "Thu Nov 19, 2026 \u00b7 7:29 AM ET",
   "kpis": {
-    "weeklyUsedPct": 22.2,
+    "weeklyUsedPct": 22.7,
     "resetEt": "Mon Nov 23 \u00b7 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,7 +35,7 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 78
+      "share": 76
     },
     {
       "name": "M\u00f3v\u00e8",
@@ -44,6 +44,10 @@
     {
       "name": "ERICH",
       "share": 4
+    },
+    {
+      "name": "Rick",
+      "share": 3
     },
     {
       "name": "ICT TradeBOT",
@@ -60,10 +64,6 @@
     {
       "name": "JasonX",
       "share": 3
-    },
-    {
-      "name": "Rick",
-      "share": 1
     }
   ],
   "dayShare": [
@@ -73,15 +73,15 @@
     },
     {
       "day": "Tue Nov 17",
-      "pct": 43
-    },
-    {
-      "day": "Wed Nov 18",
       "pct": 42
     },
     {
+      "day": "Wed Nov 18",
+      "pct": 41
+    },
+    {
       "day": "Thu Nov 19",
-      "pct": 15
+      "pct": 17
     }
   ],
   "bots": [
@@ -90,11 +90,11 @@
       "name": "J.A.R.V.I.S \u00b7 C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Thu Nov 19, 2026 \u00b7 7:01 AM ET",
-      "lastSort": "2026-11-19T07:01:20-05:00",
+      "lastEt": "Thu Nov 19, 2026 \u00b7 7:29 AM ET",
+      "lastSort": "2026-11-19T07:29:47-05:00",
       "work": "Command center refresh",
       "needs": "\u2014",
-      "share": 78,
+      "share": 76,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -229,7 +229,7 @@
       "lastSort": "2026-11-17T07:21:41-05:00",
       "work": "Morning rental check \u2014 flagged new and changed listings",
       "needs": "\u2014",
-      "share": 1,
+      "share": 3,
       "routines": [
         "Morning rental listing check"
       ],
