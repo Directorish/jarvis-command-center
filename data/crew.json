@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-20T17:27:35-05:00",
-  "syncedAtEt": "Fri Nov 20, 2026 · 5:27 PM ET",
+  "syncedAt": "2026-11-20T18:03:13-05:00",
+  "syncedAtEt": "Fri Nov 20, 2026 · 6:03 PM ET",
   "kpis": {
-    "weeklyUsedPct": 32.5,
+    "weeklyUsedPct": 32.6,
     "resetEt": "Mon Nov 23 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -43,7 +43,7 @@
     },
     {
       "name": "Móvè",
-      "share": 5
+      "share": 6
     },
     {
       "name": "Salem",
@@ -64,10 +64,6 @@
     {
       "name": "ICT TradeBOT",
       "share": 2
-    },
-    {
-      "name": "Myers",
-      "share": 1
     }
   ],
   "dayShare": [
@@ -94,8 +90,8 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Fri Nov 20, 2026 · 5:27 PM ET",
-      "lastSort": "2026-11-20T17:27:35-05:00",
+      "lastEt": "Fri Nov 20, 2026 · 6:03 PM ET",
+      "lastSort": "2026-11-20T18:03:13-05:00",
       "work": "Command center refresh",
       "needs": "—",
       "share": 70,
@@ -171,7 +167,7 @@
       "lastSort": 1814,
       "work": "Work email debrief; new website quotes; booking follow-ups",
       "needs": "Draft approvals for pending client replies",
-      "share": 5,
+      "share": 6,
       "routines": [
         "Client/business/capital email debrief (~25/wk)"
       ],
