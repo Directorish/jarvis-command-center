@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-20T10:05:18-05:00",
-  "syncedAtEt": "Fri Nov 20, 2026 · 10:05 AM ET",
+  "syncedAt": "2026-11-20T10:25:41-05:00",
+  "syncedAtEt": "Fri Nov 20, 2026 · 10:25 AM ET",
   "kpis": {
-    "weeklyUsedPct": 31.8,
+    "weeklyUsedPct": 31.9,
     "resetEt": "Mon Nov 23 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -39,7 +39,7 @@
     },
     {
       "name": "Rick",
-      "share": 9
+      "share": 8
     },
     {
       "name": "Móvè",
@@ -51,7 +51,7 @@
     },
     {
       "name": "Salem",
-      "share": 3
+      "share": 4
     },
     {
       "name": "MILO",
@@ -90,8 +90,8 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Fri Nov 20, 2026 · 10:05 AM ET",
-      "lastSort": "2026-11-20T10:05:18-05:00",
+      "lastEt": "Fri Nov 20, 2026 · 10:25 AM ET",
+      "lastSort": "2026-11-20T10:25:41-05:00",
       "work": "Command center refresh",
       "needs": "—",
       "share": 71,
@@ -198,7 +198,7 @@
       "lastSort": 1020,
       "work": "No readable chat since Oct 20; morning warehouse listings still consuming usage",
       "needs": "—",
-      "share": 3,
+      "share": 4,
       "routines": [
         "Morning warehouse listings (~55/wk)"
       ],
@@ -229,7 +229,7 @@
       "lastSort": "2026-11-17T07:21:41-05:00",
       "work": "Morning rental check — flagged new and changed listings",
       "needs": "—",
-      "share": 9,
+      "share": 8,
       "routines": [
         "Morning rental listing check"
       ],
