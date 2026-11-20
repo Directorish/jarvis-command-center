@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-20T07:28:47-05:00",
-  "syncedAtEt": "Fri Nov 20, 2026 · 7:28 AM ET",
+  "syncedAt": "2026-11-20T08:05:04-05:00",
+  "syncedAtEt": "Fri Nov 20, 2026 · 8:05 AM ET",
   "kpis": {
-    "weeklyUsedPct": 30.7,
+    "weeklyUsedPct": 31.3,
     "resetEt": "Mon Nov 23 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,11 +35,11 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 72
+      "share": 71
     },
     {
       "name": "Rick",
-      "share": 7
+      "share": 9
     },
     {
       "name": "Móvè",
@@ -64,10 +64,6 @@
     {
       "name": "ICT TradeBOT",
       "share": 2
-    },
-    {
-      "name": "Myers",
-      "share": 1
     }
   ],
   "dayShare": [
@@ -94,11 +90,11 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Fri Nov 20, 2026 · 7:28 AM ET",
-      "lastSort": "2026-11-20T07:28:47-05:00",
+      "lastEt": "Fri Nov 20, 2026 · 8:05 AM ET",
+      "lastSort": "2026-11-20T08:05:04-05:00",
       "work": "Command center refresh",
       "needs": "—",
-      "share": 72,
+      "share": 71,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -233,7 +229,7 @@
       "lastSort": "2026-11-17T07:21:41-05:00",
       "work": "Morning rental check — flagged new and changed listings",
       "needs": "—",
-      "share": 7,
+      "share": 9,
       "routines": [
         "Morning rental listing check"
       ],
