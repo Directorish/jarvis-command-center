@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-19T19:34:25-05:00",
-  "syncedAtEt": "Thu Nov 19, 2026 · 7:34 PM ET",
+  "syncedAt": "2026-11-19T20:05:23-05:00",
+  "syncedAtEt": "Thu Nov 19, 2026 · 8:05 PM ET",
   "kpis": {
-    "weeklyUsedPct": 28.0,
+    "weeklyUsedPct": 28.2,
     "resetEt": "Mon Nov 23 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -38,11 +38,11 @@
       "share": 74
     },
     {
-      "name": "Rick",
+      "name": "Móvè",
       "share": 5
     },
     {
-      "name": "Móvè",
+      "name": "Rick",
       "share": 5
     },
     {
@@ -90,8 +90,8 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Thu Nov 19, 2026 · 7:34 PM ET",
-      "lastSort": "2026-11-19T19:34:25-05:00",
+      "lastEt": "Thu Nov 19, 2026 · 8:05 PM ET",
+      "lastSort": "2026-11-19T20:05:23-05:00",
       "work": "Command center refresh",
       "needs": "—",
       "share": 74,
