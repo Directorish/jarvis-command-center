@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-20T05:02:19-05:00",
-  "syncedAtEt": "Fri Nov 20, 2026 · 5:02 AM ET",
+  "syncedAt": "2026-11-20T05:32:11-05:00",
+  "syncedAtEt": "Fri Nov 20, 2026 · 5:32 AM ET",
   "kpis": {
-    "weeklyUsedPct": 29.5,
+    "weeklyUsedPct": 29.7,
     "resetEt": "Mon Nov 23 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -58,11 +58,11 @@
       "share": 3
     },
     {
-      "name": "ICT TradeBOT",
+      "name": "JasonX",
       "share": 3
     },
     {
-      "name": "JasonX",
+      "name": "ICT TradeBOT",
       "share": 2
     }
   ],
@@ -90,8 +90,8 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Fri Nov 20, 2026 · 5:02 AM ET",
-      "lastSort": "2026-11-20T05:02:19-05:00",
+      "lastEt": "Fri Nov 20, 2026 · 5:32 AM ET",
+      "lastSort": "2026-11-20T05:32:11-05:00",
       "work": "Command center refresh",
       "needs": "—",
       "share": 75,
@@ -133,7 +133,7 @@
       "lastSort": "2026-11-15T19:15:15-05:00",
       "work": "Silver-bullet chart markup on a voice call; eval report still blocked on Lucid/TradePath",
       "needs": "Lucid sign-in + TradePath Terms",
-      "share": 3,
+      "share": 2,
       "routines": [
         "ChartingLens lesson + quiz",
         "Study bites",
@@ -213,7 +213,7 @@
       "lastSort": "2026-11-18T05:25:00-05:00",
       "work": "Week 1 Day 3 chest + abs card sent",
       "needs": "—",
-      "share": 2,
+      "share": 3,
       "routines": [
         "5:30 AM workout check-in",
         "Post-workout log check"
