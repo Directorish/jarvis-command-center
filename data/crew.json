@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-21T10:26:08-05:00",
-  "syncedAtEt": "Sat Nov 21, 2026 · 10:26 AM ET",
+  "syncedAt": "2026-11-21T10:56:30-05:00",
+  "syncedAtEt": "Sat Nov 21, 2026 · 10:56 AM ET",
   "kpis": {
-    "weeklyUsedPct": 34.5,
+    "weeklyUsedPct": 35,
     "resetEt": "Mon Nov 23 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,7 +35,7 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 67
+      "share": 66
     },
     {
       "name": "Rick",
@@ -55,7 +55,7 @@
     },
     {
       "name": "MILO",
-      "share": 4
+      "share": 3
     },
     {
       "name": "JasonX",
@@ -63,6 +63,10 @@
     },
     {
       "name": "ICT TradeBOT",
+      "share": 2
+    },
+    {
+      "name": "Myers",
       "share": 2
     }
   ],
@@ -90,11 +94,11 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Sat Nov 21, 2026 · 10:26 AM ET",
-      "lastSort": "2026-11-21T10:26:08-05:00",
+      "lastEt": "Sat Nov 21, 2026 · 10:56 AM ET",
+      "lastSort": "2026-11-21T10:56:30-05:00",
       "work": "Command center refresh",
       "needs": "—",
-      "share": 67,
+      "share": 66,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -182,7 +186,7 @@
       "lastSort": "2026-11-14T21:07:58-05:00",
       "work": "Saturday nightly check-in sent; streaks awaiting reply",
       "needs": "Reply to nightly check-in",
-      "share": 4,
+      "share": 3,
       "routines": [
         "Morning life brief",
         "Nightly check-in"
@@ -260,7 +264,7 @@
       "lastSort": 937,
       "work": "Last readable: movie recommendation card",
       "needs": "—",
-      "share": 1,
+      "share": 2,
       "routines": [],
       "group": "other"
     },
