@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-21T07:01:53-05:00",
-  "syncedAtEt": "Sat Nov 21, 2026 · 7:01 AM ET",
+  "syncedAt": "2026-11-21T07:28:47-05:00",
+  "syncedAtEt": "Sat Nov 21, 2026 · 7:28 AM ET",
   "kpis": {
-    "weeklyUsedPct": 32.9,
+    "weeklyUsedPct": 34,
     "resetEt": "Mon Nov 23 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,15 +35,15 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 69
+      "share": 67
     },
     {
       "name": "Rick",
-      "share": 8
+      "share": 11
     },
     {
       "name": "Móvè",
-      "share": 6
+      "share": 5
     },
     {
       "name": "Salem",
@@ -55,7 +55,7 @@
     },
     {
       "name": "MILO",
-      "share": 3
+      "share": 4
     },
     {
       "name": "JasonX",
@@ -64,10 +64,6 @@
     {
       "name": "ICT TradeBOT",
       "share": 2
-    },
-    {
-      "name": "Myers",
-      "share": 1
     }
   ],
   "dayShare": [
@@ -94,11 +90,11 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Sat Nov 21, 2026 · 7:01 AM ET",
-      "lastSort": "2026-11-21T07:01:53-05:00",
+      "lastEt": "Sat Nov 21, 2026 · 7:28 AM ET",
+      "lastSort": "2026-11-21T07:28:47-05:00",
       "work": "Command center refresh",
       "needs": "—",
-      "share": 69,
+      "share": 67,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -171,7 +167,7 @@
       "lastSort": 1814,
       "work": "Work email debrief; new website quotes; booking follow-ups",
       "needs": "Draft approvals for pending client replies",
-      "share": 6,
+      "share": 5,
       "routines": [
         "Client/business/capital email debrief (~25/wk)"
       ],
@@ -186,7 +182,7 @@
       "lastSort": "2026-11-14T21:07:58-05:00",
       "work": "Saturday nightly check-in sent; streaks awaiting reply",
       "needs": "Reply to nightly check-in",
-      "share": 3,
+      "share": 4,
       "routines": [
         "Morning life brief",
         "Nightly check-in"
@@ -233,7 +229,7 @@
       "lastSort": "2026-11-17T07:21:41-05:00",
       "work": "Morning rental check — flagged new and changed listings",
       "needs": "—",
-      "share": 8,
+      "share": 11,
       "routines": [
         "Morning rental listing check"
       ],
