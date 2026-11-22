@@ -1,15 +1,6 @@
 {
   "points": [
     {
-      "t": "2026-11-18T13:56:20-05:00",
-      "et": "Nov 18 1:56 PM",
-      "weeklyUsedPct": 17.3,
-      "active": 7,
-      "blocked": 2,
-      "needsYou": 5,
-      "quietIdle": 28
-    },
-    {
       "t": "2026-11-18T14:30:10-05:00",
       "et": "Nov 18 2:30 PM",
       "weeklyUsedPct": 17.5,
@@ -1794,6 +1785,15 @@
     {
       "t": "2026-11-22T17:28:58-05:00",
       "et": "Nov 22 5:28 PM",
+      "weeklyUsedPct": 36.6,
+      "active": 7,
+      "blocked": 2,
+      "needsYou": 5,
+      "quietIdle": 28
+    },
+    {
+      "t": "2026-11-22T17:56:45-05:00",
+      "et": "Nov 22 5:56 PM",
       "weeklyUsedPct": 36.6,
       "active": 7,
       "blocked": 2,
