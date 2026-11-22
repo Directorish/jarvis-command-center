@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-22T07:27:23-05:00",
-  "syncedAtEt": "Sun Nov 22, 2026 · 7:27 AM ET",
+  "syncedAt": "2026-11-22T08:01:41-05:00",
+  "syncedAtEt": "Sun Nov 22, 2026 · 8:01 AM ET",
   "kpis": {
-    "weeklyUsedPct": 35.7,
+    "weeklyUsedPct": 36,
     "resetEt": "Mon Nov 23 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,7 +35,7 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 66
+      "share": 65
     },
     {
       "name": "Rick",
@@ -50,16 +50,16 @@
       "share": 4
     },
     {
+      "name": "MILO",
+      "share": 4
+    },
+    {
       "name": "ERICH",
       "share": 4
     },
     {
-      "name": "MILO",
-      "share": 3
-    },
-    {
       "name": "JasonX",
-      "share": 3
+      "share": 4
     },
     {
       "name": "ICT TradeBOT",
@@ -67,7 +67,7 @@
     },
     {
       "name": "Myers",
-      "share": 2
+      "share": 1
     }
   ],
   "dayShare": [
@@ -94,11 +94,11 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Sun Nov 22, 2026 · 7:27 AM ET",
-      "lastSort": "2026-11-22T07:27:23-05:00",
+      "lastEt": "Sun Nov 22, 2026 · 8:01 AM ET",
+      "lastSort": "2026-11-22T08:01:41-05:00",
       "work": "Command center refresh",
       "needs": "—",
-      "share": 66,
+      "share": 65,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -186,7 +186,7 @@
       "lastSort": "2026-11-14T21:07:58-05:00",
       "work": "Saturday nightly check-in sent; streaks awaiting reply",
       "needs": "Reply to nightly check-in",
-      "share": 3,
+      "share": 4,
       "routines": [
         "Morning life brief",
         "Nightly check-in"
@@ -217,7 +217,7 @@
       "lastSort": "2026-11-18T05:25:00-05:00",
       "work": "Week 1 Day 3 chest + abs card sent",
       "needs": "—",
-      "share": 3,
+      "share": 4,
       "routines": [
         "5:30 AM workout check-in",
         "Post-workout log check"
@@ -264,7 +264,7 @@
       "lastSort": 937,
       "work": "Last readable: movie recommendation card",
       "needs": "—",
-      "share": 2,
+      "share": 1,
       "routines": [],
       "group": "other"
     },
