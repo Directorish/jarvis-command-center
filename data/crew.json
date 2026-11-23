@@ -1,6 +1,6 @@
 {
-  "syncedAt": "2026-11-23T16:02:59-05:00",
-  "syncedAtEt": "Mon Nov 23, 2026 · 4:02 PM ET",
+  "syncedAt": "2026-11-23T16:29:29-05:00",
+  "syncedAtEt": "Mon Nov 23, 2026 · 4:29 PM ET",
   "kpis": {
     "weeklyUsedPct": 40.1,
     "resetEt": "Mon Nov 23 · 6:33 PM ET",
@@ -46,11 +46,11 @@
       "share": 5
     },
     {
-      "name": "ERICH",
+      "name": "Salem",
       "share": 4
     },
     {
-      "name": "Salem",
+      "name": "ERICH",
       "share": 4
     },
     {
@@ -94,8 +94,8 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Mon Nov 23, 2026 · 4:02 PM ET",
-      "lastSort": "2026-11-23T16:02:59-05:00",
+      "lastEt": "Mon Nov 23, 2026 · 4:29 PM ET",
+      "lastSort": "2026-11-23T16:29:29-05:00",
       "work": "Command center refresh",
       "needs": "—",
       "share": 63,
