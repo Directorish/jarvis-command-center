@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-23T05:03:36-05:00",
-  "syncedAtEt": "Mon Nov 23, 2026 · 5:03 AM ET",
+  "syncedAt": "2026-11-23T05:34:16-05:00",
+  "syncedAtEt": "Mon Nov 23, 2026 · 5:34 AM ET",
   "kpis": {
-    "weeklyUsedPct": 37.8,
+    "weeklyUsedPct": 37.9,
     "resetEt": "Mon Nov 23 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,7 +35,7 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 64
+      "share": 63
     },
     {
       "name": "Rick",
@@ -63,7 +63,7 @@
     },
     {
       "name": "JasonX",
-      "share": 3
+      "share": 4
     },
     {
       "name": "ICT TradeBOT",
@@ -94,11 +94,11 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Mon Nov 23, 2026 · 5:03 AM ET",
-      "lastSort": "2026-11-23T05:03:36-05:00",
+      "lastEt": "Mon Nov 23, 2026 · 5:34 AM ET",
+      "lastSort": "2026-11-23T05:34:16-05:00",
       "work": "Command center refresh",
       "needs": "—",
-      "share": 64,
+      "share": 63,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -217,7 +217,7 @@
       "lastSort": "2026-11-18T05:25:00-05:00",
       "work": "Week 1 Day 3 chest + abs card sent",
       "needs": "—",
-      "share": 3,
+      "share": 4,
       "routines": [
         "5:30 AM workout check-in",
         "Post-workout log check"
