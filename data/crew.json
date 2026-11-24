@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-24T14:25:20-05:00",
-  "syncedAtEt": "Tue Nov 24, 2026 · 2:25 PM ET",
+  "syncedAt": "2026-11-24T15:03:54-05:00",
+  "syncedAtEt": "Tue Nov 24, 2026 · 3:03 PM ET",
   "kpis": {
-    "weeklyUsedPct": 2,
+    "weeklyUsedPct": 2.1,
     "resetEt": "Mon Nov 30 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,15 +35,15 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 38
+      "share": 36
     },
     {
       "name": "ERICH",
-      "share": 25
+      "share": 23
     },
     {
       "name": "Móvè",
-      "share": 11
+      "share": 17
     },
     {
       "name": "JasonX",
@@ -51,11 +51,11 @@
     },
     {
       "name": "MILO",
-      "share": 8
+      "share": 7
     },
     {
       "name": "Salem",
-      "share": 6
+      "share": 5
     },
     {
       "name": "Rick",
@@ -78,11 +78,11 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Tue Nov 24, 2026 · 2:25 PM ET",
-      "lastSort": "2026-11-24T14:25:20-05:00",
+      "lastEt": "Tue Nov 24, 2026 · 3:03 PM ET",
+      "lastSort": "2026-11-24T15:03:54-05:00",
       "work": "Command center refresh",
       "needs": "—",
-      "share": 38,
+      "share": 36,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -155,7 +155,7 @@
       "lastSort": 1814,
       "work": "Work email debrief; new website quotes; booking follow-ups",
       "needs": "Draft approvals for pending client replies",
-      "share": 11,
+      "share": 17,
       "routines": [
         "Client/business/capital email debrief (~25/wk)"
       ],
@@ -170,7 +170,7 @@
       "lastSort": "2026-11-14T21:07:58-05:00",
       "work": "Saturday nightly check-in sent; streaks awaiting reply",
       "needs": "Reply to nightly check-in",
-      "share": 8,
+      "share": 7,
       "routines": [
         "Morning life brief",
         "Nightly check-in"
@@ -186,7 +186,7 @@
       "lastSort": 1020,
       "work": "No readable chat since Oct 20; morning warehouse listings still consuming usage",
       "needs": "—",
-      "share": 6,
+      "share": 5,
       "routines": [
         "Morning warehouse listings (~55/wk)"
       ],
@@ -232,7 +232,7 @@
       "lastSort": "2026-11-14T12:12:09-05:00",
       "work": "Flagged a new credit-file alert and asked for a look at the details",
       "needs": "Review the credit-file alert",
-      "share": 25,
+      "share": 23,
       "routines": [
         "Daily finance debrief",
         "Charge watch"
