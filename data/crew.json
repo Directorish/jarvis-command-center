@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-24T07:27:37-05:00",
-  "syncedAtEt": "Tue Nov 24, 2026 · 7:27 AM ET",
+  "syncedAt": "2026-11-24T08:03:05-05:00",
+  "syncedAtEt": "Tue Nov 24, 2026 · 8:03 AM ET",
   "kpis": {
-    "weeklyUsedPct": 1.2,
+    "weeklyUsedPct": 1.3,
     "resetEt": "Mon Nov 30 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,23 +35,23 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 39
+      "share": 38
     },
     {
       "name": "ERICH",
-      "share": 30
-    },
-    {
-      "name": "MILO",
-      "share": 14
-    },
-    {
-      "name": "Rick",
-      "share": 7
+      "share": 27
     },
     {
       "name": "JasonX",
-      "share": 7
+      "share": 13
+    },
+    {
+      "name": "MILO",
+      "share": 13
+    },
+    {
+      "name": "Rick",
+      "share": 6
     },
     {
       "name": "Móvè",
@@ -61,11 +61,11 @@
   "dayShare": [
     {
       "day": "Mon Nov 23",
-      "pct": 12
+      "pct": 11
     },
     {
       "day": "Tue Nov 24",
-      "pct": 88
+      "pct": 89
     }
   ],
   "bots": [
@@ -74,11 +74,11 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Tue Nov 24, 2026 · 7:27 AM ET",
-      "lastSort": "2026-11-24T07:27:37-05:00",
+      "lastEt": "Tue Nov 24, 2026 · 8:03 AM ET",
+      "lastSort": "2026-11-24T08:03:05-05:00",
       "work": "Command center refresh",
       "needs": "—",
-      "share": 39,
+      "share": 38,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -166,7 +166,7 @@
       "lastSort": "2026-11-14T21:07:58-05:00",
       "work": "Saturday nightly check-in sent; streaks awaiting reply",
       "needs": "Reply to nightly check-in",
-      "share": 14,
+      "share": 13,
       "routines": [
         "Morning life brief",
         "Nightly check-in"
@@ -197,7 +197,7 @@
       "lastSort": "2026-11-18T05:25:00-05:00",
       "work": "Week 1 Day 3 chest + abs card sent",
       "needs": "—",
-      "share": 7,
+      "share": 13,
       "routines": [
         "5:30 AM workout check-in",
         "Post-workout log check"
@@ -213,7 +213,7 @@
       "lastSort": "2026-11-17T07:21:41-05:00",
       "work": "Morning rental check — flagged new and changed listings",
       "needs": "—",
-      "share": 7,
+      "share": 6,
       "routines": [
         "Morning rental listing check"
       ],
@@ -228,7 +228,7 @@
       "lastSort": "2026-11-14T12:12:09-05:00",
       "work": "Flagged a new credit-file alert and asked for a look at the details",
       "needs": "Review the credit-file alert",
-      "share": 30,
+      "share": 27,
       "routines": [
         "Daily finance debrief",
         "Charge watch"
