@@ -1,6 +1,6 @@
 {
-  "syncedAt": "2026-11-24T18:05:05-05:00",
-  "syncedAtEt": "Tue Nov 24, 2026 · 6:05 PM ET",
+  "syncedAt": "2026-11-24T18:28:02-05:00",
+  "syncedAtEt": "Tue Nov 24, 2026 · 6:28 PM ET",
   "kpis": {
     "weeklyUsedPct": 2.2,
     "resetEt": "Mon Nov 30 · 6:33 PM ET",
@@ -39,18 +39,18 @@
     },
     {
       "name": "ERICH",
-      "share": 22
+      "share": 21
     },
     {
       "name": "Móvè",
       "share": 18
     },
     {
-      "name": "JasonX",
+      "name": "Salem",
       "share": 7
     },
     {
-      "name": "Salem",
+      "name": "JasonX",
       "share": 7
     },
     {
@@ -59,7 +59,7 @@
     },
     {
       "name": "Rick",
-      "share": 3
+      "share": 4
     }
   ],
   "dayShare": [
@@ -78,8 +78,8 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Tue Nov 24, 2026 · 6:05 PM ET",
-      "lastSort": "2026-11-24T18:05:05-05:00",
+      "lastEt": "Tue Nov 24, 2026 · 6:28 PM ET",
+      "lastSort": "2026-11-24T18:28:02-05:00",
       "work": "Command center refresh",
       "needs": "—",
       "share": 36,
@@ -217,7 +217,7 @@
       "lastSort": "2026-11-17T07:21:41-05:00",
       "work": "Morning rental check — flagged new and changed listings",
       "needs": "—",
-      "share": 3,
+      "share": 4,
       "routines": [
         "Morning rental listing check"
       ],
@@ -232,7 +232,7 @@
       "lastSort": "2026-11-14T12:12:09-05:00",
       "work": "Flagged a new credit-file alert and asked for a look at the details",
       "needs": "Review the credit-file alert",
-      "share": 22,
+      "share": 21,
       "routines": [
         "Daily finance debrief",
         "Charge watch"
