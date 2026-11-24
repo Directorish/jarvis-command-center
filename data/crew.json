@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-24T09:56:21-05:00",
-  "syncedAtEt": "Tue Nov 24, 2026 · 9:56 AM ET",
+  "syncedAt": "2026-11-24T10:25:23-05:00",
+  "syncedAtEt": "Tue Nov 24, 2026 · 10:25 AM ET",
   "kpis": {
-    "weeklyUsedPct": 1.6,
+    "weeklyUsedPct": 1.7,
     "resetEt": "Mon Nov 30 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,11 +35,11 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 41
+      "share": 42
     },
     {
       "name": "ERICH",
-      "share": 27
+      "share": 26
     },
     {
       "name": "JasonX",
@@ -47,7 +47,7 @@
     },
     {
       "name": "MILO",
-      "share": 10
+      "share": 9
     },
     {
       "name": "Rick",
@@ -59,7 +59,7 @@
     },
     {
       "name": "Salem",
-      "share": 2
+      "share": 3
     }
   ],
   "dayShare": [
@@ -78,11 +78,11 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Tue Nov 24, 2026 · 9:56 AM ET",
-      "lastSort": "2026-11-24T09:56:21-05:00",
+      "lastEt": "Tue Nov 24, 2026 · 10:25 AM ET",
+      "lastSort": "2026-11-24T10:25:23-05:00",
       "work": "Command center refresh",
       "needs": "—",
-      "share": 41,
+      "share": 42,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -170,7 +170,7 @@
       "lastSort": "2026-11-14T21:07:58-05:00",
       "work": "Saturday nightly check-in sent; streaks awaiting reply",
       "needs": "Reply to nightly check-in",
-      "share": 10,
+      "share": 9,
       "routines": [
         "Morning life brief",
         "Nightly check-in"
@@ -186,7 +186,7 @@
       "lastSort": 1020,
       "work": "No readable chat since Oct 20; morning warehouse listings still consuming usage",
       "needs": "—",
-      "share": 2,
+      "share": 3,
       "routines": [
         "Morning warehouse listings (~55/wk)"
       ],
@@ -232,7 +232,7 @@
       "lastSort": "2026-11-14T12:12:09-05:00",
       "work": "Flagged a new credit-file alert and asked for a look at the details",
       "needs": "Review the credit-file alert",
-      "share": 27,
+      "share": 26,
       "routines": [
         "Daily finance debrief",
         "Charge watch"
