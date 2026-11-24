@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-24T01:34:28-05:00",
-  "syncedAtEt": "Tue Nov 24, 2026 · 1:34 AM ET",
+  "syncedAt": "2026-11-24T01:59:43-05:00",
+  "syncedAtEt": "Tue Nov 24, 2026 · 1:59 AM ET",
   "kpis": {
-    "weeklyUsedPct": 0.8,
+    "weeklyUsedPct": 0.9,
     "resetEt": "Mon Nov 30 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -34,26 +34,26 @@
   ],
   "usageTop": [
     {
-      "name": "ERICH",
-      "share": 46
+      "name": "J.A.R.V.I.S",
+      "share": 50
     },
     {
-      "name": "J.A.R.V.I.S",
-      "share": 44
+      "name": "ERICH",
+      "share": 41
     },
     {
       "name": "MILO",
-      "share": 10
+      "share": 9
     }
   ],
   "dayShare": [
     {
-      "day": "Tue Nov 24",
-      "pct": 81
+      "day": "Mon Nov 23",
+      "pct": 17
     },
     {
-      "day": "Mon Nov 23",
-      "pct": 19
+      "day": "Tue Nov 24",
+      "pct": 83
     }
   ],
   "bots": [
@@ -62,11 +62,11 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Tue Nov 24, 2026 · 1:34 AM ET",
-      "lastSort": "2026-11-24T01:34:28-05:00",
+      "lastEt": "Tue Nov 24, 2026 · 1:59 AM ET",
+      "lastSort": "2026-11-24T01:59:43-05:00",
       "work": "Command center refresh",
       "needs": "—",
-      "share": 44,
+      "share": 50,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -154,7 +154,7 @@
       "lastSort": "2026-11-14T21:07:58-05:00",
       "work": "Saturday nightly check-in sent; streaks awaiting reply",
       "needs": "Reply to nightly check-in",
-      "share": 10,
+      "share": 9,
       "routines": [
         "Morning life brief",
         "Nightly check-in"
@@ -216,7 +216,7 @@
       "lastSort": "2026-11-14T12:12:09-05:00",
       "work": "Flagged a new credit-file alert and asked for a look at the details",
       "needs": "Review the credit-file alert",
-      "share": 46,
+      "share": 41,
       "routines": [
         "Daily finance debrief",
         "Charge watch"
