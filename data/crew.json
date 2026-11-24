@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-23T18:58:19-05:00",
-  "syncedAtEt": "Mon Nov 23, 2026 · 6:58 PM ET",
+  "syncedAt": "2026-11-23T19:25:14-05:00",
+  "syncedAtEt": "Mon Nov 23, 2026 · 7:25 PM ET",
   "kpis": {
-    "weeklyUsedPct": 0.2,
+    "weeklyUsedPct": 0.6,
     "resetEt": "Mon Nov 30 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -34,8 +34,12 @@
   ],
   "usageTop": [
     {
+      "name": "ERICH",
+      "share": 57
+    },
+    {
       "name": "J.A.R.V.I.S",
-      "share": 100
+      "share": 43
     }
   ],
   "dayShare": [
@@ -62,11 +66,11 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Mon Nov 23, 2026 · 6:58 PM ET",
-      "lastSort": "2026-11-23T18:58:19-05:00",
+      "lastEt": "Mon Nov 23, 2026 · 7:25 PM ET",
+      "lastSort": "2026-11-23T19:25:14-05:00",
       "work": "Command center refresh",
       "needs": "—",
-      "share": 100,
+      "share": 43,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -216,7 +220,7 @@
       "lastSort": "2026-11-14T12:12:09-05:00",
       "work": "Flagged a new credit-file alert and asked for a look at the details",
       "needs": "Review the credit-file alert",
-      "share": 4,
+      "share": 57,
       "routines": [
         "Daily finance debrief",
         "Charge watch"
