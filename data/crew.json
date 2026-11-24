@@ -1,6 +1,6 @@
 {
-  "syncedAt": "2026-11-24T01:02:50-05:00",
-  "syncedAtEt": "Tue Nov 24, 2026 · 1:02 AM ET",
+  "syncedAt": "2026-11-24T01:34:28-05:00",
+  "syncedAtEt": "Tue Nov 24, 2026 · 1:34 AM ET",
   "kpis": {
     "weeklyUsedPct": 0.8,
     "resetEt": "Mon Nov 30 · 6:33 PM ET",
@@ -35,32 +35,24 @@
   "usageTop": [
     {
       "name": "ERICH",
-      "share": 49
+      "share": 46
     },
     {
       "name": "J.A.R.V.I.S",
-      "share": 40
+      "share": 44
     },
     {
       "name": "MILO",
-      "share": 11
+      "share": 10
     }
   ],
   "dayShare": [
     {
-      "day": "Mon Nov 16",
-      "pct": 1
+      "day": "Tue Nov 24",
+      "pct": 81
     },
     {
-      "day": "Tue Nov 17",
-      "pct": 41
-    },
-    {
-      "day": "Wed Nov 18",
-      "pct": 40
-    },
-    {
-      "day": "Thu Nov 19",
+      "day": "Mon Nov 23",
       "pct": 19
     }
   ],
@@ -70,11 +62,11 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Tue Nov 24, 2026 · 1:02 AM ET",
-      "lastSort": "2026-11-24T01:02:50-05:00",
+      "lastEt": "Tue Nov 24, 2026 · 1:34 AM ET",
+      "lastSort": "2026-11-24T01:34:28-05:00",
       "work": "Command center refresh",
       "needs": "—",
-      "share": 40,
+      "share": 44,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -113,7 +105,7 @@
       "lastSort": "2026-11-15T19:15:15-05:00",
       "work": "Silver-bullet chart markup on a voice call; eval report still blocked on Lucid/TradePath",
       "needs": "Lucid sign-in + TradePath Terms",
-      "share": 2,
+      "share": 0,
       "routines": [
         "ChartingLens lesson + quiz",
         "Study bites",
@@ -147,7 +139,7 @@
       "lastSort": 1814,
       "work": "Work email debrief; new website quotes; booking follow-ups",
       "needs": "Draft approvals for pending client replies",
-      "share": 5,
+      "share": 0,
       "routines": [
         "Client/business/capital email debrief (~25/wk)"
       ],
@@ -162,7 +154,7 @@
       "lastSort": "2026-11-14T21:07:58-05:00",
       "work": "Saturday nightly check-in sent; streaks awaiting reply",
       "needs": "Reply to nightly check-in",
-      "share": 11,
+      "share": 10,
       "routines": [
         "Morning life brief",
         "Nightly check-in"
@@ -178,7 +170,7 @@
       "lastSort": 1020,
       "work": "No readable chat since Oct 20; morning warehouse listings still consuming usage",
       "needs": "—",
-      "share": 4,
+      "share": 0,
       "routines": [
         "Morning warehouse listings (~55/wk)"
       ],
@@ -193,7 +185,7 @@
       "lastSort": "2026-11-18T05:25:00-05:00",
       "work": "Week 1 Day 3 chest + abs card sent",
       "needs": "—",
-      "share": 4,
+      "share": 0,
       "routines": [
         "5:30 AM workout check-in",
         "Post-workout log check"
@@ -209,7 +201,7 @@
       "lastSort": "2026-11-17T07:21:41-05:00",
       "work": "Morning rental check — flagged new and changed listings",
       "needs": "—",
-      "share": 10,
+      "share": 0,
       "routines": [
         "Morning rental listing check"
       ],
@@ -224,7 +216,7 @@
       "lastSort": "2026-11-14T12:12:09-05:00",
       "work": "Flagged a new credit-file alert and asked for a look at the details",
       "needs": "Review the credit-file alert",
-      "share": 49,
+      "share": 46,
       "routines": [
         "Daily finance debrief",
         "Charge watch"
@@ -240,7 +232,7 @@
       "lastSort": 937,
       "work": "Last readable: movie recommendation card",
       "needs": "—",
-      "share": 4,
+      "share": 0,
       "routines": [],
       "group": "other"
     },
