@@ -1,6 +1,6 @@
 {
-  "syncedAt": "2026-11-24T15:03:54-05:00",
-  "syncedAtEt": "Tue Nov 24, 2026 · 3:03 PM ET",
+  "syncedAt": "2026-11-24T15:26:54-05:00",
+  "syncedAtEt": "Tue Nov 24, 2026 · 3:26 PM ET",
   "kpis": {
     "weeklyUsedPct": 2.1,
     "resetEt": "Mon Nov 30 · 6:33 PM ET",
@@ -47,7 +47,7 @@
     },
     {
       "name": "JasonX",
-      "share": 8
+      "share": 7
     },
     {
       "name": "MILO",
@@ -55,7 +55,7 @@
     },
     {
       "name": "Salem",
-      "share": 5
+      "share": 6
     },
     {
       "name": "Rick",
@@ -78,8 +78,8 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Tue Nov 24, 2026 · 3:03 PM ET",
-      "lastSort": "2026-11-24T15:03:54-05:00",
+      "lastEt": "Tue Nov 24, 2026 · 3:26 PM ET",
+      "lastSort": "2026-11-24T15:26:54-05:00",
       "work": "Command center refresh",
       "needs": "—",
       "share": 36,
@@ -186,7 +186,7 @@
       "lastSort": 1020,
       "work": "No readable chat since Oct 20; morning warehouse listings still consuming usage",
       "needs": "—",
-      "share": 5,
+      "share": 6,
       "routines": [
         "Morning warehouse listings (~55/wk)"
       ],
@@ -201,7 +201,7 @@
       "lastSort": "2026-11-18T05:25:00-05:00",
       "work": "Week 1 Day 3 chest + abs card sent",
       "needs": "—",
-      "share": 8,
+      "share": 7,
       "routines": [
         "5:30 AM workout check-in",
         "Post-workout log check"
