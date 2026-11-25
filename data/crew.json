@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-25T07:28:28-05:00",
-  "syncedAtEt": "Wed Nov 25, 2026 · 7:28 AM ET",
+  "syncedAt": "2026-11-25T07:56:06-05:00",
+  "syncedAtEt": "Wed Nov 25, 2026 · 7:56 AM ET",
   "kpis": {
-    "weeklyUsedPct": 2.6,
+    "weeklyUsedPct": 2.7,
     "resetEt": "Mon Nov 30 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -39,19 +39,19 @@
     },
     {
       "name": "ERICH",
-      "share": 18
+      "share": 17
     },
     {
       "name": "Móvè",
-      "share": 18
+      "share": 16
+    },
+    {
+      "name": "MILO",
+      "share": 12
     },
     {
       "name": "JasonX",
       "share": 10
-    },
-    {
-      "name": "MILO",
-      "share": 9
     },
     {
       "name": "Salem",
@@ -69,11 +69,11 @@
     },
     {
       "day": "Tue Nov 24",
-      "pct": 80
+      "pct": 77
     },
     {
       "day": "Wed Nov 25",
-      "pct": 15
+      "pct": 18
     }
   ],
   "bots": [
@@ -82,8 +82,8 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Wed Nov 25, 2026 · 7:28 AM ET",
-      "lastSort": "2026-11-25T07:28:28-05:00",
+      "lastEt": "Wed Nov 25, 2026 · 7:56 AM ET",
+      "lastSort": "2026-11-25T07:56:06-05:00",
       "work": "Command center refresh",
       "needs": "—",
       "share": 33,
@@ -159,7 +159,7 @@
       "lastSort": 1814,
       "work": "Work email debrief; new website quotes; booking follow-ups",
       "needs": "Draft approvals for pending client replies",
-      "share": 18,
+      "share": 16,
       "routines": [
         "Client/business/capital email debrief (~25/wk)"
       ],
@@ -174,7 +174,7 @@
       "lastSort": "2026-11-14T21:07:58-05:00",
       "work": "Saturday nightly check-in sent; streaks awaiting reply",
       "needs": "Reply to nightly check-in",
-      "share": 9,
+      "share": 12,
       "routines": [
         "Morning life brief",
         "Nightly check-in"
@@ -236,7 +236,7 @@
       "lastSort": "2026-11-14T12:12:09-05:00",
       "work": "Flagged a new credit-file alert and asked for a look at the details",
       "needs": "Review the credit-file alert",
-      "share": 18,
+      "share": 17,
       "routines": [
         "Daily finance debrief",
         "Charge watch"
