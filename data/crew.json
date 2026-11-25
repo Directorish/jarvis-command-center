@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-25T13:00:39-05:00",
-  "syncedAtEt": "Wed Nov 25, 2026 · 1:00 PM ET",
+  "syncedAt": "2026-11-25T13:26:34-05:00",
+  "syncedAtEt": "Wed Nov 25, 2026 · 1:26 PM ET",
   "kpis": {
-    "weeklyUsedPct": 3.2,
+    "weeklyUsedPct": 3.3,
     "resetEt": "Mon Nov 30 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,7 +35,7 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 34
+      "share": 35
     },
     {
       "name": "ERICH",
@@ -43,7 +43,7 @@
     },
     {
       "name": "Móvè",
-      "share": 17
+      "share": 16
     },
     {
       "name": "MILO",
@@ -69,11 +69,11 @@
     },
     {
       "day": "Tue Nov 24",
-      "pct": 66
+      "pct": 65
     },
     {
       "day": "Wed Nov 25",
-      "pct": 30
+      "pct": 31
     }
   ],
   "bots": [
@@ -82,11 +82,11 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Wed Nov 25, 2026 · 1:00 PM ET",
-      "lastSort": "2026-11-25T13:00:39-05:00",
+      "lastEt": "Wed Nov 25, 2026 · 1:26 PM ET",
+      "lastSort": "2026-11-25T13:26:34-05:00",
       "work": "Command center refresh",
       "needs": "—",
-      "share": 34,
+      "share": 35,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -159,7 +159,7 @@
       "lastSort": 1814,
       "work": "Work email debrief; new website quotes; booking follow-ups",
       "needs": "Draft approvals for pending client replies",
-      "share": 17,
+      "share": 16,
       "routines": [
         "Client/business/capital email debrief (~25/wk)"
       ],
