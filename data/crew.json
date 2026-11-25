@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-25T15:03:09-05:00",
-  "syncedAtEt": "Wed Nov 25, 2026 · 3:03 PM ET",
+  "syncedAt": "2026-11-25T15:34:33-05:00",
+  "syncedAtEt": "Wed Nov 25, 2026 · 3:34 PM ET",
   "kpis": {
-    "weeklyUsedPct": 3.3,
+    "weeklyUsedPct": 3.4,
     "resetEt": "Mon Nov 30 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -50,11 +50,11 @@
       "share": 10
     },
     {
-      "name": "JasonX",
+      "name": "Salem",
       "share": 8
     },
     {
-      "name": "Salem",
+      "name": "JasonX",
       "share": 8
     },
     {
@@ -82,8 +82,8 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Wed Nov 25, 2026 · 3:03 PM ET",
-      "lastSort": "2026-11-25T15:03:09-05:00",
+      "lastEt": "Wed Nov 25, 2026 · 3:34 PM ET",
+      "lastSort": "2026-11-25T15:34:33-05:00",
       "work": "Command center refresh",
       "needs": "—",
       "share": 34,
