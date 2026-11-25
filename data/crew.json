@@ -1,6 +1,6 @@
 {
-  "syncedAt": "2026-11-25T14:31:36-05:00",
-  "syncedAtEt": "Wed Nov 25, 2026 · 2:31 PM ET",
+  "syncedAt": "2026-11-25T15:03:09-05:00",
+  "syncedAtEt": "Wed Nov 25, 2026 · 3:03 PM ET",
   "kpis": {
     "weeklyUsedPct": 3.3,
     "resetEt": "Mon Nov 30 · 6:33 PM ET",
@@ -35,15 +35,15 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 35
-    },
-    {
-      "name": "ERICH",
-      "share": 18
+      "share": 34
     },
     {
       "name": "Móvè",
-      "share": 16
+      "share": 18
+    },
+    {
+      "name": "ERICH",
+      "share": 17
     },
     {
       "name": "MILO",
@@ -82,11 +82,11 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Wed Nov 25, 2026 · 2:31 PM ET",
-      "lastSort": "2026-11-25T14:31:36-05:00",
+      "lastEt": "Wed Nov 25, 2026 · 3:03 PM ET",
+      "lastSort": "2026-11-25T15:03:09-05:00",
       "work": "Command center refresh",
       "needs": "—",
-      "share": 35,
+      "share": 34,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -159,7 +159,7 @@
       "lastSort": 1814,
       "work": "Work email debrief; new website quotes; booking follow-ups",
       "needs": "Draft approvals for pending client replies",
-      "share": 16,
+      "share": 18,
       "routines": [
         "Client/business/capital email debrief (~25/wk)"
       ],
@@ -236,7 +236,7 @@
       "lastSort": "2026-11-14T12:12:09-05:00",
       "work": "Flagged a new credit-file alert and asked for a look at the details",
       "needs": "Review the credit-file alert",
-      "share": 18,
+      "share": 17,
       "routines": [
         "Daily finance debrief",
         "Charge watch"
