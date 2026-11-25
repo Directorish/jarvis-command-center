@@ -1,6 +1,6 @@
 {
-  "syncedAt": "2026-11-25T16:04:28-05:00",
-  "syncedAtEt": "Wed Nov 25, 2026 · 4:04 PM ET",
+  "syncedAt": "2026-11-25T16:27:11-05:00",
+  "syncedAtEt": "Wed Nov 25, 2026 · 4:27 PM ET",
   "kpis": {
     "weeklyUsedPct": 3.4,
     "resetEt": "Mon Nov 30 · 6:33 PM ET",
@@ -35,7 +35,7 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 34
+      "share": 35
     },
     {
       "name": "Móvè",
@@ -47,11 +47,11 @@
     },
     {
       "name": "MILO",
-      "share": 10
+      "share": 9
     },
     {
       "name": "Salem",
-      "share": 8
+      "share": 9
     },
     {
       "name": "JasonX",
@@ -59,7 +59,7 @@
     },
     {
       "name": "Rick",
-      "share": 5
+      "share": 4
     }
   ],
   "dayShare": [
@@ -69,11 +69,11 @@
     },
     {
       "day": "Tue Nov 24",
-      "pct": 63
+      "pct": 61
     },
     {
       "day": "Wed Nov 25",
-      "pct": 33
+      "pct": 35
     }
   ],
   "bots": [
@@ -82,11 +82,11 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Wed Nov 25, 2026 · 4:04 PM ET",
-      "lastSort": "2026-11-25T16:04:28-05:00",
+      "lastEt": "Wed Nov 25, 2026 · 4:27 PM ET",
+      "lastSort": "2026-11-25T16:27:11-05:00",
       "work": "Command center refresh",
       "needs": "—",
-      "share": 34,
+      "share": 35,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -174,7 +174,7 @@
       "lastSort": "2026-11-14T21:07:58-05:00",
       "work": "Saturday nightly check-in sent; streaks awaiting reply",
       "needs": "Reply to nightly check-in",
-      "share": 10,
+      "share": 9,
       "routines": [
         "Morning life brief",
         "Nightly check-in"
@@ -190,7 +190,7 @@
       "lastSort": 1020,
       "work": "No readable chat since Oct 20; morning warehouse listings still consuming usage",
       "needs": "—",
-      "share": 8,
+      "share": 9,
       "routines": [
         "Morning warehouse listings (~55/wk)"
       ],
@@ -221,7 +221,7 @@
       "lastSort": "2026-11-17T07:21:41-05:00",
       "work": "Morning rental check — flagged new and changed listings",
       "needs": "—",
-      "share": 5,
+      "share": 4,
       "routines": [
         "Morning rental listing check"
       ],
