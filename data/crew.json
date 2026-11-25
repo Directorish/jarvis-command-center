@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-25T04:58:17-05:00",
-  "syncedAtEt": "Wed Nov 25, 2026 · 4:58 AM ET",
+  "syncedAt": "2026-11-25T05:32:08-05:00",
+  "syncedAtEt": "Wed Nov 25, 2026 · 5:32 AM ET",
   "kpis": {
-    "weeklyUsedPct": 2.3,
+    "weeklyUsedPct": 2.4,
     "resetEt": "Mon Nov 30 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,7 +35,7 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 36
+      "share": 35
     },
     {
       "name": "ERICH",
@@ -50,11 +50,11 @@
       "share": 10
     },
     {
-      "name": "Salem",
-      "share": 7
+      "name": "JasonX",
+      "share": 8
     },
     {
-      "name": "JasonX",
+      "name": "Salem",
       "share": 7
     },
     {
@@ -65,15 +65,15 @@
   "dayShare": [
     {
       "day": "Mon Nov 23",
-      "pct": 6
+      "pct": 5
     },
     {
       "day": "Tue Nov 24",
-      "pct": 88
+      "pct": 87
     },
     {
       "day": "Wed Nov 25",
-      "pct": 6
+      "pct": 8
     }
   ],
   "bots": [
@@ -82,11 +82,11 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Wed Nov 25, 2026 · 4:58 AM ET",
-      "lastSort": "2026-11-25T04:58:17-05:00",
+      "lastEt": "Wed Nov 25, 2026 · 5:32 AM ET",
+      "lastSort": "2026-11-25T05:32:08-05:00",
       "work": "Command center refresh",
       "needs": "—",
-      "share": 36,
+      "share": 35,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -205,7 +205,7 @@
       "lastSort": "2026-11-18T05:25:00-05:00",
       "work": "Week 1 Day 3 chest + abs card sent",
       "needs": "—",
-      "share": 7,
+      "share": 8,
       "routines": [
         "5:30 AM workout check-in",
         "Post-workout log check"
