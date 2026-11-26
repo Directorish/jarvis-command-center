@@ -1,6 +1,6 @@
 {
-  "syncedAt": "2026-11-26T07:32:52-05:00",
-  "syncedAtEt": "Thu Nov 26, 2026 · 7:32 AM ET",
+  "syncedAt": "2026-11-26T07:57:04-05:00",
+  "syncedAtEt": "Thu Nov 26, 2026 · 7:57 AM ET",
   "kpis": {
     "weeklyUsedPct": 4,
     "resetEt": "Mon Nov 30 · 6:33 PM ET",
@@ -35,7 +35,7 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 32
+      "share": 33
     },
     {
       "name": "Móvè",
@@ -43,7 +43,7 @@
     },
     {
       "name": "ERICH",
-      "share": 15
+      "share": 14
     },
     {
       "name": "MILO",
@@ -69,7 +69,7 @@
     },
     {
       "day": "Tue Nov 24",
-      "pct": 53
+      "pct": 51
     },
     {
       "day": "Wed Nov 25",
@@ -77,7 +77,7 @@
     },
     {
       "day": "Thu Nov 26",
-      "pct": 13
+      "pct": 15
     }
   ],
   "bots": [
@@ -86,11 +86,11 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Thu Nov 26, 2026 · 7:32 AM ET",
-      "lastSort": "2026-11-26T07:32:52-05:00",
+      "lastEt": "Thu Nov 26, 2026 · 7:57 AM ET",
+      "lastSort": "2026-11-26T07:57:04-05:00",
       "work": "Command center refresh",
       "needs": "—",
-      "share": 32,
+      "share": 33,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -240,7 +240,7 @@
       "lastSort": "2026-11-14T12:12:09-05:00",
       "work": "Flagged a new credit-file alert and asked for a look at the details",
       "needs": "Review the credit-file alert",
-      "share": 15,
+      "share": 14,
       "routines": [
         "Daily finance debrief",
         "Charge watch"
