@@ -1,6 +1,6 @@
 {
-  "syncedAt": "2026-11-26T10:57:16-05:00",
-  "syncedAtEt": "Thu Nov 26, 2026 · 10:57 AM ET",
+  "syncedAt": "2026-11-26T11:34:53-05:00",
+  "syncedAtEt": "Thu Nov 26, 2026 · 11:34 AM ET",
   "kpis": {
     "weeklyUsedPct": 4.4,
     "resetEt": "Mon Nov 30 · 6:33 PM ET",
@@ -47,15 +47,15 @@
     },
     {
       "name": "MILO",
-      "share": 12
+      "share": 11
+    },
+    {
+      "name": "Salem",
+      "share": 9
     },
     {
       "name": "JasonX",
       "share": 9
-    },
-    {
-      "name": "Salem",
-      "share": 8
     },
     {
       "name": "Rick",
@@ -69,11 +69,11 @@
     },
     {
       "day": "Tue Nov 24",
-      "pct": 49
+      "pct": 48
     },
     {
       "day": "Wed Nov 25",
-      "pct": 28
+      "pct": 29
     },
     {
       "day": "Thu Nov 26",
@@ -86,8 +86,8 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Thu Nov 26, 2026 · 10:57 AM ET",
-      "lastSort": "2026-11-26T10:57:16-05:00",
+      "lastEt": "Thu Nov 26, 2026 · 11:34 AM ET",
+      "lastSort": "2026-11-26T11:34:53-05:00",
       "work": "Command center refresh",
       "needs": "—",
       "share": 35,
@@ -178,7 +178,7 @@
       "lastSort": "2026-11-14T21:07:58-05:00",
       "work": "Saturday nightly check-in sent; streaks awaiting reply",
       "needs": "Reply to nightly check-in",
-      "share": 12,
+      "share": 11,
       "routines": [
         "Morning life brief",
         "Nightly check-in"
@@ -194,7 +194,7 @@
       "lastSort": 1020,
       "work": "No readable chat since Oct 20; morning warehouse listings still consuming usage",
       "needs": "—",
-      "share": 8,
+      "share": 9,
       "routines": [
         "Morning warehouse listings (~55/wk)"
       ],
