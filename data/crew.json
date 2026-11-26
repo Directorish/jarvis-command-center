@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-26T05:33:06-05:00",
-  "syncedAtEt": "Thu Nov 26, 2026 · 5:33 AM ET",
+  "syncedAt": "2026-11-26T05:56:02-05:00",
+  "syncedAtEt": "Thu Nov 26, 2026 · 5:56 AM ET",
   "kpis": {
-    "weeklyUsedPct": 3.7,
+    "weeklyUsedPct": 3.8,
     "resetEt": "Mon Nov 30 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -39,7 +39,7 @@
     },
     {
       "name": "Móvè",
-      "share": 16
+      "share": 17
     },
     {
       "name": "ERICH",
@@ -47,7 +47,7 @@
     },
     {
       "name": "MILO",
-      "share": 12
+      "share": 11
     },
     {
       "name": "JasonX",
@@ -73,11 +73,11 @@
     },
     {
       "day": "Wed Nov 25",
-      "pct": 33
+      "pct": 32
     },
     {
       "day": "Thu Nov 26",
-      "pct": 8
+      "pct": 9
     }
   ],
   "bots": [
@@ -86,8 +86,8 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Thu Nov 26, 2026 · 5:33 AM ET",
-      "lastSort": "2026-11-26T05:33:06-05:00",
+      "lastEt": "Thu Nov 26, 2026 · 5:56 AM ET",
+      "lastSort": "2026-11-26T05:56:02-05:00",
       "work": "Command center refresh",
       "needs": "—",
       "share": 34,
@@ -163,7 +163,7 @@
       "lastSort": 1814,
       "work": "Work email debrief; new website quotes; booking follow-ups",
       "needs": "Draft approvals for pending client replies",
-      "share": 16,
+      "share": 17,
       "routines": [
         "Client/business/capital email debrief (~25/wk)"
       ],
@@ -178,7 +178,7 @@
       "lastSort": "2026-11-14T21:07:58-05:00",
       "work": "Saturday nightly check-in sent; streaks awaiting reply",
       "needs": "Reply to nightly check-in",
-      "share": 12,
+      "share": 11,
       "routines": [
         "Morning life brief",
         "Nightly check-in"
