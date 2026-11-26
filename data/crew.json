@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-25T21:05:01-05:00",
-  "syncedAtEt": "Wed Nov 25, 2026 · 9:05 PM ET",
+  "syncedAt": "2026-11-25T21:31:54-05:00",
+  "syncedAtEt": "Wed Nov 25, 2026 · 9:31 PM ET",
   "kpis": {
-    "weeklyUsedPct": 3.5,
+    "weeklyUsedPct": 3.6,
     "resetEt": "Mon Nov 30 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,7 +35,7 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 35
+      "share": 34
     },
     {
       "name": "Móvè",
@@ -43,11 +43,11 @@
     },
     {
       "name": "ERICH",
-      "share": 17
+      "share": 16
     },
     {
       "name": "MILO",
-      "share": 10
+      "share": 12
     },
     {
       "name": "Salem",
@@ -69,15 +69,15 @@
     },
     {
       "day": "Tue Nov 24",
-      "pct": 60
+      "pct": 59
     },
     {
       "day": "Wed Nov 25",
-      "pct": 35
+      "pct": 34
     },
     {
       "day": "Thu Nov 26",
-      "pct": 1
+      "pct": 3
     }
   ],
   "bots": [
@@ -86,11 +86,11 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Wed Nov 25, 2026 · 9:05 PM ET",
-      "lastSort": "2026-11-25T21:05:01-05:00",
+      "lastEt": "Wed Nov 25, 2026 · 9:31 PM ET",
+      "lastSort": "2026-11-25T21:31:54-05:00",
       "work": "Command center refresh",
       "needs": "—",
-      "share": 35,
+      "share": 34,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -178,7 +178,7 @@
       "lastSort": "2026-11-14T21:07:58-05:00",
       "work": "Saturday nightly check-in sent; streaks awaiting reply",
       "needs": "Reply to nightly check-in",
-      "share": 10,
+      "share": 12,
       "routines": [
         "Morning life brief",
         "Nightly check-in"
@@ -240,7 +240,7 @@
       "lastSort": "2026-11-14T12:12:09-05:00",
       "work": "Flagged a new credit-file alert and asked for a look at the details",
       "needs": "Review the credit-file alert",
-      "share": 17,
+      "share": 16,
       "routines": [
         "Daily finance debrief",
         "Charge watch"
