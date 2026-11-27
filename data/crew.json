@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-27T07:57:26-05:00",
-  "syncedAtEt": "Fri Nov 27, 2026 · 7:57 AM ET",
+  "syncedAt": "2026-11-27T08:27:05-05:00",
+  "syncedAtEt": "Fri Nov 27, 2026 · 8:27 AM ET",
   "kpis": {
-    "weeklyUsedPct": 5.4,
+    "weeklyUsedPct": 5.6,
     "resetEt": "Mon Nov 30 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -43,7 +43,7 @@
     },
     {
       "name": "ERICH",
-      "share": 12
+      "share": 13
     },
     {
       "name": "MILO",
@@ -63,7 +63,7 @@
     },
     {
       "name": "Myers",
-      "share": 3
+      "share": 2
     }
   ],
   "dayShare": [
@@ -77,15 +77,15 @@
     },
     {
       "day": "Wed Nov 25",
-      "pct": 24
+      "pct": 23
     },
     {
       "day": "Thu Nov 26",
-      "pct": 26
+      "pct": 25
     },
     {
       "day": "Fri Nov 27",
-      "pct": 11
+      "pct": 13
     }
   ],
   "bots": [
@@ -94,8 +94,8 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Fri Nov 27, 2026 · 7:57 AM ET",
-      "lastSort": "2026-11-27T07:57:26-05:00",
+      "lastEt": "Fri Nov 27, 2026 · 8:27 AM ET",
+      "lastSort": "2026-11-27T08:27:05-05:00",
       "work": "Command center refresh",
       "needs": "—",
       "share": 33,
@@ -248,7 +248,7 @@
       "lastSort": "2026-11-14T12:12:09-05:00",
       "work": "Flagged a new credit-file alert and asked for a look at the details",
       "needs": "Review the credit-file alert",
-      "share": 12,
+      "share": 13,
       "routines": [
         "Daily finance debrief",
         "Charge watch"
@@ -264,7 +264,7 @@
       "lastSort": 937,
       "work": "Last readable: movie recommendation card",
       "needs": "—",
-      "share": 3,
+      "share": 2,
       "routines": [],
       "group": "other"
     },
