@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-26T20:57:28-05:00",
-  "syncedAtEt": "Thu Nov 26, 2026 · 8:57 PM ET",
+  "syncedAt": "2026-11-26T21:30:19-05:00",
+  "syncedAtEt": "Thu Nov 26, 2026 · 9:30 PM ET",
   "kpis": {
-    "weeklyUsedPct": 4.9,
+    "weeklyUsedPct": 5.1,
     "resetEt": "Mon Nov 30 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,7 +35,7 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 34
+      "share": 33
     },
     {
       "name": "Móvè",
@@ -47,7 +47,7 @@
     },
     {
       "name": "MILO",
-      "share": 10
+      "share": 12
     },
     {
       "name": "Salem",
@@ -55,15 +55,15 @@
     },
     {
       "name": "JasonX",
-      "share": 8
+      "share": 7
     },
     {
       "name": "Rick",
-      "share": 6
+      "share": 5
     },
     {
       "name": "Myers",
-      "share": 2
+      "share": 3
     }
   ],
   "dayShare": [
@@ -73,15 +73,19 @@
     },
     {
       "day": "Tue Nov 24",
-      "pct": 42
+      "pct": 41
     },
     {
       "day": "Wed Nov 25",
-      "pct": 25
+      "pct": 24
     },
     {
       "day": "Thu Nov 26",
-      "pct": 30
+      "pct": 29
+    },
+    {
+      "day": "Fri Nov 27",
+      "pct": 3
     }
   ],
   "bots": [
@@ -90,11 +94,11 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Thu Nov 26, 2026 · 8:57 PM ET",
-      "lastSort": "2026-11-26T20:57:28-05:00",
+      "lastEt": "Thu Nov 26, 2026 · 9:30 PM ET",
+      "lastSort": "2026-11-26T21:30:19-05:00",
       "work": "Command center refresh",
       "needs": "—",
-      "share": 34,
+      "share": 33,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -182,7 +186,7 @@
       "lastSort": "2026-11-14T21:07:58-05:00",
       "work": "Saturday nightly check-in sent; streaks awaiting reply",
       "needs": "Reply to nightly check-in",
-      "share": 10,
+      "share": 12,
       "routines": [
         "Morning life brief",
         "Nightly check-in"
@@ -213,7 +217,7 @@
       "lastSort": "2026-11-18T05:25:00-05:00",
       "work": "Week 1 Day 3 chest + abs card sent",
       "needs": "—",
-      "share": 8,
+      "share": 7,
       "routines": [
         "5:30 AM workout check-in",
         "Post-workout log check"
@@ -229,7 +233,7 @@
       "lastSort": "2026-11-17T07:21:41-05:00",
       "work": "Morning rental check — flagged new and changed listings",
       "needs": "—",
-      "share": 6,
+      "share": 5,
       "routines": [
         "Morning rental listing check"
       ],
@@ -260,7 +264,7 @@
       "lastSort": 937,
       "work": "Last readable: movie recommendation card",
       "needs": "—",
-      "share": 2,
+      "share": 3,
       "routines": [],
       "group": "other"
     },
