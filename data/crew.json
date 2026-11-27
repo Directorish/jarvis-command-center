@@ -1,6 +1,6 @@
 {
-  "syncedAt": "2026-11-27T11:58:20-05:00",
-  "syncedAtEt": "Fri Nov 27, 2026 · 11:58 AM ET",
+  "syncedAt": "2026-11-27T12:25:21-05:00",
+  "syncedAtEt": "Fri Nov 27, 2026 · 12:25 PM ET",
   "kpis": {
     "weeklyUsedPct": 5.9,
     "resetEt": "Mon Nov 30 · 6:33 PM ET",
@@ -43,11 +43,11 @@
     },
     {
       "name": "ERICH",
-      "share": 12
+      "share": 13
     },
     {
       "name": "MILO",
-      "share": 12
+      "share": 11
     },
     {
       "name": "Salem",
@@ -73,7 +73,7 @@
     },
     {
       "day": "Tue Nov 24",
-      "pct": 35
+      "pct": 34
     },
     {
       "day": "Wed Nov 25",
@@ -81,7 +81,7 @@
     },
     {
       "day": "Thu Nov 26",
-      "pct": 23
+      "pct": 24
     },
     {
       "day": "Fri Nov 27",
@@ -94,8 +94,8 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Fri Nov 27, 2026 · 11:58 AM ET",
-      "lastSort": "2026-11-27T11:58:20-05:00",
+      "lastEt": "Fri Nov 27, 2026 · 12:25 PM ET",
+      "lastSort": "2026-11-27T12:25:21-05:00",
       "work": "Command center refresh",
       "needs": "—",
       "share": 34,
@@ -186,7 +186,7 @@
       "lastSort": "2026-11-14T21:07:58-05:00",
       "work": "Saturday nightly check-in sent; streaks awaiting reply",
       "needs": "Reply to nightly check-in",
-      "share": 12,
+      "share": 11,
       "routines": [
         "Morning life brief",
         "Nightly check-in"
@@ -248,7 +248,7 @@
       "lastSort": "2026-11-14T12:12:09-05:00",
       "work": "Flagged a new credit-file alert and asked for a look at the details",
       "needs": "Review the credit-file alert",
-      "share": 12,
+      "share": 13,
       "routines": [
         "Daily finance debrief",
         "Charge watch"
