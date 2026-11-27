@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-27T04:55:17-05:00",
-  "syncedAtEt": "Fri Nov 27, 2026 · 4:55 AM ET",
+  "syncedAt": "2026-11-27T05:27:37-05:00",
+  "syncedAtEt": "Fri Nov 27, 2026 · 5:27 AM ET",
   "kpis": {
-    "weeklyUsedPct": 5.1,
+    "weeklyUsedPct": 5.2,
     "resetEt": "Mon Nov 30 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,11 +35,11 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 34
+      "share": 33
     },
     {
       "name": "Móvè",
-      "share": 16
+      "share": 15
     },
     {
       "name": "ERICH",
@@ -55,7 +55,7 @@
     },
     {
       "name": "JasonX",
-      "share": 7
+      "share": 9
     },
     {
       "name": "Rick",
@@ -69,7 +69,7 @@
   "dayShare": [
     {
       "day": "Mon Nov 23",
-      "pct": 3
+      "pct": 2
     },
     {
       "day": "Tue Nov 24",
@@ -81,11 +81,11 @@
     },
     {
       "day": "Thu Nov 26",
-      "pct": 29
+      "pct": 28
     },
     {
       "day": "Fri Nov 27",
-      "pct": 4
+      "pct": 6
     }
   ],
   "bots": [
@@ -94,11 +94,11 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Fri Nov 27, 2026 · 4:55 AM ET",
-      "lastSort": "2026-11-27T04:55:17-05:00",
+      "lastEt": "Fri Nov 27, 2026 · 5:27 AM ET",
+      "lastSort": "2026-11-27T05:27:37-05:00",
       "work": "Command center refresh",
       "needs": "—",
-      "share": 34,
+      "share": 33,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -171,7 +171,7 @@
       "lastSort": 1814,
       "work": "Work email debrief; new website quotes; booking follow-ups",
       "needs": "Draft approvals for pending client replies",
-      "share": 16,
+      "share": 15,
       "routines": [
         "Client/business/capital email debrief (~25/wk)"
       ],
@@ -217,7 +217,7 @@
       "lastSort": "2026-11-18T05:25:00-05:00",
       "work": "Week 1 Day 3 chest + abs card sent",
       "needs": "—",
-      "share": 7,
+      "share": 9,
       "routines": [
         "5:30 AM workout check-in",
         "Post-workout log check"
