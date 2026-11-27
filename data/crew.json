@@ -1,6 +1,6 @@
 {
-  "syncedAt": "2026-11-27T14:59:19-05:00",
-  "syncedAtEt": "Fri Nov 27, 2026 · 2:59 PM ET",
+  "syncedAt": "2026-11-27T15:34:29-05:00",
+  "syncedAtEt": "Fri Nov 27, 2026 · 3:34 PM ET",
   "kpis": {
     "weeklyUsedPct": 6.1,
     "resetEt": "Mon Nov 30 · 6:33 PM ET",
@@ -43,7 +43,7 @@
     },
     {
       "name": "ERICH",
-      "share": 13
+      "share": 12
     },
     {
       "name": "MILO",
@@ -51,7 +51,7 @@
     },
     {
       "name": "Salem",
-      "share": 10
+      "share": 11
     },
     {
       "name": "JasonX",
@@ -77,11 +77,11 @@
     },
     {
       "day": "Wed Nov 25",
-      "pct": 20
+      "pct": 21
     },
     {
       "day": "Thu Nov 26",
-      "pct": 24
+      "pct": 23
     },
     {
       "day": "Fri Nov 27",
@@ -94,8 +94,8 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Fri Nov 27, 2026 · 2:59 PM ET",
-      "lastSort": "2026-11-27T14:59:19-05:00",
+      "lastEt": "Fri Nov 27, 2026 · 3:34 PM ET",
+      "lastSort": "2026-11-27T15:34:29-05:00",
       "work": "Command center refresh",
       "needs": "—",
       "share": 34,
@@ -202,7 +202,7 @@
       "lastSort": 1020,
       "work": "No readable chat since Oct 20; morning warehouse listings still consuming usage",
       "needs": "—",
-      "share": 10,
+      "share": 11,
       "routines": [
         "Morning warehouse listings (~55/wk)"
       ],
@@ -248,7 +248,7 @@
       "lastSort": "2026-11-14T12:12:09-05:00",
       "work": "Flagged a new credit-file alert and asked for a look at the details",
       "needs": "Review the credit-file alert",
-      "share": 13,
+      "share": 12,
       "routines": [
         "Daily finance debrief",
         "Charge watch"
