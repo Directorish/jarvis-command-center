@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-28T06:56:49-05:00",
-  "syncedAtEt": "Sat Nov 28, 2026 · 6:56 AM ET",
+  "syncedAt": "2026-11-28T07:27:44-05:00",
+  "syncedAtEt": "Sat Nov 28, 2026 · 7:27 AM ET",
   "kpis": {
-    "weeklyUsedPct": 6.4,
+    "weeklyUsedPct": 6.5,
     "resetEt": "Mon Nov 30 · 6:33 PM ET",
     "active": 7,
     "blocked": 2,
@@ -35,7 +35,7 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 35
+      "share": 34
     },
     {
       "name": "Móvè",
@@ -43,11 +43,11 @@
     },
     {
       "name": "MILO",
-      "share": 12
+      "share": 13
     },
     {
       "name": "ERICH",
-      "share": 12
+      "share": 11
     },
     {
       "name": "Salem",
@@ -59,7 +59,7 @@
     },
     {
       "name": "Rick",
-      "share": 6
+      "share": 7
     },
     {
       "name": "Myers",
@@ -73,7 +73,7 @@
     },
     {
       "day": "Tue Nov 24",
-      "pct": 32
+      "pct": 31
     },
     {
       "day": "Wed Nov 25",
@@ -81,15 +81,15 @@
     },
     {
       "day": "Thu Nov 26",
-      "pct": 23
+      "pct": 22
     },
     {
       "day": "Fri Nov 27",
-      "pct": 20
+      "pct": 18
     },
     {
       "day": "Sat Nov 28",
-      "pct": 3
+      "pct": 7
     }
   ],
   "bots": [
@@ -98,11 +98,11 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Sat Nov 28, 2026 · 6:56 AM ET",
-      "lastSort": "2026-11-28T06:56:49-05:00",
+      "lastEt": "Sat Nov 28, 2026 · 7:27 AM ET",
+      "lastSort": "2026-11-28T07:27:44-05:00",
       "work": "Command center refresh",
       "needs": "—",
-      "share": 35,
+      "share": 34,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -190,7 +190,7 @@
       "lastSort": "2026-11-14T21:07:58-05:00",
       "work": "Saturday nightly check-in sent; streaks awaiting reply",
       "needs": "Reply to nightly check-in",
-      "share": 12,
+      "share": 13,
       "routines": [
         "Morning life brief",
         "Nightly check-in"
@@ -237,7 +237,7 @@
       "lastSort": "2026-11-17T07:21:41-05:00",
       "work": "Morning rental check — flagged new and changed listings",
       "needs": "—",
-      "share": 6,
+      "share": 7,
       "routines": [
         "Morning rental listing check"
       ],
@@ -252,7 +252,7 @@
       "lastSort": "2026-11-14T12:12:09-05:00",
       "work": "Flagged a new credit-file alert and asked for a look at the details",
       "needs": "Review the credit-file alert",
-      "share": 12,
+      "share": 11,
       "routines": [
         "Daily finance debrief",
         "Charge watch"
