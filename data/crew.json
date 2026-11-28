@@ -1,6 +1,6 @@
 {
-  "syncedAt": "2026-11-28T12:56:09-05:00",
-  "syncedAtEt": "Sat Nov 28, 2026 · 12:56 PM ET",
+  "syncedAt": "2026-11-28T13:26:30-05:00",
+  "syncedAtEt": "Sat Nov 28, 2026 · 1:26 PM ET",
   "kpis": {
     "weeklyUsedPct": 6.9,
     "resetEt": "Mon Nov 30 · 6:33 PM ET",
@@ -35,7 +35,7 @@
   "usageTop": [
     {
       "name": "J.A.R.V.I.S",
-      "share": 36
+      "share": 37
     },
     {
       "name": "Móvè",
@@ -51,7 +51,7 @@
     },
     {
       "name": "Salem",
-      "share": 10
+      "share": 9
     },
     {
       "name": "JasonX",
@@ -73,7 +73,7 @@
     },
     {
       "day": "Tue Nov 24",
-      "pct": 30
+      "pct": 29
     },
     {
       "day": "Wed Nov 25",
@@ -89,7 +89,7 @@
     },
     {
       "day": "Sat Nov 28",
-      "pct": 11
+      "pct": 12
     }
   ],
   "bots": [
@@ -98,11 +98,11 @@
       "name": "J.A.R.V.I.S · C.E.O",
       "role": "Chief Executive Officer",
       "status": "active",
-      "lastEt": "Sat Nov 28, 2026 · 12:56 PM ET",
-      "lastSort": "2026-11-28T12:56:09-05:00",
+      "lastEt": "Sat Nov 28, 2026 · 1:26 PM ET",
+      "lastSort": "2026-11-28T13:26:30-05:00",
       "work": "Command center refresh",
       "needs": "—",
-      "share": 36,
+      "share": 37,
       "routines": [
         "Apartment watch (~336/wk)",
         "Command center refresh (~336/wk)",
@@ -206,7 +206,7 @@
       "lastSort": 1020,
       "work": "No readable chat since Oct 20; morning warehouse listings still consuming usage",
       "needs": "—",
-      "share": 10,
+      "share": 9,
       "routines": [
         "Morning warehouse listings (~55/wk)"
       ],
